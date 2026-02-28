@@ -61,40 +61,14 @@ dns:
 proxies:
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "130.61.50.75"
-    port: 6443
-    password: "zhangyang"
-    sni: "130.61.50.75"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "206.71.158.37"
-    port: 36600
-    password: "Yet-Another-Public-Config-1"
-    sni: "YAPC-1.afshin.ir"
+    server: "181.214.99.162"
+    port: 35000
+    password: "b4bd0613-ff7c-4f2f-954d-185915e6ddad"
+    sni: "api.kermanshahi.org"
     skip-cert-verify: true
     udp: true
     obfs: "salamander"
-    obfs-password: "Yet-Another-Public-Config-1"
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "yapc-1.adamhayward.co.uk"
-    port: 36600
-    password: "Yet-Another-Public-Config-1"
-    sni: "YAPC-1.afshin.ir"
-    skip-cert-verify: true
-    udp: true
-    obfs: "salamander"
-    obfs-password: "Yet-Another-Public-Config-1"
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "38.224.132.101"
-    port: 29810
-    password: "kOBLfeljn9TgUArD"
-    sni: "38.224.132.101"
-    skip-cert-verify: true
-    udp: true
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
     server: "206.71.158.37"
@@ -107,22 +81,6 @@ proxies:
     obfs-password: "Yet-Another-Public-Config-1"
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "91.132.51.160"
-    port: 844
-    password: "5046SHWqk6"
-    sni: "91.132.51.160"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "107.172.231.70"
-    port: 55454
-    password: "ItX6A8wkdgdkVHwh"
-    sni: "107.172.231.70"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
     server: "206.71.158.37"
     port: 35000
     password: "Yet-Another-Public-Config-1"
@@ -131,6 +89,34 @@ proxies:
     udp: true
     obfs: "salamander"
     obfs-password: "Yet-Another-Public-Config-1"
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "206.71.158.37"
+    port: 35200
+    password: "Yet-Another-Public-Config-1"
+    sni: "YAPC-1.afshin.ir"
+    skip-cert-verify: true
+    udp: true
+    obfs: "salamander"
+    obfs-password: "Yet-Another-Public-Config-1"
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "yapc-1.adamhayward.co.uk"
+    port: 35200
+    password: "Yet-Another-Public-Config-1"
+    sni: "YAPC-1.afshin.ir"
+    skip-cert-verify: true
+    udp: true
+    obfs: "salamander"
+    obfs-password: "Yet-Another-Public-Config-1"
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "130.61.50.75"
+    port: 6443
+    password: "zhangyang"
+    sni: "130.61.50.75"
+    skip-cert-verify: true
+    udp: true
 
 proxy-groups:
   # ── Top-level selector ────────────────────────────────────────────────────
@@ -179,8 +165,6 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
 
   - name: "LB-CDN"
     type: load-balance
@@ -190,8 +174,6 @@ proxy-groups:
     tolerance: 150
     lazy: true
     proxies:
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
@@ -213,8 +195,6 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
 
   - name: "FAST-CDN"
     type: url-test
@@ -223,8 +203,6 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
@@ -246,15 +224,11 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
 
   # ── Manual selector ───────────────────────────────────────────────────────
   - name: "MANUAL"
     type: select
     proxies:
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
