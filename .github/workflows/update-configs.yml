@@ -3,7 +3,7 @@ permissions: write-all
 
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -26,7 +26,7 @@ jobs:
 
     - name: Download sing-box
       run: |
-        SINGBOX_VERSION=$(curl -s https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name"' | cut -d'"' -f4 | tr -d 'v')
+        SINGBOX_VERSION="1.12.22"
         echo "Downloading sing-box v${SINGBOX_VERSION}"
         wget -q "https://github.com/SagerNet/sing-box/releases/download/v${SINGBOX_VERSION}/sing-box-${SINGBOX_VERSION}-linux-amd64.tar.gz"
         tar -xzf "sing-box-${SINGBOX_VERSION}-linux-amd64.tar.gz"
