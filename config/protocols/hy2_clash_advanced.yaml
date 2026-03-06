@@ -61,57 +61,17 @@ dns:
 proxies:
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "www.ssrenjiushiwo3033.xyz"
-    port: 19557
-    password: "4b3adac3-f886-4b56-b0e3-10faee7440db"
-    sni: "www.ssrenjiushiwo3033.xyz"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
     server: "jp.sanmaojichang.com"
-    port: 21877
-    password: "8338e9d1-5878-467e-b6ec-a8370a3218ed"
-    sni: "jp.sanmaojichang.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "107.174.181.241"
-    port: 65160
-    password: "0b8a288c"
-    sni: "en.snu.ac.kr"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "jp.sanmaojichang.com"
-    port: 21059
-    password: "aa509a7e-18da-4461-a48c-2a39441c58d2"
-    sni: "jp.sanmaojichang.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "jp.sanmaojichang.com"
-    port: 21188
+    port: 21909
     password: "a787462d-1184-460d-86af-b87ecc919383"
     sni: "jp.sanmaojichang.com"
     skip-cert-verify: true
     udp: true
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "130.61.50.75"
-    port: 6443
-    password: "zhangyang"
-    sni: "130.61.50.75"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
     server: "jp.sanmaojichang.com"
-    port: 21333
-    password: "8c4dbd29-c793-4ed9-abb6-9fd96535f0b8"
+    port: 21219
+    password: "a787462d-1184-460d-86af-b87ecc919383"
     sni: "jp.sanmaojichang.com"
     skip-cert-verify: true
     udp: true
@@ -126,35 +86,27 @@ proxies:
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
     server: "jp.sanmaojichang.com"
-    port: 21354
+    port: 21405
     password: "8338e9d1-5878-467e-b6ec-a8370a3218ed"
     sni: "jp.sanmaojichang.com"
     skip-cert-verify: true
     udp: true
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "jp.sanmaojichang.com"
-    port: 21416
-    password: "aa509a7e-18da-4461-a48c-2a39441c58d2"
-    sni: "jp.sanmaojichang.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "yapc-1.adamhayward.co.uk"
-    port: 36300
-    password: "Yet-Another-Public-Config-1"
-    sni: "YAPC-1.afshin.ir"
+    server: "206.71.158.40"
+    port: 35000
+    password: "b4bd0613-ff7c-4f2f-954d-185915e6ddad"
+    sni: "api.kermanshahi.org"
     skip-cert-verify: true
     udp: true
     obfs: "salamander"
-    obfs-password: "Yet-Another-Public-Config-1"
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "jp.sanmaojichang.com"
-    port: 21395
-    password: "a787462d-1184-460d-86af-b87ecc919383"
-    sni: "jp.sanmaojichang.com"
+    server: "9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com"
+    port: 443
+    password: "e8a960d8-14f5-11ec-a0fc-f23c913c8d2b"
+    sni: "9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com"
     skip-cert-verify: true
     udp: true
   - name: "@DeltaKroneckerGithub"
@@ -167,10 +119,92 @@ proxies:
     udp: true
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "107.175.220.71"
-    port: 8443
-    password: "nfeIIOqUAjDo0mUL"
-    sni: "bing.com"
+    server: "jp.sanmaojichang.com"
+    port: 21273
+    password: "8338e9d1-5878-467e-b6ec-a8370a3218ed"
+    sni: "jp.sanmaojichang.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "jp.sanmaojichang.com"
+    port: 21188
+    password: "a787462d-1184-460d-86af-b87ecc919383"
+    sni: "jp.sanmaojichang.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "jp.sanmaojichang.com"
+    port: 21138
+    password: "a787462d-1184-460d-86af-b87ecc919383"
+    sni: "jp.sanmaojichang.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "jp.xn--ehqa22b.site"
+    port: 21869
+    password: "dc2cb9a3-1997-481e-a05e-1281b86661e3"
+    sni: "jp.xn--ehqa22b.site"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "jp.sanmaojichang.com"
+    port: 21558
+    password: "aa509a7e-18da-4461-a48c-2a39441c58d2"
+    sni: "jp.sanmaojichang.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "jp.sanmaojichang.com"
+    port: 21552
+    password: "aa509a7e-18da-4461-a48c-2a39441c58d2"
+    sni: "jp.sanmaojichang.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "950c68df-t6t0g0-t85ssw-1bonh.hk1.hyhuawei.com"
+    port: 443
+    password: "e8a960d8-14f5-11ec-a0fc-f23c913c8d2b"
+    sni: "950c68df-t6t0g0-t85ssw-1bonh.hk1.hyhuawei.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "206.71.158.41"
+    port: 35000
+    password: "b4bd0613-ff7c-4f2f-954d-185915e6ddad"
+    sni: "api.kermanshahi.org"
+    skip-cert-verify: true
+    udp: true
+    obfs: "salamander"
+    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "107.174.181.241"
+    port: 65160
+    password: "0b8a288c"
+    sni: "en.snu.ac.kr"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "jp.sanmaojichang.com"
+    port: 21411
+    password: "a787462d-1184-460d-86af-b87ecc919383"
+    sni: "jp.sanmaojichang.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "jp.sanmaojichang.com"
+    port: 21990
+    password: "8338e9d1-5878-467e-b6ec-a8370a3218ed"
+    sni: "jp.sanmaojichang.com"
     skip-cert-verify: true
     udp: true
 
@@ -229,6 +263,10 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
 
   - name: "LB-CDN"
     type: load-balance
@@ -238,6 +276,10 @@ proxy-groups:
     tolerance: 150
     lazy: true
     proxies:
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
@@ -275,6 +317,10 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
 
   - name: "FAST-CDN"
     type: url-test
@@ -283,6 +329,10 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
@@ -320,11 +370,19 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
 
   # ── Manual selector ───────────────────────────────────────────────────────
   - name: "MANUAL"
     type: select
     proxies:
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
