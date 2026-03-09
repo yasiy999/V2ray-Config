@@ -61,70 +61,23 @@ dns:
 proxies:
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "104.21.56.251"
-    port: 443
-    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "kklo.1xq.indevs.in"
+    server: "www.shopify.com"
+    port: 2053
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
+      path: "/"
       headers:
-        Host: "kklo.1xq.indevs.in"
+        Host: "cm22-bgphhh.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "cvg67.0yo.ccwu.cc"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "cvg67.0yo.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "cvg67.0yo.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "kkkkki.231.pp.ua"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "KkKkki.231.PP.Ua"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
-      headers:
-        Host: "KKKkKi.231.pp.Ua"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "vip1.kaixincloud.top"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/amd"
-      headers:
-        Host: "sweden.vmaxpanel.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "www.ssrenjiushiwo3033.xyz"
-    port: 42277
-    password: "4b3adac3-f886-4b56-b0e3-10faee7440db"
-    sni: "www.ssrenjiushiwo3033.xyz"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "bbbnmjki.932.pp.ua"
+    server: "jjjkkk.2030.pp.ua"
     port: 443
     password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "bbbnmjki.932.pp.ua"
+    sni: "jjjkkk.2030.pp.ua"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
@@ -132,59 +85,11 @@ proxies:
     ws-opts:
       path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
       headers:
-        Host: "bbbnmjki.932.pp.ua"
+        Host: "jjjkkk.2030.pp.ua"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "160.16.72.33"
-    port: 3419
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.217.34"
-    port: 443
-    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
-    sni: "ilop.uk2033.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/XCLcnSashhgSVE3HOw1VI85y"
-      headers:
-        Host: "ilop.uk2033.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.219.203"
-    port: 443
-    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "nmk9o.1yy.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
-      headers:
-        Host: "nmk9o.1yy.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ujjjmkkk.7777112.xyz"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "ujjjmkkk.7777112.xyz"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "ujjjmkkk.7777112.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "91.107.173.219"
-    port: 7070
+    server: "202.85.53.160"
+    port: 7000
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -197,16 +102,21 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "167.17.185.228"
-    port: 10889
-    password: "cTv.9PDdCt-wybBrG1qlxI5UJuaEj"
-    sni: "web.max"
+    server: "104.17.223.49"
+    port: 443
+    password: "humanity"
+    sni: "www.creationlong.org"
     skip-cert-verify: true
     udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "91.107.250.73"
-    port: 2052
+    server: "54.46.72.234"
+    port: 8025
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -219,71 +129,8 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "bpbcn.ktlhk.xyz"
-    port: 443
-    password: "bpb-trojan"
-    sni: "bpbcn.ktlhk.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tr?ed=2560"
-      headers:
-        Host: "bpbcn.ktlhk.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.54.51"
-    port: 443
-    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "bgt.1x2.indevs.in"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
-      headers:
-        Host: "bgt.1x2.indevs.in"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "188.114.97.3"
-    port: 443
-    password: "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
-    sni: "mfyousheng.nl.eu.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tjwsLhx0SFASG4l9FERJ1g"
-      headers:
-        Host: "mfyousheng.nl.eu.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "153.121.65.107"
-    port: 34818
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "amanm.wsone.icu"
-    port: 443
-    password: "M7v%w11Se*"
-    sni: "amanm.wsone.icu"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "us08.oportal.cc"
-    port: 443
-    password: "adb13850-7e70-492e-85b2-01184801d587"
-    sni: "us08.oportal.cc"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "38.180.48.182"
-    port: 8444
+    server: "217.142.250.195"
+    port: 587
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -294,42 +141,6 @@ proxies:
       path: "/"
       headers:
         Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "8443.golden-cards.me"
-    port: 443
-    password: "q2GRUM1-odJBWq_KV6xv2fuNvu8ed-"
-    sni: "8443.golden-cards.me"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "38.60.89.136"
-    port: 50000
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "dddfghyju.taipei102.indevs.in"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "dddfghyju.taipei102.indevs.in"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "dddfghyju.taipei102.indevs.in"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "bnju8y7.12i.ccwu.cc"
@@ -346,6 +157,1226 @@ proxies:
         Host: "bnju8y7.12i.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
+    server: "188.114.97.3"
+    port: 443
+    password: "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+    sni: "mfyousheng.nl.eu.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/tjwsLhx0SFASG4l9FERJ1g"
+      headers:
+        Host: "mfyousheng.nl.eu.org"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.12"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "38.83.41.89"
+    port: 28006
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "ct.877774.xyz"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.153.179"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "gggbnh7.www890604.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "gggbnh7.www890604.dpdns.org"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "38.83.41.89"
+    port: 28080
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "dcvgt6.0z0.ccwu.cc"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "dcvgt6.0z0.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "dcvgt6.0z0.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "154.12.53.125"
+    port: 54321
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.18.9.83"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.130.21"
+    port: 4019
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "57.131.20.243"
+    port: 2525
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "65.109.188.82"
+    port: 8989
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "128.199.252.180"
+    port: 443
+    password: "13c169be-8592-4eaa-94cb-69c859e7d987"
+    sni: "ubu.okaoclax.me"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/trojan-ws"
+      headers:
+        Host: "ubu.okaoclax.me"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.3"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.90.198"
+    port: 443
+    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
+    sni: "ghj.ok7.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/XCLcnSashhgSVE3HOw1VI85y"
+      headers:
+        Host: "ghj.ok7.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "78.159.131.12"
+    port: 28259
+    password: "MeaDiUmPlkWbZJ2BON8tz"
+    sni: "ads.x5.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "216.173.69.146"
+    port: 442
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.194.51"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "dcvgt6.0z0.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "dcvgt6.0z0.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.180.92"
+    port: 443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "153.121.65.107"
+    port: 4937
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "188.114.98.0"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.200.216"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.9"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.190.233"
+    port: 8443
+    password: "Nova-Proxy"
+    sni: "small-morning-2668.drusavm.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/?ed"
+      headers:
+        Host: "small-morning-2668.drusavm.workers.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.200.169"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "155.133.30.9"
+    port: 16000
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "38.180.48.182"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "38.180.104.27"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.5"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "211.106.184.129"
+    port: 11310
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "216.40.87.100"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "194.4.51.171"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "bbbnmjki.932.pp.ua"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "bbbnmjki.932.pp.ua"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "bbbnmjki.932.pp.ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "65.20.102.54"
+    port: 443
+    password: "842b5f9dd11e458d8613c907c4cc5723"
+    sni: "www.gpt123.one"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "www.creationlong.org"
+    port: 443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "38.95.73.40"
+    port: 587
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "45.82.245.138"
+    port: 443
+    password: "adb13850-7e70-492e-85b2-01184801d587"
+    sni: "br09.oportal.cc"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "166.88.130.226"
+    port: 443
+    password: "adb13850-7e70-492e-85b2-01184801d587"
+    sni: "ca05.oportal.cc"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "u8.ok8.ccwu.cc"
+    port: 443
+    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
+    sni: "u8.ok8.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/XCLcnSashhgSVE3HOw1VI85y"
+      headers:
+        Host: "u8.ok8.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.70.180"
+    port: 4674
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "hhhnmjki.932.pp.ua"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "hhhnmjki.932.pp.ua"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "hhhnmjki.932.pp.ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "vip2.kaixincloud.top"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/amd"
+      headers:
+        Host: "sweden.vmaxpanel.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.23.210"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "ggbnhj.932.pp.ua"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "ggbnhj.932.pp.ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "dcvwsde.1gg.ccwu.cc"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "dcvwsde.1gg.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "dcvwsde.1gg.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.219.157"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "vvvbnj.taipei102.indevs.in"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "vvvbnj.taipei102.indevs.in"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "nnnmjku.932.pp.ua"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "nnnmjku.932.pp.ua"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "nnnmjku.932.pp.ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.12"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "38.180.22.20"
+    port: 1001
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.229.44"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "220.93.106.4"
+    port: 11434
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "45.144.48.48"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "91.107.250.73"
+    port: 2052
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "ghj.ok7.ccwu.cc"
+    port: 443
+    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
+    sni: "ghj.ok7.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/XCLcnSashhgSVE3HOw1VI85y"
+      headers:
+        Host: "ghj.ok7.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "220.92.22.170"
+    port: 11000
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "58.152.18.189"
+    port: 443
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "121.168.144.41"
+    port: 10243
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "43.198.0.32"
+    port: 23456
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.50.233"
+    port: 443
+    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
+    sni: "YyYhHjKI.TAIPEi101.INdEVs.in"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
+      headers:
+        Host: "YyYhHjKI.TAIPEi101.INdEVs.in"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "141.101.113.223"
+    port: 8443
+    password: "Nova-Proxy"
+    sni: "small-morning-2668.drusavm.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/?ed"
+      headers:
+        Host: "small-morning-2668.drusavm.workers.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "2wsde.12i.ccwu.cc"
+    port: 443
+    password: "ae72f958-c1f6-4fc2-a310-1f007af3d11f"
+    sni: "2wsde.12i.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/QUFgFU6096Csfk0uFDF"
+      headers:
+        Host: "2wsde.12i.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.18.8.83"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.70.180"
+    port: 3057
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.8"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.70.180"
+    port: 4937
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.43.111"
+    port: 443
+    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
+    sni: "KkKkki.231.PP.Ua"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
+      headers:
+        Host: "KKKkKi.231.pp.Ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.229.217"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "221.146.116.77"
+    port: 10003
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.70.180"
+    port: 3419
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.161.17"
+    port: 443
+    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
+    sni: "ghj.ok7.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/XCLcnSashhgSVE3HOw1VI85y"
+      headers:
+        Host: "ghj.ok7.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.183.73"
+    port: 443
+    password: "d5604db8-1f31-403d-a315-d8bafc70f7d2"
+    sni: "nju.taipei104.indevs.in"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/mRjWgF9aMWcpQ8L96b"
+      headers:
+        Host: "nju.taipei104.indevs.in"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "58.152.18.2"
+    port: 443
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.176.134"
+    port: 443
+    password: "d5604db8-1f31-403d-a315-d8bafc70f7d2"
+    sni: "mkl.2oo.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/mRjWgF9aMWcpQ8L96b"
+      headers:
+        Host: "mkl.2oo.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "vip3.kaixincloud.top"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/amd"
+      headers:
+        Host: "sweden.vmaxpanel.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "65.109.190.2"
+    port: 442
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.107.76"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "130.185.122.34"
+    port: 2052
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "bbbnmju.932.pp.ua"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "bbbnmju.932.pp.ua"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "bbbnmju.932.pp.ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "167.17.185.152"
+    port: 10889
+    password: "cTv.9PDdCt-wybBrG1qlxI5UJuaEj"
+    sni: "ozon.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "91.107.151.136"
+    port: 888
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.176.102"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "ddffghy.0wu.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "ddffghy.0wu.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "91.107.249.251"
+    port: 6780
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.229.161"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.200.185"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.145.144"
+    port: 8443
+    password: "823cbccd-3a71-4248-ac3c-3c460de1552d"
+    sni: "snll100.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "snll100.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.229.195"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "8443.golden-cards.me"
+    port: 443
+    password: "q2GRUM1-odJBWq_KV6xv2fuNvu8ed-"
+    sni: "8443.golden-cards.me"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.200.83"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.73.85"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "fbnji.1sb.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "fbnji.1sb.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "144.21.48.237"
+    port: 30443
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.18.185.26"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/amd"
+      headers:
+        Host: "sweden.vmaxpanel.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.9"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.10"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "158.69.192.34"
+    port: 8989
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.6"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.72.33"
+    port: 4674
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "usa.visa.com"
+    port: 443
+    password: "zWFjJENcljZm"
+    sni: "vahidqaz-7o61u7.vahidqaz.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560"
+      headers:
+        Host: "vahidqaz-7o61u7.vahidqaz.workers.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "80.173.231.254"
+    port: 12420
+    password: "wp9IsiY82uQhcmgNC1eoBM"
+    sni: "www.semanticstaplegun.click"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
     server: "211.220.198.181"
     port: 29999
     password: "trojan"
@@ -360,8 +1391,8 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "60.248.139.106"
-    port: 32770
+    server: "212.23.200.10"
+    port: 8444
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -374,8 +1405,92 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "130.185.122.236"
-    port: 2052
+    server: "159.100.6.21"
+    port: 27017
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.11"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.18.3.150"
+    port: 443
+    password: "zWFjJENcljZm"
+    sni: "vahidqaz-7o61u7.vahidqaz.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560"
+      headers:
+        Host: "vahidqaz-7o61u7.vahidqaz.workers.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "nnmjku.932.pp.ua"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "nnmjku.932.pp.ua"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "nnmjku.932.pp.ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.142.8"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "fbnji.1sb.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "fbnji.1sb.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "195.66.25.251"
+    port: 443
+    password: "q2GRUM1-odJBWq_KV6xv2fuNvu8ed-"
+    sni: "8443.golden-cards.me"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "153.121.45.139"
+    port: 4674
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "85.203.26.26"
+    port: 587
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -402,20 +1517,554 @@ proxies:
         Host: "mkl.2oo.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "104.21.91.128"
+    server: "23.227.38.72"
+    port: 443
+    password: "13d29042-ab82-4195-9cd4-2bafc518e201"
+    sni: "yss2o9nzv7hsgw2z.sggogo202510.top"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/images"
+      headers:
+        Host: "yss2o9nzv7hsgw2z.sggogo202510.top"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.229.185"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.58.143"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "cvg67.0yo.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "cvg67.0yo.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "vvvbbbnhj.taipei102.indevs.in"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "vvvbbbnhj.taipei102.indevs.in"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "vvvbbbnhj.taipei102.indevs.in"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "mmjk.3oo.ccwu.cc"
+    port: 443
+    password: "d5604db8-1f31-403d-a315-d8bafc70f7d2"
+    sni: "mmjk.3oo.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/mRjWgF9aMWcpQ8L96b"
+      headers:
+        Host: "mmjk.3oo.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.223.27"
+    port: 443
+    password: "d5604db8-1f31-403d-a315-d8bafc70f7d2"
+    sni: "nnggf.66x.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/mRjWgF9aMWcpQ8L96b"
+      headers:
+        Host: "nnggf.66x.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.18.37.228"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "38.182.109.191"
+    port: 443
+    password: "adb13850-7e70-492e-85b2-01184801d587"
+    sni: "us08.oportal.cc"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "jp.111000.cc.cd"
+    port: 443
+    password: "6202b230-417c-4d8e-b624-0f71afa9c75d"
+    sni: "sni.111000.dynv6.net"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560&proxyip=ip.111000.de5.net:443"
+      headers:
+        Host: "sni.111000.dynv6.net"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "ca05.oportal.cc"
+    port: 443
+    password: "adb13850-7e70-492e-85b2-01184801d587"
+    sni: "ca05.oportal.cc"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.11"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "51.38.35.200"
+    port: 8080
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "www.multiplydose.com"
+    port: 443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.229.173"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "m9o0.1xq.indevs.in"
     port: 443
     password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "nmk9o.1yy.ccwu.cc"
+    sni: "m9o0.1xq.indevs.in"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/y1moM5CyNvYMZlzsYHmsMrnO"
       headers:
-        Host: "nmk9o.1yy.ccwu.cc"
+        Host: "m9o0.1xq.indevs.in"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "212.23.200.10"
+    server: "spring-tooth-7fa3.ahmadrj.workers.dev"
+    port: 443
+    password: "Nova-Proxy"
+    sni: "spring-tooth-7fa3.ahmadrj.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "random"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "223.222.74.163"
+    port: 10035
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "185.220.238.77"
+    port: 11543
+    password: "HutaoCloud"
+    sni: "jp1.hutaonode.top"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/api"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "91.245.225.69"
+    port: 8004
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.80.1"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "ggbnhj.932.pp.ua"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "ggbnhj.932.pp.ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "91.107.173.219"
+    port: 7070
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.146.43"
+    port: 443
+    password: "ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0"
+    sni: "blackshadow.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/195.123.218.174-443"
+      headers:
+        Host: "blackshadow.dpdns.org"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "207.127.89.90"
+    port: 12000
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "118.36.249.41"
+    port: 10332
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.250.22"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/amd"
+      headers:
+        Host: "sweden.vmaxpanel.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.73.251"
+    port: 443
+    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
+    sni: "nmki.1qq.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
+      headers:
+        Host: "nmki.1qq.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "129.150.35.29"
+    port: 587
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "188.114.96.3"
+    port: 443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "wing2452.nyc.mn"
+    port: 443
+    password: "bpb-trojan"
+    sni: "wing2452.nyc.mn"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/tr?ed=2560"
+      headers:
+        Host: "wing2452.nyc.mn"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.17.137.155"
+    port: 443
+    password: "823cbccd-3a71-4248-ac3c-3c460de1552d"
+    sni: "sg680.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/%2F"
+      headers:
+        Host: "sg680.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.70.180"
+    port: 2001
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "185.151.146.211"
+    port: 443
+    password: "7522e2c27233459aab8d0f1d715828d0"
+    sni: "www.gpt123.one"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.18.42.163"
+    port: 2053
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "hl-freedom-2.undef.network"
+    port: 443
+    password: "mZYN2OzKVR8FQNHJeqoNdldAF"
+    sni: "hl-freedom-2.undef.network"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/f2fc2a1f"
+      headers:
+        Host: "hl-freedom-2.undef.network"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.201.59"
+    port: 443
+    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
+    sni: "u8.ok8.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/XCLcnSashhgSVE3HOw1VI85y"
+      headers:
+        Host: "u8.ok8.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.6"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "v2.dabache.top"
+    port: 443
+    password: "87d1bfd4-574e-4c96-ad42-0426f27461ff"
+    sni: "_acme-challenge.sb.cloudns.biz"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "_acme-challenge.sb.cloudns.biz"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.213.142"
+    port: 443
+    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
+    sni: "YyYhHjKI.TAIPEi101.INdEVs.in"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
+      headers:
+        Host: "YyYhHjKI.TAIPEi101.INdEVs.in"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.18.2.150"
+    port: 443
+    password: "zWFjJENcljZm"
+    sni: "vahidqaz-7o61u7.vahidqaz.workers.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560"
+      headers:
+        Host: "vahidqaz-7o61u7.vahidqaz.workers.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.200.54"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "hk27.oportal.cc"
+    port: 443
+    password: "adb13850-7e70-492e-85b2-01184801d587"
+    sni: "hk27.oportal.cc"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.200.167"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.1"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "38.180.18.43"
     port: 8444
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
@@ -443,259 +2092,7 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "104.21.88.77"
-    port: 443
-    password: "2bcfbfba-b446-4ad5-93ad-72af9e008f61"
-    sni: "blackshadow.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/195.123.218.174-443"
-      headers:
-        Host: "blackshadow.dpdns.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "vvvbnh.taipei102.indevs.in"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "vvvbnh.taipei102.indevs.in"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "vvvbnh.taipei102.indevs.in"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "185.18.250.252"
-    port: 443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "45.82.245.138"
-    port: 443
-    password: "adb13850-7e70-492e-85b2-01184801d587"
-    sni: "br09.oportal.cc"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "scvf65.0z0.ccwu.cc"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "scvf65.0z0.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "scvf65.0z0.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "bbbnhju.1xa.ccwu.cc"
-    port: 443
-    password: "2bfded8d-6a7c-4c18-aaa5-fc65b955d50c"
-    sni: "bbbnhju.1xa.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/7vMsF4VUuJ3dX414bl"
-      headers:
-        Host: "bbbnhju.1xa.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.176.134"
-    port: 443
-    password: "d5604db8-1f31-403d-a315-d8bafc70f7d2"
-    sni: "mkl.2oo.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/mRjWgF9aMWcpQ8L96b"
-      headers:
-        Host: "mkl.2oo.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "br09.oportal.cc"
-    port: 443
-    password: "adb13850-7e70-492e-85b2-01184801d587"
-    sni: "br09.oportal.cc"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "vbgh.8900604.xyz"
-    port: 443
-    password: "c558328b-eb46-424c-b9e0-574770f0b072"
-    sni: "vbgh.8900604.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/ks4McWjhV7bXNC0BXGtJ"
-      headers:
-        Host: "vbgh.8900604.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "gggbnh.www890604.dpdns.org"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "gggbnh.www890604.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "gggbnh.www890604.dpdns.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "31.172.74.123"
-    port: 443
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "v2.dabache.top"
-    port: 443
-    password: "87d1bfd4-574e-4c96-ad42-0426f27461ff"
-    sni: "_acme-challenge.sb.cloudns.biz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "_acme-challenge.sb.cloudns.biz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "158.69.192.34"
-    port: 8989
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "85.203.26.26"
-    port: 587
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "nmk9o.1yy.ccwu.cc"
-    port: 443
-    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "nmk9o.1yy.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
-      headers:
-        Host: "nmk9o.1yy.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "154.12.53.125"
-    port: 54321
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "65.20.102.54"
-    port: 443
-    password: "842b5f9dd11e458d8613c907c4cc5723"
-    sni: "www.gpt123.one"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.178.212"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "uuujki.7777112.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "uuujki.7777112.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "175.126.186.39"
-    port: 17988
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "www.creationlong.org"
-    port: 443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.23.136"
+    server: "chatgpt.com"
     port: 443
     password: "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
     sni: "mfyousheng.nl.eu.org"
@@ -708,265 +2105,17 @@ proxies:
         Host: "mfyousheng.nl.eu.org"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "104.21.43.111"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "KkKkki.231.PP.Ua"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
-      headers:
-        Host: "KKKkKi.231.pp.Ua"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "64.94.95.117"
-    port: 57142
-    password: "kkzh2prsyr2ik47as615"
-    sni: "static.rutube.ru"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "u8.ok8.ccwu.cc"
+    server: "104.21.24.60"
     port: 443
     password: "1338f666-2fcc-4538-bc29-1ebf89624383"
-    sni: "u8.ok8.ccwu.cc"
+    sni: "ilop.uk2033.ccwu.cc"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/XCLcnSashhgSVE3HOw1VI85y"
       headers:
-        Host: "u8.ok8.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "153.121.65.107"
-    port: 3419
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "78.159.131.12"
-    port: 28259
-    password: "MeaDiUmPlkWbZJ2BON8tz"
-    sni: "ads.x5.ru"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "46.17.97.105"
-    port: 55443
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.66.44.211"
-    port: 443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "160.16.124.17"
-    port: 3419
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "v2.dabache.top"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/amd"
-      headers:
-        Host: "sweden.vmaxpanel.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.105.238"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.200.167"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.64.155.209"
-    port: 443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.153.179"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "gggbnh7.www890604.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "gggbnh7.www890604.dpdns.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "128.199.252.180"
-    port: 443
-    password: "13c169be-8592-4eaa-94cb-69c859e7d987"
-    sni: "ubu.okaoclax.me"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/trojan-ws"
-      headers:
-        Host: "ubu.okaoclax.me"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.11.229"
-    port: 443
-    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "mjki.1nn.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
-      headers:
-        Host: "mjki.1nn.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "160.16.72.33"
-    port: 34818
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "58.152.18.2"
-    port: 443
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.157.38"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "eEFRt.890699.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
-      headers:
-        Host: "eEFRT.890699.xyZ"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "89.58.34.93"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.223.243"
-    port: 443
-    password: "795ef99b-3260-4d18-ac98-5130bba9f168"
-    sni: "nji9768.006660666.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/OkVaxoknnGWI7hLRpJ1"
-      headers:
-        Host: "nji9768.006660666.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "188.114.98.0"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "38.180.104.27"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
+        Host: "ilop.uk2033.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "211.252.47.147"
@@ -983,48 +2132,43 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "vvvbnj.taipei102.indevs.in"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "vvvbnj.taipei102.indevs.in"
+    server: "64.94.95.118"
+    port: 57142
+    password: "kkzh2prsyr2ik47as615"
+    sni: "64.94.95.118"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "154.17.234.78"
+    port: 7071
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      path: "/"
       headers:
-        Host: "vvvbnj.taipei102.indevs.in"
+        Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "172.64.80.1"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "eEFRt.890699.xyz"
+    server: "141.101.120.229"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "random"
     network: ws
     ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
+      path: "/amd"
       headers:
-        Host: "eEFRT.890699.xyZ"
+        Host: "sweden.vmaxpanel.com"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "hhhnju.taipei102.indevs.in"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "hhhnju.taipei102.indevs.in"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "hhhnju.taipei102.indevs.in"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "5.255.121.66"
-    port: 7788
+    server: "152.53.200.98"
+    port: 8444
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -1037,85 +2181,8 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "38.182.109.191"
-    port: 443
-    password: "adb13850-7e70-492e-85b2-01184801d587"
-    sni: "us08.oportal.cc"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "91.107.249.251"
-    port: 6780
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.17.25"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "vvvbnj.taipei102.indevs.in"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "vvvbnj.taipei102.indevs.in"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "jp.111000.cc.cd"
-    port: 443
-    password: "6202b230-417c-4d8e-b624-0f71afa9c75d"
-    sni: "sni.111000.dynv6.net"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/?ed=2560&proxyip=ip.111000.de5.net:443"
-      headers:
-        Host: "sni.111000.dynv6.net"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "52.64.121.20"
-    port: 12580
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "5.255.116.43"
-    port: 445
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "18.102.110.23"
-    port: 9443
+    server: "166.0.198.81"
+    port: 28080
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -1142,34 +2209,34 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "ooiuyt.890699.xyz"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "OOIuyT.890699.xYZ"
+    server: "114.207.99.233"
+    port: 11434
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
+      path: "/"
       headers:
-        Host: "oOiUyT.890699.Xyz"
+        Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "zzs.666461.xyz"
-    port: 443
-    password: "c558328b-eb46-424c-b9e0-574770f0b072"
-    sni: "zzs.666461.xyz"
+    server: "158.101.11.204"
+    port: 15805
+    password: "iwangjie"
+    sni: "nodes.830901.xyz"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/ks4McWjhV7bXNC0BXGtJ"
+      path: "/"
       headers:
-        Host: "zzs.666461.xyz"
+        Host: "nodes.830901.xyz"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "118.34.36.61"
-    port: 10003
+    server: "154.194.0.101"
+    port: 443
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -1182,8 +2249,41 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "202.85.53.77"
-    port: 7000
+    server: "hl-freedom-0.undef.network"
+    port: 443
+    password: "qDd6ODMyfycILT27xNPsa4X8s"
+    sni: "hl-freedom-0.undef.network"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/f2fc2a1f"
+      headers:
+        Host: "hl-freedom-0.undef.network"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "64.94.95.114"
+    port: 57142
+    password: "kkzh2prsyr2ik47as615"
+    sni: "static.rutube.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "sweden.vmaxpanel.com"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/amd"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "150.230.125.213"
+    port: 30443
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -1194,6 +2294,229 @@ proxies:
       path: "/"
       headers:
         Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "ilop.uk2033.ccwu.cc"
+    port: 443
+    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
+    sni: "ilop.uk2033.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/XCLcnSashhgSVE3HOw1VI85y"
+      headers:
+        Host: "ilop.uk2033.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.72.33"
+    port: 2001
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "64.94.95.115"
+    port: 57142
+    password: "kkzh2prsyr2ik47as615"
+    sni: "static.rutube.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "russia.com"
+    port: 443
+    password: "bpb-trojan"
+    sni: "bpb.wdgg1979.cloudns.org"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "randomized"
+    network: ws
+    ws-opts:
+      path: "/tr?ed=2560"
+      headers:
+        Host: "bpb.wdgg1979.cloudns.org"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.130.183"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "dcvwsde.1gg.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "dcvwsde.1gg.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "141.11.250.187"
+    port: 2480
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "89.58.34.93"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "fbnji.1sb.ccwu.cc"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "fbnji.1sb.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "fbnji.1sb.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "46.62.132.84"
+    port: 2525
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "sinbox.thep.vip"
+    port: 443
+    password: "bpb-trojan"
+    sni: "sinbox.thep.vip"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/tr?ed=2560"
+      headers:
+        Host: "sinbox.thep.vip"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "hhynnmki.www890604.dpdns.org"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "hhynnmki.www890604.dpdns.org"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "hhynnmki.www890604.dpdns.org"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "mfyousheng.nl.eu.org"
+    port: 443
+    password: "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+    sni: "mfyousheng.nl.eu.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/tjwsLhx0SFASG4l9FERJ1g"
+      headers:
+        Host: "mfyousheng.nl.eu.org"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "dcvbhy7.12i.ccwu.cc"
+    port: 443
+    password: "ae72f958-c1f6-4fc2-a310-1f007af3d11f"
+    sni: "dcvbhy7.12i.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/QUFgFU6096Csfk0uFDF"
+      headers:
+        Host: "dcvbhy7.12i.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "175.126.186.39"
+    port: 17988
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "37.235.49.209"
+    port: 28099
+    password: "qmBSKnAl6LYi9=z23Rs.Z"
+    sni: "celestialcorset.crystalhamster.click"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "130.185.122.236"
+    port: 2052
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "64.94.95.117"
+    port: 57142
+    password: "kkzh2prsyr2ik47as615"
+    sni: "static.rutube.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "vvvbnh.taipei102.indevs.in"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "vvvbnh.taipei102.indevs.in"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "vvvbnh.taipei102.indevs.in"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "121.131.136.208"
@@ -1210,359 +2533,8 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "172.67.178.138"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "KkKkki.231.PP.Ua"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
-      headers:
-        Host: "KkKkki.231.PP.Ua"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "bestcf.030101.xyz"
-    port: 443
-    password: "6202b230-417c-4d8e-b624-0f71afa9c75d"
-    sni: "sni.111000.dynv6.net"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/?ed=2560&proxyip=ip.111000.de5.net:443"
-      headers:
-        Host: "sni.111000.dynv6.net"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.249.40.144"
-    port: 443
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "154.36.162.129"
-    port: 443
-    password: "adb13850-7e70-492e-85b2-01184801d587"
-    sni: "hk27.oportal.cc"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "chatgpt.com"
-    port: 443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "hl-freedom-2.undef.network"
-    port: 443
-    password: "jJT7gd5O9vwJzL6RiXpxxXIAL"
-    sni: "hl-freedom-2.undef.network"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/f2fc2a1f"
-      headers:
-        Host: "hl-freedom-2.undef.network"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "212.193.18.144"
-    port: 36158
-    password: "ZblhWr0mqMakCPg.N"
-    sni: "ya.ru"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ubu.okaoclax.me"
-    port: 443
-    password: "13c169be-8592-4eaa-94cb-69c859e7d987"
-    sni: "ubu.okaoclax.me"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/trojan-ws"
-      headers:
-        Host: "ubu.okaoclax.me"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "chat.openai.com"
-    port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.calmlunch.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.25.72"
-    port: 443
-    password: "795ef99b-3260-4d18-ac98-5130bba9f168"
-    sni: "nji9768.006660666.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/OkVaxoknnGWI7hLRpJ1"
-      headers:
-        Host: "nji9768.006660666.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "38.83.41.89"
-    port: 28080
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ggbnhy.890699.xyz"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "GGbnHY.890699.XYZ"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
-      headers:
-        Host: "GgBnhY.890699.XYz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ct.090227.xyz"
-    port: 443
-    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
-    sni: "cm22-bgphhh.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/dl/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
-      headers:
-        Host: "cm22-bgphhh.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "59.20.121.139"
-    port: 29999
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ddffghy.0wu.ccwu.cc"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "ddffghy.0wu.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "ddffghy.0wu.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "185.220.238.77"
-    port: 11543
-    password: "HutaoCloud"
-    sni: "jp1.hutaonode.top"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/api"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "217.197.97.121"
-    port: 9527
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "51.83.45.173"
-    port: 8080
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.180.227"
-    port: 443
-    password: "bpb-trojan"
-    sni: "mashdt.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tr?ed=2560"
-      headers:
-        Host: "mashdt.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "wing2452.nyc.mn"
-    port: 443
-    password: "bpb-trojan"
-    sni: "wing2452.nyc.mn"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tr?ed=2560"
-      headers:
-        Host: "wing2452.nyc.mn"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.200.23"
+    server: "152.53.60.198"
     port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "202.85.53.160"
-    port: 7000
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.160.92"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "cvg67.0yo.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "cvg67.0yo.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "185.204.169.46"
-    port: 2052
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.201.59"
-    port: 443
-    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
-    sni: "u8.ok8.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/XCLcnSashhgSVE3HOw1VI85y"
-      headers:
-        Host: "u8.ok8.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "136.244.105.89"
-    port: 82
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.194.51"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "dcvgt6.0z0.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "dcvgt6.0z0.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "51.38.35.200"
-    port: 8080
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -1588,51 +2560,43 @@ proxies:
         Host: "mfyousheng.nl.eu.org"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "217.142.250.195"
-    port: 587
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
+    server: "172.67.213.166"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "ggbnhj.932.pp.ua"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "ggbnhj.932.pp.ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "vvvbnhju.932.pp.ua"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "vvvbnhju.932.pp.ua"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/"
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
       headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.18.185.26"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/amd"
-      headers:
-        Host: "sweden.vmaxpanel.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "37.235.49.209"
-    port: 28099
-    password: "qmBSKnAl6LYi9=z23Rs.Z"
-    sni: "celestialcorset.crystalhamster.click"
-    skip-cert-verify: true
-    udp: true
+        Host: "vvvbnhju.932.pp.ua"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "160.16.72.33"
-    port: 3057
+    port: 3419
     password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
     sni: "www.nintendogames.net"
     skip-cert-verify: true
     udp: true
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "130.185.120.119"
-    port: 2052
+    server: "211.252.46.215"
+    port: 27015
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -1645,391 +2609,12 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "118.36.249.41"
-    port: 10332
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "45.144.48.48"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.16.250.22"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/amd"
-      headers:
-        Host: "sweden.vmaxpanel.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.200.232"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "166.88.130.226"
-    port: 443
-    password: "adb13850-7e70-492e-85b2-01184801d587"
-    sni: "ca05.oportal.cc"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.174.10"
-    port: 443
-    password: "2bcfbfba-b446-4ad5-93ad-72af9e008f61"
-    sni: "blackshadow.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/195.123.218.174-443"
-      headers:
-        Host: "blackshadow.dpdns.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "65.109.188.82"
-    port: 8989
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "223.222.74.163"
-    port: 10035
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "159.100.6.21"
-    port: 27017
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "dcvwsde.1gg.ccwu.cc"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "dcvwsde.1gg.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "dcvwsde.1gg.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "154.17.234.78"
-    port: 7071
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "58.152.18.189"
-    port: 443
+    server: "160.16.214.104"
+    port: 2001
     password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
     sni: "www.nintendogames.net"
     skip-cert-verify: true
     udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "hk27.oportal.cc"
-    port: 443
-    password: "adb13850-7e70-492e-85b2-01184801d587"
-    sni: "hk27.oportal.cc"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "bbbnmju.932.pp.ua"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "bbbnmju.932.pp.ua"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "bbbnmju.932.pp.ua"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "v1.dabache.top"
-    port: 443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.88.226"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "hhynnmki.www890604.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "hhynnmki.www890604.dpdns.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "46.17.101.136"
-    port: 7777
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "hhynnmki.www890604.dpdns.org"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "hhynnmki.www890604.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "hhynnmki.www890604.dpdns.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.176.102"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "ddffghy.0wu.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "ddffghy.0wu.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "221.146.116.77"
-    port: 10003
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.200.54"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.130.183"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "dcvwsde.1gg.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "dcvwsde.1gg.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "sweden.vmaxpanel.com"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/amd"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.50.115"
-    port: 443
-    password: "2bfded8d-6a7c-4c18-aaa5-fc65b955d50c"
-    sni: "bbbnhju.1xa.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/7vMsF4VUuJ3dX414bl"
-      headers:
-        Host: "bbbnhju.1xa.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "v1.dabache.top"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/amd"
-      headers:
-        Host: "sweden.vmaxpanel.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "www.gossipglove.com"
-    port: 443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.76.121"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "dcvgt6.0z0.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "dcvgt6.0z0.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "211.110.32.47"
-    port: 20000
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.16.158.249"
-    port: 443
-    password: "823cbccd-3a71-4248-ac3c-3c460de1552d"
-    sni: "sg680.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/%2F"
-      headers:
-        Host: "sg680.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.66.44.211"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/amd"
-      headers:
-        Host: "sweden.vmaxpanel.com"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "172.64.147.227"
@@ -2045,29 +2630,232 @@ proxies:
         Host: "blackshadow.dpdns.org"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "80.173.230.196"
-    port: 26279
-    password: "a5inYFE=JGV89+hjxIqgDp1tcWBd6"
-    sni: "io.ozone.ru"
+    server: "172.67.151.208"
+    port: 443
+    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
+    sni: "nmki.1qq.ccwu.cc"
     skip-cert-verify: true
     udp: true
+    network: ws
+    ws-opts:
+      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
+      headers:
+        Host: "nmki.1qq.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "109.61.110.80"
+    port: 445
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.229.236"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "hhhnmju.932.pp.ua"
+    port: 443
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "hhhnmju.932.pp.ua"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      headers:
+        Host: "hhhnmju.932.pp.ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "185.204.169.46"
+    port: 2052
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.244"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "185.188.30.107"
+    port: 9864
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.7"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.105.238"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "kkkkki.231.pp.ua"
+    port: 443
+    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
+    sni: "KkKkki.231.PP.Ua"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
+      headers:
+        Host: "KKKkKi.231.pp.Ua"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.200.23"
+    port: 8444
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "ddffghy.0wu.ccwu.cc"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "ddffghy.0wu.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "ddffghy.0wu.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "chatgpt.com"
+    port: 443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "167.17.185.169"
+    port: 10889
+    password: "cTv.9PDdCt-wybBrG1qlxI5UJuaEj"
+    sni: "ya.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "5.255.116.43"
+    port: 445
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.66.44.211"
+    port: 443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "198.41.200.74"
     port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
+    password: "Nova-Proxy"
+    sni: "small-morning-2668.drusavm.workers.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/amd"
+      path: "/?ed"
       headers:
-        Host: "sweden.vmaxpanel.com"
+        Host: "small-morning-2668.drusavm.workers.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "152.53.200.216"
-    port: 8444
+    server: "136.244.105.89"
+    port: 82
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -2080,26 +2868,17 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "216.40.87.100"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
+    server: "104.18.34.48"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/"
+      path: "/dl/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
       headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "153.121.45.139"
-    port: 4674
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
+        Host: "cm22-bgphhh.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "152.53.45.251"
@@ -2116,44 +2895,136 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "2wsde.12i.ccwu.cc"
+    server: "nnnmjk.www890604.dpdns.org"
     port: 443
-    password: "ae72f958-c1f6-4fc2-a310-1f007af3d11f"
-    sni: "2wsde.12i.ccwu.cc"
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "nnnmjk.www890604.dpdns.org"
     skip-cert-verify: true
     udp: true
     client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/QUFgFU6096Csfk0uFDF"
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
       headers:
-        Host: "2wsde.12i.ccwu.cc"
+        Host: "nnnmjk.www890604.dpdns.org"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "172.67.213.166"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "ggbnhj.932.pp.ua"
+    server: "211.110.32.47"
+    port: 20000
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.72.33"
+    port: 3057
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.66.44.211"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      path: "/amd"
       headers:
-        Host: "ggbnhj.932.pp.ua"
+        Host: "sweden.vmaxpanel.com"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "104.21.40.221"
+    server: "172.67.160.92"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "cvg67.0yo.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "cvg67.0yo.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "154.36.162.129"
+    port: 443
+    password: "adb13850-7e70-492e-85b2-01184801d587"
+    sni: "hk27.oportal.cc"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "31.172.74.123"
+    port: 443
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "vip1.kaixincloud.top"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/amd"
+      headers:
+        Host: "sweden.vmaxpanel.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "217.197.97.121"
+    port: 9527
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "us08.oportal.cc"
+    port: 443
+    password: "adb13850-7e70-492e-85b2-01184801d587"
+    sni: "us08.oportal.cc"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.178.138"
     port: 443
     password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "eEFRt.890699.xyz"
+    sni: "KkKkki.231.PP.Ua"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/Klh0x8wtLpTGA5AqzZ2Mj"
       headers:
-        Host: "eEFRT.890699.xyZ"
+        Host: "KKKkKi.231.pp.Ua"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "5.253.189.205"
@@ -2170,54 +3041,94 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "172.67.161.17"
+    server: "104.21.71.217"
     port: 443
-    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
-    sni: "ghj.ok7.ccwu.cc"
+    password: "d5604db8-1f31-403d-a315-d8bafc70f7d2"
+    sni: "mmjk.3oo.ccwu.cc"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/XCLcnSashhgSVE3HOw1VI85y"
+      path: "/mRjWgF9aMWcpQ8L96b"
       headers:
-        Host: "ghj.ok7.ccwu.cc"
+        Host: "mmjk.3oo.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "15.188.101.85"
-    port: 22223
-    password: "telegram-id-directvpn"
-    sni: "trojan.burgerip.co.uk"
+    server: "60.248.139.106"
+    port: 32770
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
     udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "172.67.151.208"
+    server: "94.131.122.254"
     port: 443
-    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "nmki.1qq.ccwu.cc"
+    password: "jJT7gd5O9vwJzL6RiXpxxXIAL"
+    sni: "hl-freedom-2.undef.network"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
+      path: "/f2fc2a1f"
       headers:
-        Host: "nmki.1qq.ccwu.cc"
+        Host: "hl-freedom-2.undef.network"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "m9o0.1xq.indevs.in"
+    server: "ct.090227.xyz"
     port: 443
-    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "m9o0.1xq.indevs.in"
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
+      path: "/dl/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
       headers:
-        Host: "m9o0.1xq.indevs.in"
+        Host: "cm22-bgphhh.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "152.53.200.83"
+    server: "104.16.149.3"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.40.34"
+    port: 443
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "212.193.18.144"
+    port: 36158
+    password: "ZblhWr0mqMakCPg.N"
+    sni: "ya.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.104.142"
     port: 8444
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
@@ -2231,8 +3142,49 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "220.92.22.170"
-    port: 11000
+    server: "18.102.110.23"
+    port: 9443
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "chatgpt.com"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/amd"
+      headers:
+        Host: "sweden.vmaxpanel.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "118.34.36.61"
+    port: 10003
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "152.53.200.232"
+    port: 8444
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -2259,118 +3211,52 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "ghj.ok7.ccwu.cc"
+    server: "104.21.88.226"
     port: 443
-    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
-    sni: "ghj.ok7.ccwu.cc"
+    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
+    sni: "hhynnmki.www890604.dpdns.org"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/XCLcnSashhgSVE3HOw1VI85y"
+      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
       headers:
-        Host: "ghj.ok7.ccwu.cc"
+        Host: "hhynnmki.www890604.dpdns.org"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "52.29.115.99"
-    port: 22223
-    password: "telegram-id-directvpn"
-    sni: "trojan.burgerip.co.uk"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "160.16.72.33"
-    port: 2001
+    server: "160.16.124.17"
+    port: 3419
     password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
     sni: "www.nintendogames.net"
     skip-cert-verify: true
     udp: true
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "172.64.146.43"
+    server: "91.84.102.94"
+    port: 12000
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.67.180.227"
     port: 443
-    password: "ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0"
-    sni: "blackshadow.dpdns.org"
+    password: "bpb-trojan"
+    sni: "mashdt.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/195.123.218.174-443"
+      path: "/tr?ed=2560"
       headers:
-        Host: "blackshadow.dpdns.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "109.61.110.80"
-    port: 445
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "220.93.106.4"
-    port: 11434
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "91.107.151.136"
-    port: 888
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "114.207.99.233"
-    port: 11434
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "160.16.214.104"
-    port: 2001
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "64.94.95.115"
-    port: 57142
-    password: "kkzh2prsyr2ik47as615"
-    sni: "static.rutube.ru"
-    skip-cert-verify: true
-    udp: true
+        Host: "mashdt.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "ggbnhj.932.pp.ua"
@@ -2386,450 +3272,28 @@ proxies:
         Host: "ggbnhj.932.pp.ua"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "38.180.22.20"
-    port: 1001
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "51.83.47.153"
-    port: 8080
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.200.169"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.72.77"
+    server: "58.152.25.253"
     port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "ddffghy.0wu.ccwu.cc"
+    password: "BxceQaOe"
+    sni: "t.me/ripaojiedian"
     skip-cert-verify: true
     udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "ddffghy.0wu.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "104.21.40.66"
+    server: "104.21.23.136"
     port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "uuujki.7777112.xyz"
+    password: "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+    sni: "mfyousheng.nl.eu.org"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      path: "/tjwsLhx0SFASG4l9FERJ1g"
       headers:
-        Host: "uuujki.7777112.xyz"
+        Host: "mfyousheng.nl.eu.org"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "sinbox.thep.vip"
-    port: 443
-    password: "bpb-trojan"
-    sni: "sinbox.thep.vip"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tr?ed=2560"
-      headers:
-        Host: "sinbox.thep.vip"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "45.154.98.133"
-    port: 2003
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "167.17.185.152"
-    port: 10889
-    password: "cTv.9PDdCt-wybBrG1qlxI5UJuaEj"
-    sni: "ozon.ru"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "65.109.203.242"
-    port: 8989
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "118.35.208.37"
-    port: 11434
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.180.92"
-    port: 443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "121.163.244.222"
-    port: 11001
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "64.94.95.118"
-    port: 57142
-    password: "kkzh2prsyr2ik47as615"
-    sni: "64.94.95.118"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ct.877774.xyz"
-    port: 443
-    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
-    sni: "cm22-bgphhh.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
-      headers:
-        Host: "cm22-bgphhh.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "gbnh.7777112.xyz"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "gbnh.7777112.xyz"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "gbnh.7777112.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "94.131.122.254"
-    port: 443
-    password: "jJT7gd5O9vwJzL6RiXpxxXIAL"
-    sni: "hl-freedom-2.undef.network"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/f2fc2a1f"
-      headers:
-        Host: "hl-freedom-2.undef.network"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.211.136"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "hhhhhhhhj.191266.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "hhhhhhhhj.191266.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.219.157"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "vvvbnj.taipei102.indevs.in"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "vvvbnj.taipei102.indevs.in"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ca05.oportal.cc"
-    port: 443
-    password: "adb13850-7e70-492e-85b2-01184801d587"
-    sni: "ca05.oportal.cc"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "dcvbhy7.12i.ccwu.cc"
-    port: 443
-    password: "ae72f958-c1f6-4fc2-a310-1f007af3d11f"
-    sni: "dcvbhy7.12i.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/QUFgFU6096Csfk0uFDF"
-      headers:
-        Host: "dcvbhy7.12i.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "hhhnmju.932.pp.ua"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "hhhnmju.932.pp.ua"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "hhhnmju.932.pp.ua"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "hl-freedom-0.undef.network"
-    port: 443
-    password: "qDd6ODMyfycILT27xNPsa4X8s"
-    sni: "hl-freedom-0.undef.network"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/f2fc2a1f"
-      headers:
-        Host: "hl-freedom-0.undef.network"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "nnnmjku.932.pp.ua"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "nnnmjku.932.pp.ua"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "nnnmjku.932.pp.ua"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "spring-tooth-7fa3.ahmadrj.workers.dev"
-    port: 443
-    password: "Nova-Proxy"
-    sni: "spring-tooth-7fa3.ahmadrj.workers.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "random"
-    network: ws
-    ws-opts:
-      path: "/?ed=2560"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "167.17.185.169"
-    port: 10889
-    password: "cTv.9PDdCt-wybBrG1qlxI5UJuaEj"
-    sni: "ya.ru"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "vip3.kaixincloud.top"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/amd"
-      headers:
-        Host: "sweden.vmaxpanel.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "fbnji.1sb.ccwu.cc"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "fbnji.1sb.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "fbnji.1sb.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "eefrt.890699.xyz"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "eEFRt.890699.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
-      headers:
-        Host: "eEFRT.890699.xyZ"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "o0.666470.xyz"
-    port: 443
-    password: "c558328b-eb46-424c-b9e0-574770f0b072"
-    sni: "o0.666470.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/ks4McWjhV7bXNC0BXGtJ"
-      headers:
-        Host: "o0.666470.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.66.47.45"
-    port: 443
-    password: "humanity"
-    sni: "www.multiplydose.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.multiplydose.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.223.216"
-    port: 443
-    password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "bgt.1x2.indevs.in"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/y1moM5CyNvYMZlzsYHmsMrnO"
-      headers:
-        Host: "bgt.1x2.indevs.in"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "vvvbnhju.932.pp.ua"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "vvvbnhju.932.pp.ua"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "vvvbnhju.932.pp.ua"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "153.121.65.107"
-    port: 4937
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "155.133.30.9"
-    port: 16000
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.67.142.8"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "fbnji.1sb.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "fbnji.1sb.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.40.34"
+    server: "172.64.155.209"
     port: 443
     password: "humanity"
     sni: "www.gossipglove.com"
@@ -2842,469 +3306,25 @@ proxies:
         Host: "www.gossipglove.com"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "160.16.130.21"
-    port: 4019
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "62.133.60.159"
-    port: 2223
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "211.106.184.129"
-    port: 11310
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "218.37.77.68"
-    port: 18080
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "141.101.120.229"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "random"
-    network: ws
-    ws-opts:
-      path: "/amd"
-      headers:
-        Host: "sweden.vmaxpanel.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ilop.uk2033.ccwu.cc"
+    server: "ubu.okaoclax.me"
     port: 443
-    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
-    sni: "ilop.uk2033.ccwu.cc"
+    password: "13c169be-8592-4eaa-94cb-69c859e7d987"
+    sni: "ubu.okaoclax.me"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/XCLcnSashhgSVE3HOw1VI85y"
+      path: "/trojan-ws"
       headers:
-        Host: "ilop.uk2033.ccwu.cc"
+        Host: "ubu.okaoclax.me"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "15.188.101.85"
-    port: 22222
-    password: "telegram-id-privatevpns"
-    sni: "trojan.burgerip.co.uk"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ffvvbnhju.2030.pp.ua"
+    server: "br09.oportal.cc"
     port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "ffvvbnhju.2030.pp.ua"
+    password: "adb13850-7e70-492e-85b2-01184801d587"
+    sni: "br09.oportal.cc"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "ffvvbnhju.2030.pp.ua"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "64.74.163.118"
-    port: 58536
-    password: "lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths"
-    sni: "64.74.163.118"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "dcvgt6.0z0.ccwu.cc"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "dcvgt6.0z0.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "dcvgt6.0z0.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "free1.aattaash.com"
-    port: 443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.50.233"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "YyYhHjKI.TAIPEi101.INdEVs.in"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
-      headers:
-        Host: "YyYhHjKI.TAIPEi101.INdEVs.in"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "uuujki.7777112.xyz"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "uuujki.7777112.xyz"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "uuujki.7777112.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "141.11.250.187"
-    port: 2480
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "172.64.145.144"
-    port: 8443
-    password: "823cbccd-3a71-4248-ac3c-3c460de1552d"
-    sni: "snll100.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "snll100.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "v3.dabache.top"
-    port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/amd"
-      headers:
-        Host: "sweden.vmaxpanel.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.104.142"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "52.29.115.99"
-    port: 22222
-    password: "telegram-id-privatevpns"
-    sni: "trojan.burgerip.co.uk"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "167.17.185.172"
-    port: 10889
-    password: "cTv.9PDdCt-wybBrG1qlxI5UJuaEj"
-    sni: "web.max.ru"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "130.185.122.34"
-    port: 2052
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "hhhhhhhhj.191266.xyz"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "hhhhhhhhj.191266.xyz"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "hhhhhhhhj.191266.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "gggbnh7.www890604.dpdns.org"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "gggbnh7.www890604.dpdns.org"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "gggbnh7.www890604.dpdns.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.90.198"
-    port: 443
-    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
-    sni: "ghj.ok7.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/XCLcnSashhgSVE3HOw1VI85y"
-      headers:
-        Host: "ghj.ok7.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.60.198"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "185.188.30.107"
-    port: 9864
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "38.95.73.40"
-    port: 587
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.17.223.49"
-    port: 443
-    password: "humanity"
-    sni: "www.creationlong.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.creationlong.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "www.shopify.com"
-    port: 2053
-    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
-    sni: "cm22-bgphhh.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "cm22-bgphhh.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "158.101.11.204"
-    port: 15805
-    password: "iwangjie"
-    sni: "nodes.830901.xyz"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "nodes.830901.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "211.252.46.215"
-    port: 27015
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "ttt6.006660666.xyz"
-    port: 443
-    password: "795ef99b-3260-4d18-ac98-5130bba9f168"
-    sni: "ttt6.006660666.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/OkVaxoknnGWI7hLRpJ1"
-      headers:
-        Host: "ttt6.006660666.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.200.98"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "bbnnhyt.7777112.xyz"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "bbnnhyt.7777112.xyz"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "bbnnhyt.7777112.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "38.180.18.43"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "vless.herogoing.top"
-    port: 443
-    password: "bpb-trojan"
-    sni: "vless.herogoing.top"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tr?ed=2560"
-      headers:
-        Host: "vless.herogoing.top"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "129.150.35.29"
-    port: 587
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "cmcc.877774.xyz"
@@ -3320,300 +3340,43 @@ proxies:
         Host: "cm22-bgphhh.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "172.67.213.142"
+    server: "172.64.229.174"
     port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "YyYhHjKI.TAIPEi101.INdEVs.in"
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
+      path: "/hot/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
       headers:
-        Host: "YyYhHjKI.TAIPEi101.INdEVs.in"
+        Host: "cm22-bgphhh.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "91.245.225.69"
-    port: 8004
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "208.103.161.110"
-    port: 443
-    password: "humanity"
-    sni: "www.creationlong.org"
+    server: "v2.dabache.top"
+    port: 8443
+    password: "T9BpZIVMNv"
+    sni: "sweden.vmaxpanel.com"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/assignment"
+      path: "/amd"
       headers:
-        Host: "www.creationlong.org"
+        Host: "sweden.vmaxpanel.com"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "188.114.96.3"
-    port: 443
-    password: "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
-    sni: "mfyousheng.nl.eu.org"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/tjwsLhx0SFASG4l9FERJ1g"
-      headers:
-        Host: "mfyousheng.nl.eu.org"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "91.107.248.253"
-    port: 81
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.61.154"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "hhhhhhhhj.191266.xyz"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "hhhhhhhhj.191266.xyz"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.49.218"
+    server: "nmk9o.1yy.ccwu.cc"
     port: 443
     password: "4e45c1b4-9107-45dd-9995-cdf7cbb44d9d"
-    sni: "bghy.1x9.indevs.in"
+    sni: "nmk9o.1yy.ccwu.cc"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/y1moM5CyNvYMZlzsYHmsMrnO"
       headers:
-        Host: "bghy.1x9.indevs.in"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "yyyhhjki.taipei101.indevs.in"
-    port: 443
-    password: "98b419ef-83a2-4d1b-a23d-566b7f24477b"
-    sni: "YyYhHjKI.TAIPEi101.INdEVs.in"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/Klh0x8wtLpTGA5AqzZ2Mj"
-      headers:
-        Host: "YyYhHjKI.TAIPEi101.INdEVs.in"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "185.151.146.211"
-    port: 443
-    password: "7522e2c27233459aab8d0f1d715828d0"
-    sni: "www.gpt123.one"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "154.194.0.101"
-    port: 443
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "57.131.20.243"
-    port: 2525
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.24.60"
-    port: 443
-    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
-    sni: "ilop.uk2033.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/XCLcnSashhgSVE3HOw1VI85y"
-      headers:
-        Host: "ilop.uk2033.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "58.152.25.253"
-    port: 443
-    password: "BxceQaOe"
-    sni: "t.me/ripaojiedian"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "144.21.48.237"
-    port: 30443
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.107.76"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "nnmjku.932.pp.ua"
-    port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "nnmjku.932.pp.ua"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
-      headers:
-        Host: "nnmjku.932.pp.ua"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.21.58.143"
-    port: 443
-    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "cvg67.0yo.ccwu.cc"
-    skip-cert-verify: true
-    udp: true
-    network: ws
-    ws-opts:
-      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
-      headers:
-        Host: "cvg67.0yo.ccwu.cc"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "216.173.69.146"
-    port: 442
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "38.83.41.89"
-    port: 28006
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "188.114.96.3"
-    port: 443
-    password: "humanity"
-    sni: "www.gossipglove.com"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/assignment"
-      headers:
-        Host: "www.gossipglove.com"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "80.173.231.254"
-    port: 12420
-    password: "wp9IsiY82uQhcmgNC1eoBM"
-    sni: "www.semanticstaplegun.click"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "54.46.72.234"
-    port: 8025
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "152.53.200.185"
-    port: 8444
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
+        Host: "nmk9o.1yy.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "104.21.85.29"
@@ -3629,17 +3392,52 @@ proxies:
         Host: "u8.ok8.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "104.21.73.85"
+    server: "167.17.185.228"
+    port: 10889
+    password: "cTv.9PDdCt-wybBrG1qlxI5UJuaEj"
+    sni: "web.max"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.150.28"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "scvf65.0z0.ccwu.cc"
     port: 443
     password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
-    sni: "fbnji.1sb.ccwu.cc"
+    sni: "scvf65.0z0.ccwu.cc"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
       path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
       headers:
-        Host: "fbnji.1sb.ccwu.cc"
+        Host: "scvf65.0z0.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.72.77"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "ddffghy.0wu.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "ddffghy.0wu.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "1.32.216.218"
@@ -3656,31 +3454,17 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "hl-freedom-2.undef.network"
-    port: 443
-    password: "mZYN2OzKVR8FQNHJeqoNdldAF"
-    sni: "hl-freedom-2.undef.network"
+    server: "172.64.145.93"
+    port: 2053
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/f2fc2a1f"
+      path: "/"
       headers:
-        Host: "hl-freedom-2.undef.network"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "104.17.137.155"
-    port: 443
-    password: "823cbccd-3a71-4248-ac3c-3c460de1552d"
-    sni: "sg680.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/%2F"
-      headers:
-        Host: "sg680.pages.dev"
+        Host: "cm22-bgphhh.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "104.21.75.193"
@@ -3696,34 +3480,137 @@ proxies:
         Host: "mashdt.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "172.64.80.1"
+    server: "185.18.250.252"
     port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "ggbnhj.932.pp.ua"
+    password: "humanity"
+    sni: "www.gossipglove.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.gossipglove.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "62.133.60.159"
+    port: 2223
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "167.17.185.172"
+    port: 10889
+    password: "cTv.9PDdCt-wybBrG1qlxI5UJuaEj"
+    sni: "web.max.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.244"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
       headers:
-        Host: "ggbnhj.932.pp.ua"
+        Host: "cm22-bgphhh.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "vip2.kaixincloud.top"
+    server: "130.185.120.119"
+    port: 2052
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.2"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "188.114.96.3"
+    port: 443
+    password: "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
+    sni: "mfyousheng.nl.eu.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/tjwsLhx0SFASG4l9FERJ1g"
+      headers:
+        Host: "mfyousheng.nl.eu.org"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.7"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "52.64.121.20"
+    port: 12580
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "190.93.244.43"
     port: 8443
-    password: "T9BpZIVMNv"
-    sni: "sweden.vmaxpanel.com"
+    password: "Nova-Proxy"
+    sni: "small-morning-2668.drusavm.workers.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/amd"
+      path: "/?ed"
       headers:
-        Host: "sweden.vmaxpanel.com"
+        Host: "small-morning-2668.drusavm.workers.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "166.0.198.81"
-    port: 28080
+    server: "46.17.97.105"
+    port: 55443
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -3736,8 +3623,16 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "207.127.89.90"
-    port: 12000
+    server: "153.121.65.107"
+    port: 34818
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "51.83.47.153"
+    port: 8080
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -3750,16 +3645,97 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "64.94.95.114"
-    port: 57142
-    password: "kkzh2prsyr2ik47as615"
-    sni: "static.rutube.ru"
+    server: "51.83.45.173"
+    port: 8080
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "45.154.98.133"
+    port: 2003
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "46.17.101.136"
+    port: 7777
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "v1.dabache.top"
+    port: 443
+    password: "humanity"
+    sni: "www.multiplydose.com"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.multiplydose.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.21.76.121"
+    port: 443
+    password: "8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba"
+    sni: "dcvgt6.0z0.ccwu.cc"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/QXP9D5w7xb1TX3RJBAQ5Ah"
+      headers:
+        Host: "dcvgt6.0z0.ccwu.cc"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "160.16.70.180"
+    port: 4019
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
     skip-cert-verify: true
     udp: true
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "43.198.0.32"
-    port: 23456
+    server: "104.16.148.10"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "59.20.121.139"
+    port: 29999
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -3785,43 +3761,86 @@ proxies:
         Host: "blackshadow.dpdns.org"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "www.calmlunch.com"
+    server: "104.16.149.5"
     port: 443
-    password: "humanity"
-    sni: "www.calmlunch.com"
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/assignment"
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
       headers:
-        Host: "www.calmlunch.com"
+        Host: "cm22-bgphhh.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "mfyousheng.nl.eu.org"
+    server: "172.67.217.34"
     port: 443
-    password: "Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q"
-    sni: "mfyousheng.nl.eu.org"
+    password: "1338f666-2fcc-4538-bc29-1ebf89624383"
+    sni: "ilop.uk2033.ccwu.cc"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/tjwsLhx0SFASG4l9FERJ1g"
+      path: "/XCLcnSashhgSVE3HOw1VI85y"
       headers:
-        Host: "mfyousheng.nl.eu.org"
+        Host: "ilop.uk2033.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "104.21.23.210"
+    server: "104.16.148.8"
     port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "ggbnhj.932.pp.ua"
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
     skip-cert-verify: true
     udp: true
     network: ws
     ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
       headers:
-        Host: "ggbnhj.932.pp.ua"
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.249.40.144"
+    port: 443
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "64.74.163.118"
+    port: 58536
+    password: "lEjtI3pFYfU7O1UYozJcfZV5K6Fwfths"
+    sni: "64.74.163.118"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.2"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "153.121.65.107"
+    port: 3419
+    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
+    sni: "www.nintendogames.net"
+    skip-cert-verify: true
+    udp: true
   - name: "@DeltaKroneckerGithub"
     type: trojan
     server: "104.21.3.129"
@@ -3837,58 +3856,21 @@ proxies:
         Host: "dcvwsde.1gg.ccwu.cc"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "150.230.125.213"
-    port: 30443
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "65.109.190.2"
-    port: 442
-    password: "trojan"
-    sni: "jflsjlaf.pages.dev"
-    skip-cert-verify: true
-    udp: true
-    client-fingerprint: "chrome"
-    network: ws
-    ws-opts:
-      path: "/"
-      headers:
-        Host: "jflsjlaf.pages.dev"
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "vvvbbbnhj.taipei102.indevs.in"
+    server: "172.66.47.45"
     port: 443
-    password: "2bfe58f7-da1d-45df-ab43-7c665b20ee29"
-    sni: "vvvbbbnhj.taipei102.indevs.in"
+    password: "humanity"
+    sni: "www.multiplydose.com"
     skip-cert-verify: true
     udp: true
-    client-fingerprint: "chrome"
     network: ws
     ws-opts:
-      path: "/2cO5FH0xUmT9oqnbBhmKb8nOkg"
+      path: "/assignment"
       headers:
-        Host: "vvvbbbnhj.taipei102.indevs.in"
+        Host: "www.multiplydose.com"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "160.16.72.33"
-    port: 4674
-    password: "f7dbed8b1ca85124e793ba6c0bcfd0db"
-    sni: "www.nintendogames.net"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: trojan
-    server: "121.168.144.41"
-    port: 10243
+    server: "38.60.89.136"
+    port: 50000
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -3901,8 +3883,22 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "194.4.51.171"
-    port: 8444
+    server: "104.16.158.249"
+    port: 443
+    password: "823cbccd-3a71-4248-ac3c-3c460de1552d"
+    sni: "sg680.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/%2F"
+      headers:
+        Host: "sg680.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "118.35.208.37"
+    port: 11434
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -3915,8 +3911,8 @@ proxies:
         Host: "jflsjlaf.pages.dev"
   - name: "@DeltaKroneckerGithub"
     type: trojan
-    server: "91.84.102.94"
-    port: 12000
+    server: "5.255.121.66"
+    port: 7788
     password: "trojan"
     sni: "jflsjlaf.pages.dev"
     skip-cert-verify: true
@@ -3927,6 +3923,171 @@ proxies:
       path: "/"
       headers:
         Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.149.4"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "bestcf.030101.xyz"
+    port: 443
+    password: "6202b230-417c-4d8e-b624-0f71afa9c75d"
+    sni: "sni.111000.dynv6.net"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/?ed=2560&proxyip=ip.111000.de5.net:443"
+      headers:
+        Host: "sni.111000.dynv6.net"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.4"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "149.248.39.92"
+    port: 443
+    password: "d30ab83dbde4480082048fb315bedebd"
+    sni: "149.248.39.92"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "65.109.203.242"
+    port: 8989
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "91.107.248.253"
+    port: 81
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "172.64.153.208"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/dl/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "chat.openai.com"
+    port: 443
+    password: "humanity"
+    sni: "www.calmlunch.com"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.calmlunch.com"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "80.173.230.196"
+    port: 26279
+    password: "a5inYFE=JGV89+hjxIqgDp1tcWBd6"
+    sni: "io.ozone.ru"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "202.85.53.77"
+    port: 7000
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "104.16.148.1"
+    port: 443
+    password: "22367c45-f6c4-4ca8-8d52-d9787d7bbe91"
+    sni: "cm22-bgphhh.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/buy/proxyip=45.196.239.151,167.253.153.161,45.196.239.238,45.196.238.248,45.196.238.145,223.165.4.57,85.237.207.19,167.253.153.80"
+      headers:
+        Host: "cm22-bgphhh.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "121.163.244.222"
+    port: 11001
+    password: "trojan"
+    sni: "jflsjlaf.pages.dev"
+    skip-cert-verify: true
+    udp: true
+    client-fingerprint: "chrome"
+    network: ws
+    ws-opts:
+      path: "/"
+      headers:
+        Host: "jflsjlaf.pages.dev"
+  - name: "@DeltaKroneckerGithub"
+    type: trojan
+    server: "208.103.161.110"
+    port: 443
+    password: "humanity"
+    sni: "www.creationlong.org"
+    skip-cert-verify: true
+    udp: true
+    network: ws
+    ws-opts:
+      path: "/assignment"
+      headers:
+        Host: "www.creationlong.org"
 
 proxy-groups:
   # ── Top-level selector ────────────────────────────────────────────────────
@@ -3969,6 +4130,19 @@ proxy-groups:
     tolerance: 150
     lazy: true
     proxies:
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
@@ -4588,6 +4762,19 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
 
   # ── Fastest-proxy groups ──────────────────────────────────────────────────
   - name: "FAST-ALL"
@@ -4902,6 +5089,19 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
 
   - name: "FAST-CDN"
     type: url-test
@@ -4910,6 +5110,19 @@ proxy-groups:
     tolerance: 50
     lazy: true
     proxies:
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
@@ -5529,11 +5742,37 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
 
   # ── Manual selector ───────────────────────────────────────────────────────
   - name: "MANUAL"
     type: select
     proxies:
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"

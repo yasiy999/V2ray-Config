@@ -1,5 +1,1 @@
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.40:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#@DeltaKroneckerGithub
-hy2://2c833c5d-cbcc-4afb-89ba-d17dc39db6f0@75.127.13.83:47974/?insecure=1&sni=www.bing.com#@DeltaKroneckerGithub
-hy2://0b8a288c@107.174.181.241:65160/?insecure=1&sni=en.snu.ac.kr#@DeltaKroneckerGithub
-hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#@DeltaKroneckerGithub
-hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk2.shiyuandian.shop:30000?obfs=salamander&obfs-password=vzbsyah3Y%255%252fPz&sni=hk2.shiyuandian.shop#@DeltaKroneckerGithub
+hy2://alvin9999.com@157.254.223.24:30088?sni=apple.com#@DeltaKroneckerGithub
