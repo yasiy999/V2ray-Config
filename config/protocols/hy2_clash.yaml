@@ -122,10 +122,34 @@ dns:
 proxies:
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "157.254.223.24"
-    port: 30088
-    password: "alvin9999.com"
-    sni: "apple.com"
+    server: "my.xn--ehqa22b.site"
+    port: 21687
+    password: "1f3a8f7a-ce7d-4005-81ba-44e03a0022aa"
+    sni: "my.xn--ehqa22b.site"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "62.210.124.146"
+    port: 22000
+    password: "dongtaiwang.com"
+    sni: "www.microsoft.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "75.127.13.83"
+    port: 47974
+    password: "2c833c5d-cbcc-4afb-89ba-d17dc39db6f0"
+    sni: "www.bing.com"
+    skip-cert-verify: true
+    udp: true
+  - name: "@DeltaKroneckerGithub"
+    type: hysteria2
+    server: "my.xn--ehqa22b.site"
+    port: 21605
+    password: "3418c21b-5f47-445f-9717-243625c803f2"
+    sni: "my.xn--ehqa22b.site"
     skip-cert-verify: true
     udp: true
 
@@ -147,6 +171,9 @@ proxy-groups:
     lazy: true
     proxies:
       - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
 
   - name: "Auto"
     type: url-test
@@ -156,6 +183,9 @@ proxy-groups:
     lazy: true
     proxies:
       - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
 
   - name: "Fallback"
     type: fallback
@@ -163,6 +193,9 @@ proxy-groups:
     interval: 60
     lazy: true
     proxies:
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
+      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
 
 rules:
