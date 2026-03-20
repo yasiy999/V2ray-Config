@@ -122,30 +122,6 @@ dns:
 proxies:
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "de.xn--ehqa22b.site"
-    port: 21616
-    password: "af3fcf92-2409-4936-b78a-c9d92f68ab96"
-    sni: "de.xn--ehqa22b.site"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "de.xn--ehqa22b.site"
-    port: 21491
-    password: "df314131-ee4a-4857-a84e-e39c3eeac89d"
-    sni: "de.xn--ehqa22b.site"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "de.xn--ehqa22b.site"
-    port: 21985
-    password: "1f3a8f7a-ce7d-4005-81ba-44e03a0022aa"
-    sni: "de.xn--ehqa22b.site"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
     server: "130.61.50.75"
     port: 6443
     password: "zhangyang"
@@ -154,28 +130,18 @@ proxies:
     udp: true
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "181.214.99.162"
-    port: 35000
-    password: "b4bd0613-ff7c-4f2f-954d-185915e6ddad"
-    sni: "api.kermanshahi.org"
-    skip-cert-verify: true
-    udp: true
-    obfs: "salamander"
-    obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi"
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "de.xn--ehqa22b.site"
-    port: 21927
-    password: "46a64503-b76f-45b4-9948-6bac86e8d29e"
-    sni: "de.xn--ehqa22b.site"
+    server: "144.31.224.14"
+    port: 443
+    password: "123456789StrongPass"
+    sni: "www.cloudflare.com"
     skip-cert-verify: true
     udp: true
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "de.xn--ehqa22b.site"
-    port: 21312
-    password: "1f3a8f7a-ce7d-4005-81ba-44e03a0022aa"
-    sni: "de.xn--ehqa22b.site"
+    server: "hk.xn--ehqa22b.site"
+    port: 21697
+    password: "b7d213b3-e039-4ffb-8a3e-278604c71cf3"
+    sni: "hk.xn--ehqa22b.site"
     skip-cert-verify: true
     udp: true
 
@@ -199,10 +165,6 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
 
   - name: "Auto"
     type: url-test
@@ -214,10 +176,6 @@ proxy-groups:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
 
   - name: "Fallback"
     type: fallback
@@ -225,10 +183,6 @@ proxy-groups:
     interval: 60
     lazy: true
     proxies:
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
