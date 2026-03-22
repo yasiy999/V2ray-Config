@@ -1,3 +1,8 @@
-hy2://b7d213b3-e039-4ffb-8a3e-278604c71cf3@hk.xn--ehqa22b.site:21697?sni=hk.xn--ehqa22b.site#@DeltaKroneckerGithub
+hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy5.hy2yydsapi.top#@DeltaKroneckerGithub
+hy2://f899148e-6cb4-4cea-8a4f-6c6790eff5af@ch.xn--ehqa22b.site:21391?sni=ch.xn--ehqa22b.site#@DeltaKroneckerGithub
+hy2://dongtaiwang.com@62.210.124.146:22000#@DeltaKroneckerGithub
+hy2://f899148e-6cb4-4cea-8a4f-6c6790eff5af@ch.xn--ehqa22b.site:21494?sni=ch.xn--ehqa22b.site#@DeltaKroneckerGithub
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#@DeltaKroneckerGithub
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000/?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#@DeltaKroneckerGithub
 hy2://fGIvSUXOYn7WYPNAc2PmjYuIKbw@38.165.21.126:29794?sni=bing.com#@DeltaKroneckerGithub
-hy2://sysadmin.sysadmin@167.234.249.46:444/?insecure=1&sni=a.961229.xyz#@DeltaKroneckerGithub
+hy2://f899148e-6cb4-4cea-8a4f-6c6790eff5af@hk.xn--ehqa22b.site:21792?sni=hk.xn--ehqa22b.site#@DeltaKroneckerGithub
