@@ -1,500 +1,500 @@
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.238:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.236:443%20 #@DeltaKroneckerGithub
-vless://acd3f06c-0543-498b-b5d3-f7a25fbde50b@email.swiftraci.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&sid=bc06a5b31009&sni=www.microsoft.com#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.146.27:443/?type=ws&encryption=none&flow=&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&allowInsecure=1#@DeltaKroneckerGithub
-vless://b7725d23-840a-4f8e-993c-69b40424cfc0@91.218.143.194:43798?security=reality&encryption=none&pbk=W3aiFnhZRvZuZP0Zyfy7888t-NbHc0RmMEyFa7fYShU&headerType=&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=f71c22#@DeltaKroneckerGithub
-vless://4dde0df3-aa67-417c-882e-28beb3886961@87.239.107.95:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=ads.x5.ru&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad#@DeltaKroneckerGithub
-vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80/?type=ws&encryption=none&flow=&host=floral-term-d21f.wafajax493.workers.dev&path=🔒 [By EbraSha] #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.217:8080%20 #@DeltaKroneckerGithub
-vless://40fb2d29-374c-4255-ae56-bf3ad95b8b37@144.31.239.139:25340?encryption=none&fp=chrome&pbk=fmLlp7Vg3qzskePTLeNWmgppe3TPYlHb_yqBzRxaxUE&security=reality&sid=4830d187&sni=www.sony.com&type=tcp#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.61:38388#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24854#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.227:8080%20 #@DeltaKroneckerGithub
-vmess://eyJhZGQiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJhaWQiOiIwIiwiaG9zdCI6InpkcWJrLmNtdnZiLm9ubGluZSIsImlkIjoiM2Q3NGM5NTktMmE0Yy00ZGY4LTg4N2EtNGY5NzM2YTc3YjZmIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJARGVsdGFLcm9uZWNrZXJHaXRodWIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNjIuMTkuMjQ4LjIzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZGUyN2E3OS1iMDM5LTQ5MGItOTMyYy00OTVkZTRiNjg4ODAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NTAiLCJwcyI6IuKaoVRlbGVncmFtIFx1MDAzZCBAbmV0cm9vdnBuMTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@188.214.157.58:990#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.148:38388%20 #@DeltaKroneckerGithub
-vless://7270612b-49f6-4b04-999c-34d8263da767@v1.dabache.top:443?type=ws&encryption=none&host=picassooo.info&path=%2Faymdlws&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=picassooo.info#@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@121.182.148.222:11300?&security=tls&fp=random&alpn=http/1.1&sni=snippet.danfeng.gv.uy&type=ws&headerType=none&host=snippet.danfeng.gv.uy&path=%2Fdanfeng#@DeltaKroneckerGithub
-vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.17.77.77:8443?allowInsecure=1&encryption=none&host=v2ray1.dozapp.xyz&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#@DeltaKroneckerGithub
-vless://05e81b2a-d0ee-45da-8b31-48adcc8f81cc@154.31.114.125:443?encryption=none&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443%20 #@DeltaKroneckerGithub
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@v3.dabache.top:443?type=ws&encryption=none&host=octopusss4.com&path=%2Ftsghdws&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=octopusss4.com#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@147.78.0.182:990#@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.138.55.252:2053?security=tls&type=ws&path=/danfeng&host=snippet.danfeng.gv.uy&alpn=http/1.1&sni=snippet.danfeng.gv.uy&fp=chrome#@DeltaKroneckerGithub
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.21.224.5:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed%3D2048&packetEncoding=xudp#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNm5RclhTMmdIenJlN3A5a3JBMXZoMUVoM2JoZGNoZTk2Z1lSc0EzSlgzMzhTaFV6QlpFNE00ZFdOVlVlOTlXVEpWZG5ncFRqUkwxUHBuMlhBcnlucFYyOTZ3aDNVNnc%3D@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
-vmess://516d8a7a-3f0b-41d3-bad0-246116381516@104.21.76.158:8443?encryption=auto&security=tls&sni=t1.620720.xyz&fp=chrome&type=ws&path=/&host=t1.620720.xyz#@DeltaKroneckerGithub
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?security=tls&sni=64.94.95.118#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyTThmTms3bWV3a1loUkZKekV1NG9zSkJYaUpjWm90UVN2YUg2Y2ZteHM3YlAxMlFBTmlqRVp2S1R4UmQ0SGJhZTM3WG43eEVYZkJjeHo0dFdobWJXUTM2UkViblpvUFE@185.5.38.111:55988#@DeltaKroneckerGithub
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.21.94.81:2053?path=%2Fassets%3Fed%3D2048&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=INDEX.Arcane509.Workers.DEV&alpn=http%2F1.1&allowInsecure=1#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptbWRaNjNqc1hQQ1lGdGd5YXJFWE56TlRTY0VKaHE2Q2FFWEp6QzlBWVpwcXN0Q2JORWVLb3FtN1hzdzVlVHpzVWc0dWpoN0x1MW1RRlZ3QVFweUdtbmV3UGkzVUg5WEg=@download.riferoser.icu:56594#@DeltaKroneckerGithub
-trojan://T9BpZIVMNv@172.64.147.165:8443?sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd&allowInsecure=1#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.78:38388#@DeltaKroneckerGithub
-vless://6fb65356-788e-4118-8280-148ec6eca18a@104.17.198.210:443?&security=tls&fp=chrome&sni=xn--cz8h.pages.dev&type=ws&headerType=none&host=xn--cz8h.pages.dev&path=pyip%3Dproxyip.cmliussss.net#@DeltaKroneckerGithub
-vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=/&security=none&type=ws#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.230.146.170:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?type=tcp&security=reality&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#@DeltaKroneckerGithub
-vless://1091e4f4-c4e3-4411-b189-5617b6fd2480@154.31.114.125:443?encryption=none&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@23.152.200.75:443?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.fgfw.ccwu.cc&type=ws&headerType=none&host=snippet.fgfw.ccwu.cc&path=/danfeng#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR2phSnZpdEdTNzNpcWVXVkxveXpIQlB4N3J6OXNwMXE0TW96bkZQVXNXUGF2UURCbjNHNjg1UllMMTVvY1NDUkFqSEtpeEhxUEpaNXZDd1ZvbnR6WmRtNFdHZDRYNFA@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
-vless://f165ea66-6229-4919-9f82-913e02895571@193.233.254.81:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=%2F#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.56.99.255:56789/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.89.207.154:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6d2pUdWdYM1p0SE1COWMzWg==@217.30.10.70:9057#@DeltaKroneckerGithub
-trojan://T9BpZIVMNv@v3.dabache.top:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#@DeltaKroneckerGithub
-vless://8b648e4c-ac38-4809-951b-e1c8862b13d1@45.149.115.148:443?security=reality&amp;encryption=none&amp;pbk=0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=google.com&amp;sid=96#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg004740fsy.cybervena.com:50099#@DeltaKroneckerGithub
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#@DeltaKroneckerGithub
-vless://e0e40290-3690-000a-b0f4-022a5ae84e5c@89.208.222.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.10:38388%20 #@DeltaKroneckerGithub
-trojan://humanity@208.103.161.110:443?security=tls&sni=www.creationlong.org&insecure=1&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#@DeltaKroneckerGithub
-trojan://WF42809561@aware-corgi.rooster465.autos:443?sni=aware-corgi.rooster465.autos#@DeltaKroneckerGithub
-vless://26524cce-d514-4014-a426-365fb266a14d@vip1.kaixincloud.top:2053?type=ws&encryption=none&host=xco8dx9j5252.danfeng.gv.uy&path=%2Fdanfeng%3Fed%3D2560&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=xco8dx9j5252.danfeng.gv.uy#@DeltaKroneckerGithub
-vless://26524cce-d514-4014-a426-365fb266a14d@blog.646474.xyz:2053?security=tls&type=ws&path=%2Fdanfeng&host=q6x65zp4w.gfw.hidns.co&sni=q6x65zp4w.gfw.hidns.co&fp=chrome#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.118.197:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.70:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.239:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.29:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.27:38388%20 #@DeltaKroneckerGithub
-vless://bc019623-ecae-4ee0-8826-6e96f6942263@93.123.39.222:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=estonia1.labburo.su&pbk=Sc5uStN4dnN52FADXory1XNJhzpgF5FT7IMiw5csyXw&sid=3c7dbf0e7bd3d03c#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.245:38388#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.238:38388#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.221:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.224:38388%20 #@DeltaKroneckerGithub
-trojan://T9BpZIVMNv@172.64.146.129:8443?sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd&allowInsecure=1#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.191:2096?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&host=sni.my111000.tech&sni=sni.my111000.tech&fp=chrome#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.169.181.217:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-vless://6fb65356-788e-4118-8280-148ec6eca18a@172.67.67.0:443?&security=tls&fp=chrome&sni=xn--cz8h.pages.dev&type=ws&headerType=none&host=xn--cz8h.pages.dev&path=pyip%3Dproxyip.cmliussss.net#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.78:38388#@DeltaKroneckerGithub
-vmess://eyJhZGQiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJhaWQiOiIwIiwiaG9zdCI6InpkcWJrLmNtdnZiLm9ubGluZSIsImlkIjoiMmExYmM2N2YtZGYzOS00ZDY3LTlkZjItODU5MGVmMTQxMWE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJARGVsdGFLcm9uZWNrZXJHaXRodWIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QG9uZWNsaWNrdnBua2V5czo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Ftelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540wangcai2%3D&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.135.235.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram🇨🇳+@wangcai2#@DeltaKroneckerGithub
-trojan://trojan@152.53.200.98:8444?security=tls&sni=jflsjlaf.pages.dev&type=ws&host=jflsjlaf.pages.dev&path=%2F#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.59:990%20 #@DeltaKroneckerGithub
-vless://001a44d7-69e6-03e8-8d11-828fe2119621@anti-vpn.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&sni=ads.x5.ru#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.163:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.34:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-vmess://eyJhZGQiOiJuZXZhLmF6bGFuLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmV2YS5hemxhbi5iaXouaWQiLCJpZCI6IjgwNzIyOThmLWNkMjgtNGE2MS04ZTA1LTU4NzljODRiOTEwMCIsIm5ldCI6IndzIiwicGF0aCI6Ilwvdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJcdWQ4M2NcdWRkZWVcdWQ4M2NcdWRkZTlbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLUlEIiwic2N5IjoiYXV0byIsInNuaSI6Im5ldmEuYXpsYW4uYml6LmlkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0= 🔒#%20t.me%2Frjsxrd
-vmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4eo8J+Hpl10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoic2VyaWJ1cy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==```
-vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#%F0%9F%8F%8646@oneclickvpnkeysvless://d1209ffb-c159-48d5-b40d-542ce11fc768@150.241.73.22:10965?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lHxeD2nYtDb1V7JseV-sUTEuqH6_jie7U_iOARX7cT0&security=reality&sid=9f3a7c6d2e8b41af&sni=deepl.com&type=tcp#%F0%9F%A7%B113@oneclickvpnkeysvless://a7444b2b-20fb-461f-9840-63e5c8c7d883@104.16.158.162:80?encryption=none&host=mute-violet-c674.poviy66273.workers.dev&path=%2F&security=none&type=ws#@DeltaKroneckerGithub
-vless://35b8e6de-9ea9-42a6-8045-c858e1b0a37d@91.132.160.134:17873?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=21I2zNGkoNRdySx85Ie_KY3ppat-GHMcU1bm8mSJqEY&sid=de611036cc#@DeltaKroneckerGithub
-trojan://WF42809561@alert-sunbird.crayfish192.xyz:443?sni=alert-sunbird.crayfish192.xyz#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.81.141.138:2096?host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳+@WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#@DeltaKroneckerGithub
-vless://49ce7256-c35c-423d-a970-3fa10f835f2b@176.109.110.120:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#@DeltaKroneckerGithub
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.147.210:443/?type=ws&encryption=none&flow=&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&allowInsecure=1#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.9:38388%20 #@DeltaKroneckerGithub
-trojan://WF42809561@liked-eft.rooster465.autos:443?sni=liked-eft.rooster465.autos#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.168.35.194:56393?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.103.32:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@104.16.148.5:443?sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2Fbuy%2Fproxyip%3D45.196.239.151%2C167.253.153.161%2C45.196.239.238%2C45.196.238.248%2C45.196.238.145%2C223.165.4.57%2C85.237.207.19%2C167.253.153.80&allowInsecure=1#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.118:443?eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.dynv6.net&path=/&security=tls&sni=sni.111000.dynv6.net&type=ws#@DeltaKroneckerGithub
-trojan://trojan@65.109.190.2:442?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
-trojan://WF42809561@valued-mullet.rooster465.autos:443?sni=valued-mullet.rooster465.autos#@DeltaKroneckerGithub
-vless://23139ba6-14ab-4675-acbb-6c1692c2c61a@93.185.166.71:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Y3f9ANzzBvO_n89wALWn6KrdLTqAf68MeLQdgSrxtks&sid=3d385088cec747a4&sni=eh.vk.com&spx=/#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:80#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.43:38388 #@DeltaKroneckerGithub
-trojan://WF42809561@casual-emu.rooster465.autos:443?sni=casual-emu.rooster465.autos#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.248:38388%20 #@DeltaKroneckerGithub
-vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?packetEncoding=xudp#@DeltaKroneckerGithub
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.17.143.243:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.62:38388%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.36:38388%20 #@DeltaKroneckerGithub
-vless://26524cce-d514-4014-a426-365fb266a14d@cf.cloudflare.182682.xyz:443?security=tls&type=ws&path=%2Fdanfeng&host=q6x65zp4w.gfw.hidns.co&sni=q6x65zp4w.gfw.hidns.co&fp=chrome#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.234.239.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.86.73.221:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.31:38388%20 #@DeltaKroneckerGithub
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@172.64.52.178:443?allowInsecure=1&encryption=none&host=powered-by-surena.user68f797c2f3e1b.workers.dev&path=%2F&security=tls&sni=powered-by-surena.user68f797c2f3e1b.workers.dev&type=ws#@DeltaKroneckerGithub
-vless://636de463-b509-4631-adc6-400b21733278@104.21.59.114:8880?encryption=none&type=ws&host=index.harmony510.workers.dev&path=%2Frlg2mgmxyyu4n5a8&security=none#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080%20 #@DeltaKroneckerGithub
-vmess://eyJhZGQiOiI4LjIxMC4xNDEuMTQ5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTI5Njg5Ny5saWU1ZC5jeW91IiwiaWQiOiI1ZWNjMzA4Ni05M2NmLTQyZTMtOTU2Yi1mMjE4MGUwNDI1MzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJzY3kiOiJhdXRvIiwic25pIjoiOC4yMTAuMTQxLjE0OSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-trojan://WF42809561@magnetic-haddock.rooster465.autos:443?sni=magnetic-haddock.rooster465.autos#@DeltaKroneckerGithub
-vless://1cb9d1d6-4b73-4154-be97-13d92873cc71@82.202.159.129:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=8qHRGcCezzSu4S-Cz9l19BNRLWm4MkaSwZV3dNrLEwc&sid=d515d6cfdfe60b02#@DeltaKroneckerGithub
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.147.133:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.247:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.232:38388 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@DeltaKroneckerGithub
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@chatgpt.com:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&type=ws#@DeltaKroneckerGithub
-vless://90c9c25c-df6c-4438-83d3-ef97166a9184@45.66.163.194:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=A3PWLCRX9oeSyPvrmrwj2jUXcLo2uCwAISRBHtNE1Xw&security=reality&sni=5post-gate.x5.ru&type=tcp#@DeltaKroneckerGithub
-vless://6fb65356-788e-4118-8280-148ec6eca18a@104.24.222.83:443?&security=tls&fp=chrome&sni=xn--cz8h.pages.dev&type=ws&headerType=none&host=xn--cz8h.pages.dev&path=pyip%3Dproxyip.cmliussss.net#@DeltaKroneckerGithub
-vmess://eyJhZGQiOiIxMDQuMjEuOC4yMjUiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJpZCI6IjY4NjY3OTQyLWE3YzctNGYzZS1iODJmLTAwOTQ3ZWU4ODkzMSIsIm5hbWUiOiLwn4e68J+HuCBVUyAyOSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4NDQzLCJwcyI6IkBEZWx0YUtyb25lY2tlckdpdGh1YiIsInNjeSI6bnVsbCwic25pIjpudWxsLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.113:38388#@DeltaKroneckerGithub
-vless://5238a315-4427-4915-a1de-4978e3029a1c@104.17.147.22:2096?&security=tls&fp=chrome&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV&type=ws&headerType=none&host=loNg-modE-2783.SEpna114.WOrkERs.dEV&path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0#@DeltaKroneckerGithub
-vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@162.245.221.19:2053?encryption=none&security=tls&sni=edt2.btxst.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=edt2.btxst.eu.cc&path=%2Fbooks%2Fmusic%2Fgo#@DeltaKroneckerGithub
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.21.227.134:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#@DeltaKroneckerGithub
-vless://636de463-b509-4631-adc6-400b21733278@172.67.179.152:2086?encryption=none&security=none&type=ws&host=index.harmony510.workers.dev&path=%2F0hj0k45fc0ro1kq7#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.237:38388%20 #@DeltaKroneckerGithub
-vmess://eyJhZGQiOiI0Ny4yNDIuMTM4LjE0MSIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6Im4xNzYxMjk2ODgwLmxpZTVkLmN5b3UiLCJpZCI6IjFlZmZhYzRhLWNkYjgtNDcxNy1hMTBjLWRhOTcyNjNjODAyYyIsIm5hbWUiOiLwn4et8J+HsCBISyAxIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJARGVsdGFLcm9uZWNrZXJHaXRodWIiLCJzY3kiOm51bGwsInNuaSI6Im4xNzYxMjk2ODgwLmxpZTVkLmN5b3UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443%20 #@DeltaKroneckerGithub
-trojan://WF42809561@loyal-killdeer.rooster465.autos:443?sni=loyal-killdeer.rooster465.autos#@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@23.95.48.132:2083?alpn=http%2F1.1&encryption=&flow=&fp=random&host=snippet.fgfw.ccwu.cc&path=%2Fdanfeng&security=tls&sni=snippet.fgfw.ccwu.cc&type=ws#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.189:38388#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.6.112.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&type=ws&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA@217.30.10.70:9093#@DeltaKroneckerGithub
-vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&security=none&sni=v2ray.codefyinc.com&fp=chrome&type=ws&path=/vmessws&host=v2ray.codefyinc.com#@DeltaKroneckerGithub
-trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#@DeltaKroneckerGithub
-vless://69d38faa-21a1-4d18-82cb-796a942c181b@104.17.46.112:443?allowInsecure=1&encryption=none&host=sfsl.ardomains1.dpdns.org&path=%2F&security=tls&sni=sfsl.ardomains1.dpdns.org&type=ws#@DeltaKroneckerGithub
-vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@cloudflare-ip.mofashi.ltd:443?encryption=none&security=tls&sni=sss.yaml7.ggff.net&insecure=0&allowInsecure=0&type=ws&host=sss.yaml7.ggff.net&path=%2F%3Fed%3D2048#@DeltaKroneckerGithub
-vmess://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&amp;security=none&amp;type=tcp#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@171.22.254.17:989%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.183.186.27:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.166:989#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.191:38388%20 #@DeltaKroneckerGithub
-vless://f2564bb4-9960-4ccb-8017-bc02802f768a@104.21.61.58:443?encryption=none&type=ws&security=tls&path=ws&host=white-snowflake-e65e.queenmahsan1.workers.dev&fp=chrome&sni=white-snowflake-e65e.queenmahsan1.workers.dev#@DeltaKroneckerGithub
-vless://b9dd5847-412a-4957-bc79-c097037fd7b9@ru2.mambo-jambo.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=ios&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&spx=%2F&sid=d7e1a2bb#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@95.173.218.203:990#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.71:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.61.51.100:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳@wangcai2#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.154.53.220:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.140.146.23:8443?&security=tls&fp=random&sni=snippet.danfeng.gv.uy&type=ws&headerType=none&host=snippet.danfeng.gv.uy&path=%2Fdanfeng#@DeltaKroneckerGithub
-vless://8475ccf8-2464-4e1f-bf1e-656d2fc77ff7@netv.amirshee9090.workers.dev:443?encryption=none&security=tls&sni=netv.amirshee9090.workers.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=netv.amirshee9090.workers.dev&path=ws#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.54:38388#@DeltaKroneckerGithub
-vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#@DeltaKroneckerGithub
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.187.115:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001213klw.cybervena.com:50099%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.43.179.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&type=ws&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvSGd1VTg2SG9hNDFIQW5jVzg4bzRrRXNweThzb3M5dGtibks2dUx2c2dmTWV0dUZLRUNoazJRWTZlUjNhNjdOWEFtV2Uya0Q4dmJoWkV5dXcyR3gxaERQWFhTZ21pbXQ%3D@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.119.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VkpFM29tNTNJejV0M3VnTmE1N0tZTlc3OVpCcmd4Q3RNWGZNdytSS3JFYz06QUF2bytCc2dwdnZSNWxKc2RRVTMydnJNWEw3WkFiWkpaZkVUQjdiZGRoUT0=@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13952#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKT1o1TWIzbkpDbW1vS2hkOENjOWFD@5.181.2.76:36608%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.2.182:990 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.133.190:443?fp=chrome&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.dynv6.net&type=ws#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.59:38388%20 #@DeltaKroneckerGithub
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@172.64.153.208:443?sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2Fdl%2Fproxyip%3D45.196.239.151%2C167.253.153.161%2C45.196.239.238%2C45.196.238.248%2C45.196.238.145%2C223.165.4.57%2C85.237.207.19%2C167.253.153.80&allowInsecure=1#@DeltaKroneckerGithub
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@vip.yaml7.ggff.net:80?type=ws&security=none&host=vip.yaml7.ggff.net&path=%2F#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQlhvMnpxWVdDSERMaFRrUXh4RlhVcG5wRmFZaVV1TlViQkdXUVd6NGNCYTVoR2t2TGtjZGo5MXRDakJuc0RMR2RFUUR1VGNDTlZ0N015VnlxTXZja2hldVQyU2FnaW8@185.5.38.111:55988#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.59.159.111:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
-vmess://ewogICAgImFkZCI6ICJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsCiAgICAiaWQiOiAiMWVmZmFjNGEtY2RiOC00NzE3LWExMGMtZGE5NzI2M2M4MDJjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4et8J+HsEhLLTQ3LjI0Mi4xMzguMTQxLTAzMTciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJuMTc2MTI5Njg4MC5saWU1ZC5jeW91Igp9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.32.49.72:9443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-vless://bf710ad2-4a43-4379-aa73-e684f00b6240@188.114.97.3:443?encryption=none&type=ws&security=tls&host=broad-sky-9360.k7uztejf9ief.workers.dev&fp=chrome&sni=broad-sky-9360.k7uztejf9ief.workers.dev#@DeltaKroneckerGithub
-vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.38:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.243:38388%20 #@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@172.233.121.202:20205?&security=tls&fp=random&alpn=http/1.1&sni=snippet.sheilabelinda.ndjp.net&type=ws&headerType=none&host=snippet.sheilabelinda.ndjp.net&path=%2Fdanfeng#@DeltaKroneckerGithub
-trojan://uThbm8eGmXZ7GKqnWy@194.124.216.113:443?allowInsecure=1#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.138.204:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.145:38388#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.181.219:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.39.62.53:443?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://97b5436e-ff7c-443a-bc6b-72769f53d862@174.136.205.68:443?encryption=none&fp=random&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#@DeltaKroneckerGithub
-vless://6048472f-0993-4ae0-8203-960b9a0f4113@38.54.23.58:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i7xxqA7h16NpQQAGiQJKxubs-_IRCUUlredSK7swTkw&security=reality&sni=www.amazon.com&type=tcp#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.37:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@38.242.229.125:8443?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.42:8443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#@DeltaKroneckerGithub
-vmess://f2fd0786-1059-4f64-d54e-3f3a568c6c68@46.246.126.154:443?encryption=auto&security=none&type=ws#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.26:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.151.132.228:19034?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-vless://5f98c4f8-19f4-471d-8ed5-10c0550c0423@150.241.75.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=K0J7MeoQdkINpubvpI7F0sqfx3TYonr35gCj3xlxRnw&security=reality&sid=c34685e6&sni=tunnel.vk-apps.com&type=tcp#@DeltaKroneckerGithub
-vless://fb219cd8-5d3f-4da6-9847-d77c1a20a674@62.113.43.135:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=goodcardboard.shop&pbk=rDPZZOBMmBb_mNKPEewzp9Uu6zkGrP7XOVpnRzetXDc&spx=%2F#@DeltaKroneckerGithub
-vmess://820d4b4f-3357-4dc7-9381-6e5fd52b5f39@45.15.170.237:80?encryption=auto&host=pelang.org&path=/vmess/&security=none&type=ws#@DeltaKroneckerGithub
-vless://a6abf70b-f734-42e5-ace6-208e4d53d207@save.enigmabot.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SHIYN7zN9aFVxwKK-bIvDbhUgtHvlBhDi1qSl2sWwRw&sid=fb916778d4&sni=max.ru#@DeltaKroneckerGithub
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8/QklBX1RFTEVHUkFNQEFaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxX0FaQVJCQVlKQUIxP2VkPTI1NjAiLCAiaG9zdCI6ICJBWkVSQi5ORVQiLCAidGxzIjogIiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U@185.5.38.111:55988%20 #@DeltaKroneckerGithub
-trojan://WF42809561@closing-sailfish.rooster465.autos:443?sni=closing-sailfish.rooster465.autos#@DeltaKroneckerGithub
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@104.18.185.26:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&fp=chrome&sni=octopusss4.com#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.232.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.90:8443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#@DeltaKroneckerGithub
-trojan://WF42809561@tolerant-rattler.rooster465.autos:443?sni=tolerant-rattler.rooster465.autos#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.73:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.165.233.93:989#@DeltaKroneckerGithub
-vless://5e80724d-4737-4b0c-9c95-c76e986b05f1@vpn.nnet.online:443?encryption=none&type=ws&host=nnet.online&path=%2Fvless-tls&security=tls&sni=VPN.nnet.online#@DeltaKroneckerGithub
-vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&security=tls&sni=v2ray.codefyinc.com&fp=&type=ws&path=/vmessws&host=v2ray.codefyinc.com#@DeltaKroneckerGithub
-vless://1007b7c2-2170-4ba4-a68d-ec31fbb4bf74@188.114.97.3:443?encryption=none&type=ws&security=tls&path=/vless-tls&host=nnet.online&fp=chrome&sni=nnet.online#@DeltaKroneckerGithub
-trojan://IL37892054@sharp-dogfish.rooster465.autos:443?security=tls&sni=sharp-dogfish.rooster465.autos&insecure=1&allowInsecure=1&type=tcp&headerType=none#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.59.107:990#@DeltaKroneckerGithub
-vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@172.66.44.211:80?type=ws&host=vpnpro.eshghiabolfazl2009.workers.dev&path=%2F&fp=chrome#@DeltaKroneckerGithub
-vless://d08a63e7-dbea-4a36-a239-9f0b37a46b40@2.27.47.174:5432?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=RfZzB2TSldM1wfSuPRf3bkGYiY7ZQCZuramo-rMXBUA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=drive.google.com&sid=d6c3e380e5ea1eeb#@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@91.107.177.114:14444?encryption=none&security=tls&sni=snippet.sh21.eu.org&fp=random&insecure=0&allowInsecure=0&type=ws&host=snippet.sh21.eu.org&path=%2Fdanfeng#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652%20 #@DeltaKroneckerGithub
-vmess://eyJhZGQiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QG9uZWNsaWNrdnBua2V5czo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@172.67.75.172:80?encryption=none&host=floral-term-d21f.wafajax493.workers.dev&type=ws#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ@217.30.10.70:9033 #@DeltaKroneckerGithub
-vless://4c118dbd-1a2a-404d-96a3-186dd801fa2e@212.233.74.16:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=rbc.ru&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027%20 #@DeltaKroneckerGithub
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@singapore.com:2083?encryption=none&security=tls&sni=index.0x15.workers.DEV&alpn=http/1.1&type=ws&host=index.0x15.workers.dev&path=/9quSDGMroCZkFeWzTk#@DeltaKroneckerGithub
-vmess://eyJhZGQiOiJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwiYWlkIjowLCJob3N0IjoibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsImlkIjoiMWVmZmFjNGEtY2RiOC00NzE3LWExMGMtZGE5NzI2M2M4MDJjIiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGVkXHVkODNjXHVkZGYwW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ISyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6Im4xNzYxMjk2ODgwLmxpZTVkLmN5b3UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.180.80:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
-vmess://eyJhZGQiOiIzNS4yNDAuMjI1LjIzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM1ZGQ2NjgwLTY0YWQtNGYwNC05OTUyLTQ5ZDk0OTg0ZjllYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODg4MCIsInBzIjoiQERlbHRhS3JvbmVja2VyR2l0aHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://zWFjJENcljZm@104.18.3.150:443?security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&allowInsecure=true&fp=chrome&type=ws&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=/?ed%3D2560#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#@DeltaKroneckerGithub
-vless://ef6db9e0-4c05-4933-a599-0dc9530f08cc@104.18.32.47:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=022.electrocellco-cf-022.workers.dev&path=%2FeyJqdW5rIjoiZDlTMUlUZGZPM0NYVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&sni=022.eLEctRocELlcO-CF-022.worKeRs.DEV&type=ws#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram@WangCai2#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.169.184.123:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06QUF2bytCc2dwdnZSNWxKc2RRVTMydnJNWEw3WkFiWkpaZkVUQjdiZGRoUT0=@64.49.45.246:13144#@DeltaKroneckerGithub
-vless://cc0c5ff2-00b5-4dcb-8811-076c637911c4@174.136.205.68:443?type=tcp&security=reality&encryption=none&fp=random&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&sni=navi.bankrate.com#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6YmY3djMzNEtLRFYzWURoSA@217.30.10.70:9070%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.246.110.66:443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.217:2053?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg==@154.38.176.7:80#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080%20 #@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@37.19.198.243:443%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.120.92.150:8443?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#@DeltaKroneckerGithub
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@52.77.114.70:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-vless://b4e92f5c-80d5-4c00-b028-168f7493c197@usvless.sudao888.xyz:51109?&security=reality&pbk=wYa4Dj_V4TKfO3nRxIgk6cq19CWTq6anTB8sqEcbiX4&sid=9109aa&fp=edge&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#@DeltaKroneckerGithub
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#@DeltaKroneckerGithub
-vless://03c766ab-6537-4752-8211-51d575d3a9be@154.31.114.125:443?encryption=none&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#@DeltaKroneckerGithub
-vless://0ca855d9-7c03-40eb-929b-919f934abdc3@104.18.81.143:80?encryption=none&security=none&type=ws&host=amirvpn.amirhm00100.workers.dev&path=%2F%3Fed%3D2048#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080%20 #@DeltaKroneckerGithub
-vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=/&security=none&type=ws#@DeltaKroneckerGithub
-vless://1babf197-af69-406e-aae2-83c411ae979f@85.209.154.199:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5vKf_Ni653huMNUl6V34EJxEGPCC0hZ6rFCPwu2Z300&sid=3ef8cdbc&sni=google.com&path=&host=#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.46:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989%20 #@DeltaKroneckerGithub
-vless://5952ea01-0669-4f5e-8010-61f8abee3600@138.124.75.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=c3W9GpyDD3dKT_KPBn6X2eH4nvTX016JqmGRSGFrSF8&security=reality&sid=1644d7de8a2d71bd&sni=fi.grizzlyvpn.work&type=tcp#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.20:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.143.159.175:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram🇨🇳#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.224.0:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=holy-dawn-e9ec.jonas05-ba6.workers.dev&fp=chrome&type=ws&sni=holy-dawn-e9ec.jonas05-ba6.workers.dev#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.113:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.150:38388#@DeltaKroneckerGithub
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@188.114.97.3:80?encryption=none&type=ws&security=none&path=/XR8So0uqFVa3vY9ZbxgW4&host=bhy7.ae1autumn.dpdns.org#@DeltaKroneckerGithub
-vless://24717d75-93dc-46ad-9b99-89a33a978bf7@154.31.114.125:443?encryption=none&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.115:38388 #@DeltaKroneckerGithub
-vmess://03fcc618-b93d-6796-6aed-8a38c975d581@23.162.200.227:443?encryption=auto&path=%2Flinkvws&security=tls&type=ws#@DeltaKroneckerGithub
-vless://9caafed4-04ba-41b2-9c64-e4ce39a985d6@188.114.98.44:2053?allowInsecure=1&encryption=none&host=dxg5.sellink.ir&path=%2F&security=tls&sni=dxg5.sellink.ir&type=ws#@DeltaKroneckerGithub
-vmess://eyJhZGQiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJhaWQiOiIwIiwiaG9zdCI6InpkcWJrLmNtdnZiLm9ubGluZSIsImlkIjoiZjIwMGMxZDktNDA2MC00Nzg0LThjNDUtODczNThiMjU1Yzg3IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJARGVsdGFLcm9uZWNrZXJHaXRodWIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJub2Rlczo6R0I6OkdCOjpHQjo6R0I6OkdCIiwiYWRkIjoiNjYuMTYzLjExNy41OCIsInBvcnQiOiIyMjMyNCIsInR5cGUiOiJub25lIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.56:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.69.139:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.23.252.20:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.18:38388 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN0JFSEVRZTY4TXd3aGd1c25aa0xGdlBUcHFuVTJVd3Fzdzl1U3oyV28zYlE1NnNmVVc0N1NpWnYxRkVUSnpTSmVwNHZ0d0p6TXhRWXJZeG9nRTlGR2JpMzFQVkdjWVM@185.5.38.111:55988#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@158.101.146.3:54516?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.22:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.152:38388#@DeltaKroneckerGithub
-vless://2402d74e-dbad-4ce3-9c0b-9202714715dc@as-se4.agveit.pro:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rc12flRDd-ld_WXwzrJlaiyl1-aiWnpMZfhU4mjrN2Y&sid=3f8c096c8be472c3&sni=as-se4.agveit.pro#@DeltaKroneckerGithub
-trojan://T9BpZIVMNv@104.18.32.47:8443?sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd&allowInsecure=1#@DeltaKroneckerGithub
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI4Mi4xOTguMjQ2Ljk3IiwgInBvcnQiOiAiMTgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICIyMDAxOmJjODozMmQ3OjMwMjo6MTAiLCAidGxzIjogIiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-vmess://4a1b829b-8394-42c1-a068-04cd8e6bcb3c@156.238.250.91:18811?encryption=auto&security=none&type=tcp#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?path=/?ed=2560&Telegram🇨🇳@WangCai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.108:38388%20 #@DeltaKroneckerGithub
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@[::ffff:6815:45a4]:2087?path=%2Fyyru4ludskje&encryption=none&type=ws&host=ems.arc-time.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1#@DeltaKroneckerGithub
-vless://309fa273-6579-4cb2-9143-7cad50401eba@91.99.106.117:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201%20 #@DeltaKroneckerGithub
-vless://ea8d14d4-ca12-4cd1-bcad-f0fa72f6eadc@95.81.101.137:2087?type=grpc&security=none&serviceName=vpngrpc#@DeltaKroneckerGithub
-vless://a2811568-c87b-4626-a21d-b434d39578a0@35.sahanwickramasinghevip.shop:443?security=tls&amp;encryption=none&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1&amp;sni=aka.ms#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@173.234.29.2:990%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.234:38388%20 #@DeltaKroneckerGithub
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@cvfg.ae1autumn.cc.cd:80?encryption=none&security=none&type=ws&host=cvfg.ae1autumn.cc.cd&path=%2FXR8So0uqFVa3vY9ZbxgW4#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@217.30.10.18:9043#@DeltaKroneckerGithub
-vless://7270612b-49f6-4b04-999c-34d8263da767@vip2.kaixincloud.top:443?type=ws&encryption=none&host=picassooo.info&path=%2Faymdlws&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=picassooo.info#@DeltaKroneckerGithub
-vless://a114d067-b900-4f60-87a5-50d4d63972b8@104.18.3.150:443?allowInsecure=1&encryption=none&host=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&path=%2F&security=tls&sni=PaRiSA-CC5Zk0.paRISa-44c.woRKeRs.dev&type=ws#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.29.138:2096?path=/?ed=2560&telegram🇨🇳 @vaynora&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.163:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#@DeltaKroneckerGithub
-vless://42c6639a-6a9c-48ae-ba43-6ba6669e761e@67.159.55.69:50043?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=sun9-45.userapi.com&pbk=DG904eM7xGecwV_nhjX73c-7g_fGEv8BgjbeAmTE8Bs&sid=505c94b8c65afb0a&spx=/#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.127:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#@DeltaKroneckerGithub
-vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&amp;security=none&amp;type=tcp#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.88.67.37:2053?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.223.89:15800/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#@DeltaKroneckerGithub
-ss://2022-blake3-aes-256-gcm:mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=%3AAAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13141#@DeltaKroneckerGithub
-vless://53134f56-eb52-42e0-b075-006b5187dee1@176.109.110.120:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.72:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.224:38388%20 #@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIxMDQuMjEuOC4yMjUiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOiJucXprYi5jbXZ2Yi5vbmxpbmUiLCJpZCI6ImQwYTNlYmQyLTIzZGItNDJiMy05ODIzLTdjNTdkMWQ1NTkxYiIsIm5hbWUiOiLwn4e68J+HuCBVUyAxNDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBEZWx0YUtyb25lY2tlckdpdGh1YiIsInNjeSI6bnVsbCwic25pIjpudWxsLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.184:38388 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.207:38388 #@DeltaKroneckerGithub
+vless://e0e40290-3690-000a-b0f4-022a5ae84e5c@89.208.222.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.46:38388%20 #@DeltaKroneckerGithub
+vmess://eyJhZGQiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJhaWQiOjAsImhvc3QiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJpZCI6IjM3YjIwNjM5LTBkNmUtNDZmMi05ZGI1LTQ3MjIwMWIxMGNkZCIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6NDQzLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJuMTc1MzM1NjM3OC40dTltYS5pY3UiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9 46ms HK [Alibaba Cloud LLC]#%20t.me%2Frjsxrd
+vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp%20#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.238:2096?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.47.253.227:990#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443%20 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@207.246.98.244:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#@DeltaKroneckerGithub
+vless://098fd515-29de-4d74-b77d-d8ab878a7e2c@v2.dabache.top:443?type=ws&encryption=none&host=rivvers.info&path=%2Fresgdws&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=rivvers.info#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6d2ZMQzJ5N3J6WnlDbXV5dA==@217.30.10.70:9093#@DeltaKroneckerGithub
+trojan://WF42809561@proud-pheasant.rooster465.autos:443?sni=proud-pheasant.rooster465.autos#@DeltaKroneckerGithub
+trojan://trojan@129.150.35.29:587?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
+vless://51614bfa-1bd9-4de0-bbbb-8a938bae2958@2.ru.onenetconf.top:443?type=tcp&security=reality&sni=onenetwiki.top&pbk=hVvvDs4uzdQPOR4iLrca0vd8vlRAHKNmIAtdlJDLHWA&flow=xtls-rprx-vision#@DeltaKroneckerGithub
 vless://e73d4e2a-ac73-4948-960a-2c2dd57b7ea8@104.21.63.208:443?encryption=none&type=ws&security=tls&path=%2Fws&host=yellow-disk-0edf.diyenec996.workers.dev&fp=chrome&sni=yellow-disk-0edf.diyenec996.workers.dev#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoZFVreVM0d0dvTDVuM3lhQmhtNUpVQWVYY3dyQ2VrMmhRN0c2bmg2R3lZcHd2VTdKcVJwSldMa1ZVUVl6WVhROU1NYjRZdlNQdnJDaWROOVZWZ21UVXZma1pCZ2hDcXI%3D@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@154.205.146.153:990%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@24.199.112.232:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-vless://da78f96e-01d3-4289-9d0b-fbbe3f0a5472@chatgpt.com:443?encryption=none&security=tls&sni=aio.zxcore.biz.id&insecure=0&allowInsecure=0&type=ws&host=aio.zxcore.biz.id&path=%2Faioproxybot%2F124.153.168.248-50001#@DeltaKroneckerGithub
-vless://1f0a8364-ae34-07d0-b999-34a723111ebd@81.19.136.251:52006?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.230:38388#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.179.250.68:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.70:9011 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.154:38388#@DeltaKroneckerGithub
-trojan://WF42809561@needed-haddock.rooster465.autos:443?sni=needed-haddock.rooster465.autos#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.250.152:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.129:38388%20 #@DeltaKroneckerGithub
-vless://d042a74a-c305-4eec-a89f-39a348022c92@104.24.34.193:443?path=ws&security=tls&encryption=none&insecure=0&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.214:38388%20 #@DeltaKroneckerGithub
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@172.64.146.153:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.143:8080#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.140.254:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#@DeltaKroneckerGithub
-vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#@DeltaKroneckerGithub
-vless://15041021-33ff-447e-bdd2-5a6f226f5ba2@ru.vpn-club-service.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=hd4dEiJ3ba7pm7kUF9l4DYAm6M34do8TO6QEprgqFl0&sid=a1b2c3d4&sni=tradingview.com&path=&host=#@DeltaKroneckerGithub
-vless://0fa13297-7784-48e1-9c19-308c8b440edb@176.108.247.44:443?security=reality&flow=xtls-rprx-vision&sni=dk21.strelkavpn.com&type=tcp&fp=chrome&pbk=rhL4R8tBOs5UnuwptbdegPycyuxGn-wvurb4eRYNSgY&sid=596e1781a03304#@DeltaKroneckerGithub
-trojan://telegram-id-directvpn@52.47.75.88:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@DeltaKroneckerGithub
-vless://13ad36e6-c091-43f2-8505-47d868dd544c@104.21.94.245:80?security=none&sni=ghju.apocalypse.cc.cd&type=ws&host=ghju.apocalypse.cc.cd&path=%2FXR8So0uqFVa3vY9ZbxgW4&fp=chrome#@DeltaKroneckerGithub
-vless://4fb684c9-977f-4a7c-82a5-1f70fc141510@193.242.106.6:58888?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=sun6-21.userapi.com&pbk=vTATCiPT7A58mmpm0k2qnIlOKqPL5rxcmgXKxzBDLXU&sid=7a3f9e2b1c8d4f6a&spx=/#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.190.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=#@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@209.97.187.203:443?&security=tls&fp=random&alpn=http/1.1&sni=snippet.danfeng.gv.uy&type=ws&headerType=none&host=snippet.danfeng.gv.uy&path=%2Fdanfeng#@DeltaKroneckerGithub
-vless://7890ce31-9a25-4fd4-90e7-80e5823ff510@www.visa.com.sg:2095?encryption=none&amp;security=none&amp;type=ws&amp;host=iioo.iioou.workers.dev&amp;path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@104.18.41.190:2087?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2F#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.70:9005%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.237.73.24:443?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.2.12.103:14453?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.61:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.146.153:990%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.169.55.124:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#@DeltaKroneckerGithub
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.147.166:443?security=tls&sni=terazhediii.info&type=ws&host=terazhediii.info&path=%2Fsghiyws&fp=chrome#@DeltaKroneckerGithub
-vmess://d7f56688-56a0-448c-bc04-fd83c6ac17d0@213.183.54.243:443?encryption=auto&path=/&security=none&type=ws#@DeltaKroneckerGithub
-vless://427d85cd-a2a8-4668-8118-0d43d2d57f77@8.6.112.0:443?security=tls&sni=asmaos.uk&type=ws&host=asmaos.uk&path=%2F&allowInsecure=0#@DeltaKroneckerGithub
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.147.252:443/?type=ws&encryption=none&flow=&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&allowInsecure=1#@DeltaKroneckerGithub
-vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.183:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.25.25.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram🇨🇳@WangCai2#@DeltaKroneckerGithub
-vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@188.114.96.3:443?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560fp%3Dchrome&host=rAyAn-007.pArViN.DpDnS.OrG&sni=rAyAn-007.pArViN.DpDnS.OrG#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.30:38388#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.131:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.238.238.133:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.107.101:990%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.78:38388%20 #@DeltaKroneckerGithub
-vmess://eyJhZGQiOiI0NS44OS41Mi4yMDciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwibmV0IjoidGNwIiwicG9ydCI6Mzk2NTEsInBzIjoiQERlbHRhS3JvbmVja2VyR2l0aHViIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.49.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009%20 #@DeltaKroneckerGithub
-vmess://eyJhZGQiOiAiMTY1LjE0MC4yMTYuMTQxIiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogNDQzLCAicHMiOiAiQGNoaWxsZ3V5X3ZwbiIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIkNoYW5uZWwgOiBARnJlZUNvbmZpZ0ZvcllvdVx1ZDgzY1x1ZGZmNFx1ZDgzY1x1ZGZmMyJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=/&security=none&type=ws#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.71.60.191:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphVTd6SDRDTmduaU1kS1RDRDVCdlVFSzJwOTRzZW9FTmdZRTFyUzc3Y3liaU5HQlBlcHR4ZkRlVjdRc3ZNdk54THlyOTRjYmgzRWt6dGF0NDNkQmZ1N3lxTFR4ZWtHZ0Y%3D@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
-trojan://trojan@154.12.53.125:54321?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyS3Q4RTg2eDJ0VnRLYnRwc2dWcEhIRTExclUzWFd1aEM4V3pNNktBVXd3d3BETGNKRjZ2cVd2eVI4VkhnMkxEYkpRUWpWQTF3QTZUTXE4SlN4MTdaY0tWeGNBUEdudXI%3D@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZkcyYXJ0VW1IZk5UMmNYNw@217.30.10.70:9018%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZDdiMGQxNGI1OTBiY2Vi@112.197.26.106:26417%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.92.234.61:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@104.16.250.22:443?allowInsecure=1&encryption=none&host=639073677259599430.civic-perma.info&path=%2Fcahttingws&security=tls&sni=639073677259599430.civic-perma.info&type=ws#@DeltaKroneckerGithub
-vless://c1104d93-eba3-48d6-ba63-10574bdaa8b3@154.31.114.125:443?encryption=none&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#@DeltaKroneckerGithub
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@162.159.45.207:80?encryption=none&host=vip.yaml7.ggff.net&security=none&type=ws#@DeltaKroneckerGithub
-ss://2022-blake3-aes-256-gcm:mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:12407#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.70:9011#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.138:38388#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.144.49:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@5.253.41.72:443?encryption=none&type=tcp&security=reality&fp=firefox&sni=jp1.cyphervpn.pro&pbk=rjE8nekciQ8vkzooBJVwOIqV5tMS0soqdq1AysukY2Q&sid=5bfa0c&spx=%2F#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.100.19.144:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@140.83.57.183:22735?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-vless://f165ea66-6229-4919-9f82-913e02895571@212.192.246.24:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=tradingview.com&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&spx=%2F#@DeltaKroneckerGithub
-vmess://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&security=none&type=tcp#@DeltaKroneckerGithub
-vless://147ccf68-ca08-4ce9-a507-b0f0d5af119c@154.31.114.125:443?encryption=none&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#@DeltaKroneckerGithub
-vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@104.17.201.245:2052?path=%2Fx0o2qglxz7zu&encryption=none&type=ws&host=index.arcane509.workers.dev&fp=chrome&ed=2560&eh=Sec-WebSocket-Protocol#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.106.228.247:990#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.99.9.125:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.209:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989%20 #@DeltaKroneckerGithub
-vmess://eyJpZCI6IjVlY2MzMDg2LTkzY2YtNDJlMy05NTZiLWYyMTgwZTA0MjUzNyIsInNlZWQiOiIiLCJkZXZpY2VJRCI6IiIsImZyYWdtZW50IjoiIiwibW9kZSI6IiIsInYiOiIyIiwicGF0aCI6IlwvIiwicHMiOiJb8J+HqfCfh6pddC5tZS9Db25maWdzSHViIiwiZXh0cmEiOiIiLCJob3N0IjoibjE3NjEyOTY4OTcubGllNWQuY3lvdSIsImhlYWRlclR5cGUiOiIiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJhdXRob3JpdHkiOiIiLCJzbmkiOiJuMTc2MTI5Njg5Ny5saWU1ZC5jeW91IiwibmV0Ijoid3MiLCJhbHBuIjoiIiwicG9ydCI6IjQ0MyIsImFkZCI6IjguMjEwLjE0MS4xNDkiLCJmcCI6ImNocm9tZSIsImFpZCI6IjAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSJ9```
-vless://22620697-6fba-4b71-a348-0cef2f7bec1e@vip2.kaixincloud.top:443?type=ws&encryption=none&host=do88.cmddo.ggff.net&path=%2F%3Fed%3D2048&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=do88.cmddo.ggff.net#@DeltaKroneckerGithub
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@test2.f1u.us.ci:2083?encryption=none&security=tls&sni=newwk1.f1w.de5.net&type=ws&host=newwk1.f1w.de5.net&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.93.199.28:12020?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.95.113.61:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.138:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001296egb.cybervena.com:50099%20 #@DeltaKroneckerGithub
-vless://f7bae22e-20ab-11f1-835c-0242ac110002@jp1.cyphervpn.pro:443?security=reality&encryption=none&sni=jp1.cyphervpn.pro&fp=chrome&pbk=rjE8nekciQ8vkzooBJVwOIqV5tMS0soqdq1AysukY2Q&sid=5bfa0c&type=tcp&path=%2f#@DeltaKroneckerGithub
-vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@v1.dabache.top:443?type=ws&encryption=none&host=octopusss4.com&path=%2Ftsghdws&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=octopusss4.com#@DeltaKroneckerGithub
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.96.3:443?allowInsecure=1&host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&sni=mfyousheng.nl.eu.org&type=ws#@DeltaKroneckerGithub
-trojan://trojan@31.172.74.123:443?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k@download.riferoser.icu:56594#@DeltaKroneckerGithub
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.16.250.22:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&type=ws#@DeltaKroneckerGithub
-trojan://WF42809561@touching-pigeon.rooster465.autos:443?security=tls&sni=touching-pigeon.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#@DeltaKroneckerGithub
-vless://ea8d14d4-ca12-4cd1-bcad-f0fa72f6eadc@95.81.101.137:2083?type=httpupgrade&security=none&path=/xhttp#@DeltaKroneckerGithub
-trojan://T9BpZIVMNv@vip1.kaixincloud.top:8443?path=%2Famd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com&allowInsecure=1#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.19:38388#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@95.173.218.203:990#@DeltaKroneckerGithub
-vless://mega1775@5.129.249.134:443?security=reality&encryption=none&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ir.ozone.ru&sid=ab1cd2#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.26:38388 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.202.108.119:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-vless://2730487f-0ed5-4f04-92d5-f95f9253d4f4@104.21.6.208:443?security=tls&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&type=ws&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev&path=ws&fp=chrome#@DeltaKroneckerGithub
-vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@160.16.73.139:8443?encryption=none&security=tls&sni=edt2.btxst.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=edt2.btxst.eu.cc&path=%2Fhot%2Fcomics#@DeltaKroneckerGithub
-vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.120.219:443?encryption=none&security=tls&sni=blackshadow.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=blackshadow.dpdns.org&path=%2F44.209.52.7-443#@DeltaKroneckerGithub
-trojan://uThbm8eGmXZ7GKqnWy@194.124.216.106:443?allowInsecure=1#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMGU4OXE3SnpGU2dTZ0ZKcFBWZHJmRmVCSzg1NTlBaw==@158.160.230.128:58888?#@DeltaKroneckerGithub
-vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgOiBARnJlZUNvbmZpZ0ZvcllvdfCfj7Twn4+zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==`
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@vip2.kaixincloud.top:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.204.4:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://49ce7256-c35c-423d-a970-3fa10f835f2b@82.202.159.119:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#@DeltaKroneckerGithub
-vless://c67f81df-34e8-4cb3-ab43-599585775fa9@45.11.18.13:443?security=reality&flow=xtls-rprx-vision&sni=der.jojack.ru&type=tcp&fp=chrome&pbk=xpv3OgIQ4ND_ZaiLxjHk1JsykVAVUY73UkyxPlU8Clc&sid=695f0df252f9889d#@DeltaKroneckerGithub
-vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.146.27:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&type=ws#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@218.237.185.230:4652 #@DeltaKroneckerGithub
-vmess://eyJhZGQiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QG9uZWNsaWNrdnBua2V5czo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0%20 #🌐 [ Configs by DukeMehdi ] VM-XX
-trojan://WF42809561@bright-quagga.rooster465.autos:443?sni=bright-quagga.rooster465.autos#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.210:38388%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47395#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1aEpSc3pIRlEyUTRGM1YyUGhiNnpv@216.105.168.18:443/?outline=1&prefix=#@DeltaKroneckerGithub
-trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@172.64.229.185:443?sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2Fhot%2Fproxyip%3D45.196.239.151%2C167.253.153.161%2C45.196.239.238%2C45.196.238.248%2C45.196.238.145%2C223.165.4.57%2C85.237.207.19%2C167.253.153.80&allowInsecure=1#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.18:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ@5.188.181.201:9054#@DeltaKroneckerGithub
-vmess://eyJhZGQiOiJjZGZyLmFlMWF1dHVtbi5kcGRucy5vcmciLCJhaWQiOiIwIiwiaG9zdCI6ImNkZnIuYWUxYXV0dW1uLmRwZG5zLm9yZyIsImlkIjoiMTNhZDM2ZTYtYzA5MS00M2YyLTg1MDUtNDdkODY4ZGQ1NDRjIiwibmF0aW9uIjoiIiwibmV0Ijoid3MiLCJwYXRoIjoiL1lzbVJvdUE5WmJ4Z1c0IiwicG9ydCI6IjQ0MyIsInBzIjoiQERlbHRhS3JvbmVja2VyR2l0aHViIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6ImNkZnIuYWUxYXV0dW1uLmRwZG5zLm9yZyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.219:38388%20 #@DeltaKroneckerGithub
-vless://5a54a377-a9d3-4ea5-b7b0-17bd899e202d@pq-India1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.30.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg0034458by.cybervena.com:50099%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@217.30.10.18:9059 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.107.142.138:8080?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d3pWbjJabkhmcVlhNmw4RVdoM2VZ@switcher-nick-croquet.freesocks.work:443%20 #@DeltaKroneckerGithub
-vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@brenna.ns.cloudflare.com:443?allowInsecure=1&encryption=none&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&type=ws#@DeltaKroneckerGithub
-vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&security=none&type=ws#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6TVRkb1RDN21wQVdRSjJGRE55MTJmRk1qc3FCZWhXb1kxemg2dVRXMWJuc0dEMmhmNXZzOEhCc3lzRlRqQkFLWEdSTHNqa2pXN3Q0UGVKa3lFTHdVdk04djJxclRxZm4@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.36.20:2096?allowInsecure=1&encryption=none&host=sni.jpmj.dev&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.jpmj.dev&type=ws#@DeltaKroneckerGithub
-vless://26524cce-d514-4014-a426-365fb266a14d@104.21.55.178:2053?encryption=none&type=ws&security=tls&path=/danfeng?ed=2560&host=d2wiyfbwnyf.danfeng.gv.uy&fp=chrome&sni=d2wiyfbwnyf.danfeng.gv.uy#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.189:8080#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@103.75.119.38:990#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.214:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
-vless://a6abf70b-f734-42e5-ace6-208e4d53d207@147.45.97.62:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=jdua-L9jgUfUe_7lPh72TV4JJALvOmdwH68C8pMP8RQ&sid=ec49#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.33:38388%20 #@DeltaKroneckerGithub
-trojan://ff1dbbc9-ddf2-4d6c-a315-61ecd4223bc0@172.64.147.227:443?sni=blackshadow.dpdns.org&type=ws&host=blackshadow.dpdns.org&path=%2F195.123.218.174-443&allowInsecure=1#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.213:38388 #@DeltaKroneckerGithub
-vless://7d40449f-92df-4256-9607-679241455d49@95.85.253.128:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=q5s8QU2HPnO7V78-TEDo5akO6NEOASgFw_lhY3cRSBs&sid=&sni=n.sni-347-default.ssl.fastly.net&path=&host=#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@171.22.254.129:990#@DeltaKroneckerGithub
-vless://53821f3c-5b03-456a-89f3-f8379f130752@77.92.145.222:443?encryption=none&fp=chrome&pbk=sSD0sNHv6R3VC1zy_etv-mOTLAurVq3xid4xWne3TxI&security=reality&sid=4730242d&sni=www.vk.com&type=tcp#@DeltaKroneckerGithub
-vmess://eyJ2IjogIjIiLCAicHMiOiAidGVsZWdyYW0gXHUyNjAyXHVmZTBmIGRhaWx5djJyeSIsICJhZGQiOiAiODIuMTk4LjI0Ni45NyIsICJwb3J0IjogIjE4MCIsICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@37.235.56.69:990#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659%20 #@DeltaKroneckerGithub
-vless://656bb400-3b7a-47e3-94b0-0362f3865072@go.inmobi.com:8443?path=%2Fsocks5%3A%2F%2F128.140.46.169%3A13482&security=tls&encryption=none&insecure=1&host=socks5.revil-time3.workers.dev&type=ws&allowInsecure=1&sni=socks5.revil-time3.workers.dev#@DeltaKroneckerGithub
-vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.146.198:443?encryption=none&type=ws&security=tls&path=/?ed=2048&host=do88.cmddo.ggff.net&fp=chrome&sni=do88.cmddo.ggff.net#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.28.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.210.6.236:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990%20 #@DeltaKroneckerGithub
-vless://ab1ddafb-9514-40ab-9e4b-a3878f70931d@144.31.1.59:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&security=reality&sid=ae64c9b46bff174a&sni=pl.sky-vault.top&type=tcp#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.77:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.52.2.98:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-vless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80?path=%2F&security=&encryption=none&host=c.iamdt.dpdns.org&type=ws#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.102.54:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.185:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
-vless://1cce5303-4f4e-4cd8-b6aa-cf8c47883644@82.202.159.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=dbbe8dca27a92c35#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.229:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.168:443 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@134.255.210.49:989%20 #@DeltaKroneckerGithub
-vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA3MDEwIiwiYWRkIjoiNDUuODkuNTIuMjA3IiwicG9ydCI6IjM5NjUxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFjNGMxMmM1LTQ1ZjItNDM5OC1hNzE4LTk5ODM5NDFlZGUyYiIsImFpZCI6IjAiLCJuZXQiOiJyYXciLCJwYXRoIjoiLyIsImhvc3QiOiIiLCJ0bHMiOiIifQ==``` # [ By EbraSha ]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080%20 #@DeltaKroneckerGithub
-vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.147.223:443?fp=chrome&host=do88.cmddo.ggff.net&path=%2F%3Fed%3D2048&security=tls&sni=do88.cmddo.ggff.net&type=ws#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.241.105.227:8443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#@DeltaKroneckerGithub
-trojan://M08tvzYWtUEJNtbpHp@194.124.216.179:443?security=tls&sni=nl-4.tr202512.com&path=/#@DeltaKroneckerGithub
-vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@172.64.147.223:80?type=ws&host=vip.yaml7.ggff.net&path=%2F&fp=chrome#@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@139.84.235.99:20205?&security=tls&fp=random&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=%2Fdanfeng#@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.171:443%20 #@DeltaKroneckerGithub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080%20 #@DeltaKroneckerGithub
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@45.89.107.78:2053?&security=tls&fp=chrome&alpn=http/1.1&sni=snippet.gfw.nn.kg&type=ws&headerType=none&host=snippet.gfw.nn.kg&path=/danfeng#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.2:38388 #@DeltaKroneckerGithub
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.179:443#@DeltaKroneckerGithub
-vless://e80775f7-8e3b-475a-be7a-ed7ec9e8c37a@83.166.234.253:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=api-maps.yandex.ru&pbk=7cLaPUUKcWjTMasCAp_kMwWgqi0_tvczCjf4D8nSAW8&spx=%2F#@DeltaKroneckerGithub
-trojan://uThbm8eGmXZ7GKqnWy@194.124.216.103:443?allowInsecure=1#@DeltaKroneckerGithub
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?allowInsecure=1&sni=www.semanticstaplegun.click#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.65:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.72:38388%20 #@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.90.75.121:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.212.114:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.25:38388#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.32.47:2053/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&allowInsecure=1#@DeltaKroneckerGithub
-vmess://eyJhZGQiOiJuMTc1MzM1NjM2MS5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiJuMTc1MzM1NjM2MS5saWU1ZC5jeW91IiwiaWQiOiJjZGZkOTc4Ny1kYWM4LTRjMWUtOWFlNS0xMDRlMjNhOWQ5OTQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= 110ms HK [Alibaba (US) Technology Co., Ltd.]#%20t.me%2Frjsxrd
+trojan://WF42809561@needed-gelding.rooster465.autos:443?sni=needed-gelding.rooster465.autos#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.38.42.198:2053/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.197:38388#@DeltaKroneckerGithub
+trojan://T9BpZIVMNv@chatgpt.com:8443?path=%2Famd&security=tls&insecure=0&host=sweden.vmaxpanel.com&type=ws&allowInsecure=0&sni=sweden.vmaxpanel.com#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6eTlWVVJ5TnpKV05SWUVHUQ==@217.30.10.18:9008#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011993za.cybervena.com:50099#@DeltaKroneckerGithub
+vless://e928d85d-f223-03e8-a1d2-a56e9fbd50e0@5.188.141.137:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#@DeltaKroneckerGithub
+vmess://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=auto&host=fsdns1.ectunnelvpn.me&path=%2Fvmess&security=none&type=ws#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001222869.cybervena.com:50099#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.32.49.72:9443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.107.158.77:443?path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+trojan://trojan@52.64.121.20:12580?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
+vmess://ewogICAgImFkZCI6ICJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsCiAgICAiaWQiOiAiMWVmZmFjNGEtY2RiOC00NzE3LWExMGMtZGE5NzI2M2M4MDJjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4et8J+HsEhLLTQ3LjI0Mi4xMzguMTQxLTAzMjQiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJuMTc2MTI5Njg4MC5saWU1ZC5jeW91Igp9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.231.38.16:50099#@DeltaKroneckerGithub
+trojan://trojan@109.61.110.80:445?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
+vless://58acdb3c-cbe2-4777-ac55-b21d857617f8@147.45.100.192:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=D-fCN9EWYJG8E583vAcX5MtZM6449Cpv-trIgfaaBUU&sid=8039316c7a70fcce&sni=vinted.nl&path=&host=#@DeltaKroneckerGithub
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@163.172.214.188:80?security=none&type=ws&path=%2Fvless%2F#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@51.105.34.187:443#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@91.148.135.31:990?#@DeltaKroneckerGithub
+vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@107.181.151.241:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sni=www.microsoft.com&sid=18e4d2d21241#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.253.188.151:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
+vless://b2c47b38-23bf-4469-b477-e52206bbb8c1@104.17.147.22:2083?encryption=none&type=ws&security=tls&path=%2Fscaas8qmzxhqiqch%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560&host=aged-sun-9128.danicng13.workers.dev&fp=randomized&sni=aged-sun-9128.danicng13.workers.dev&alpn=h2%2Chttp%2F1.1#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg@185.111.156.33:80#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989%20 #@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjEiLCJuYW1lIjoiQGNoaWxsZ3V5X3ZwbiIsIm5ldCI6IndzIiwicGF0aCI6IlwvbE1uc1pVTjRcLyIsInBvcnQiOjg0NDMsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsInNjeSI6Im5vbmUiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990%20 #@DeltaKroneckerGithub
+vmess://eyJhZGQiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJ1c2FhcHAxLmppc3V5dW4udG9wIiwgImlkIjogIjRiODBhYTg2LTQzNTQtNDBiYi1kMmEzLTQ3MTI2Y2ZmMGJlYSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvdXNhdm0iLCAicG9ydCI6ICIyMDUzIiwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAidXNhYXBwMS5qaXN1eXVuLnRvcCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.148:38388%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#@DeltaKroneckerGithub
+vless://5aa7d17e-7dc2-46dd-9acf-c3c97440259b@162.159.237.139:443?encryption=none&security=tls&sni=sss.yaml7.ggff.net&insecure=0&allowInsecure=0&type=ws&host=sss.yaml7.ggff.net&path=%2F%3Fed%3D2048#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIxNzIuNjcuMTU4LjIwIiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoiemRxYmsuY212dmIub25saW5lIiwiaWQiOiIzZDAwNTkyMi01Zjg2LTRhZjEtOWVmYy04NWVhYjE4ODAwY2QiLCJuYW1lIjoi8J+HuvCfh7ggVVMgMzAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODQ0MywicHMiOiJARGVsdGFLcm9uZWNrZXJHaXRodWIiLCJzY3kiOm51bGwsInNuaSI6bnVsbCwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.122.126.64:53777?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080%20 #@DeltaKroneckerGithub
+ss://2022-blake3-aes-256-gcm:mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13141#@DeltaKroneckerGithub
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001222869.cybervena.com:50099%20 #@DeltaKroneckerGithub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.205:38388%20 #@DeltaKroneckerGithub
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.77:38388#@DeltaKroneckerGithub
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.247.23.140:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🎖@yamyamproxy#@DeltaKroneckerGithub
-trojan://trojan@212.23.200.10:8444?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
+trojan://T9BpZIVMNv@104.18.185.26:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd&allowInsecure=1#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmF0aW9uIjoiIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiQERlbHRhS3JvbmVja2VyR2l0aHViIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.155:443?encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#@DeltaKroneckerGithub
+trojan://T9BpZIVMNv@v3.dabache.top:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206U0w0dnpjdmhCSGhUV2l2RA==@154.26.155.172:443#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.70.205:23022?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiJjeHNmdm4udWhvbWRleC5zaG9wIiwiYWlkIjowLCJob3N0IjoiY3hzZnZuLnVob21kZXguc2hvcCIsImlkIjoiYmI2ZTI2MGUtYjgwZC00MzY1LWIyNTItOWZiZTQ2NmYxZjM0IiwibmV0Ijoid3MiLCJwYXRoIjoiXC8iLCJwb3J0Ijo0NDMsInBzIjoiXHVkODNjXHVkZGU5XHVkODNjXHVkZGVhW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1ERSIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6ImN4c2Z2bi51aG9tZGV4LnNob3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.225:8443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
+vless://bd9800ff-4954-4ecb-afb0-84d1fe7281e9@82.38.63.178:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=wv8uuRIPUS1ap8sOYPmDMNKbn9C4sjH6sxFVH2SZMl0&sid=c048b245&sni=www.microsoft.com&spx=/&echfq=none&allowinsecure=0#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Yjk3ODA0N2I0N2Y3ZWFi@154.205.154.184:11201%20 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.82.76.253:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@DeltaKroneckerGithub
+vless://e62d084a-b9de-4486-a776-a54d200f89c1@172.67.134.91:443?allowInsecure=1&encryption=none&host=square-sea-36d2.sendconfig.workers.dev&path=ws&security=tls&sni=square-sea-36d2.sendconfig.workers.dev&type=ws#@DeltaKroneckerGithub
+vless://6fb65356-788e-4118-8280-148ec6eca18a@104.16.53.126:443?&security=tls&fp=chrome&sni=xn--cz8h.pages.dev&type=ws&headerType=none&host=xn--cz8h.pages.dev&path=pyip%3Dproxyip.cmliussss.net#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:443#@DeltaKroneckerGithub
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICI0NS44OS41Mi4yMDciLCAicG9ydCI6IDM5NjUxLCAiaWQiOiAiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiYXV0byIsICJzbmkiOiAiIiwgImFscG4iOiAiIiwgImZwIjogIiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+vmess://eyJhZGQiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2MnJheS5jb2RlZnlpbmMuY29tIiwiaWQiOiIyYzk4MTE2NC05YjkzLTRiY2EtOTRmZi1iNzhkM2Y4NDk4ZDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3N3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QG9uZWNsaWNrdnBua2V5czo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+trojan://WF42809561@complete-cockatoo.rooster465.autos:443?sni=complete-cockatoo.rooster465.autos#@DeltaKroneckerGithub
+vless://e1a7e7fe-b863-4ccf-a6e0-2736c5af2374@154.31.114.125:443?encryption=none&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#@DeltaKroneckerGithub
+vmess://ewogICAgImFkZCI6ICI0Ny4yNDMuMTM1Ljc0IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICIxMzc1OTg1ZS0zMzRhLTRjMjUtOGY2NC01MmExODJiYzgwMzciLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvTm90aWZfQ2hhdCIsCiAgICAicG9ydCI6IDU1MTg1LAogICAgInBzIjogIvCfh63wn4ewSEstNDcuMjQzLjEzNS43NC00ODcyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.222:38388%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.62.25.163:443?path=/?ed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMDNhYzY1ZTMwZjI4YjBi@154.205.139.9:11204#@DeltaKroneckerGithub
+vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.147.236:443?encryption=none&type=ws&security=tls&path=/?ed=2048&host=do88.cmddo.ggff.net&fp=chrome&sni=do88.cmddo.ggff.net#@DeltaKroneckerGithub
+vless://9be451e0-10a1-4344-a282-cdae536b98d3@38.54.104.230:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=nAEubzfxjDBY00k_13U-GNjviSXosEaJ5dpwnmGV90Y&fp=chrome#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.231.233.112:989%20 #@DeltaKroneckerGithub
+trojan://WF42809561@shining-haddock.rooster465.autos:443?sni=shining-haddock.rooster465.autos#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.58:38388%20 #@DeltaKroneckerGithub
+vmess://e7d72a8d-26f2-4b54-b366-0c43e0bcba7d@165.140.216.141:443?encryption=auto&security=none&fp=chrome&type=tcp#@DeltaKroneckerGithub
+trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.93.173.60:990%20 #@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZTdkNzJhOGQtMjZmMi00YjU0LWIzNjYtMGM0M2UwYmNiYTdkIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOjQ0Mywic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJuYW1lIjoiQ2hhbm5lbCA6IEBGcmVlQ29uZmlnRm9yWW91XHVkODNjXHVkZmY0XHVkODNjXHVkZmYzIiwicHMiOiI+PkB2MnJheV9jb25maWdzX3Bvb2w6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlhYOjpVUzo6WFg6OlhYOjpYWDo6WFg6OlVTOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVM6OlVTIn0%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06QUF2bytCc2dwdnZSNWxKc2RRVTMydnJNWEw3WkFiWkpaZkVUQjdiZGRoUT0=@64.49.45.246:13154#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.18:9079 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.225:38388%20 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.177.206:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.85.76:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.132.6:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@DeltaKroneckerGithub
+vless://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&encryption=none&pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=d020b2#@DeltaKroneckerGithub
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@vip1.kaixincloud.top:443?type=ws&encryption=none&host=vangoghhh.info&path=%2Ftixvuws&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=vangoghhh.info#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiJuZXZhLmF6bGFuLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmV2YS5hemxhbi5iaXouaWQiLCJpZCI6IjgwNzIyOThmLWNkMjgtNGE2MS04ZTA1LTU4NzljODRiOTEwMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6Ij4+QG9uZWNsaWNrdnBua2V5czo6SUQ6OklEOjpJRDo6SUQ6OklEOjpJRDo6SUQ6OklEOjpJRDo6SUQ6OklEOjpJRDo6SUQ6OklEOjpJRDo6SUQ6OklEOjpJRDo6SUQ6OklEOjpJRDo6SUQ6OklEOjpJRDo6SUQ6OklEIiwic2N5IjoiYXV0byIsInNuaSI6Im5ldmEuYXpsYW4uYml6LmlkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.209:38388#@DeltaKroneckerGithub
+vless://2ac6e527-6410-48ce-b9ba-cc8135ee2a3b@104.16.9.24:80?encryption=none&host=fragrant-recipe-09f4.wopecuyubak61.workers.dev&path=%2F&security=none&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.198.82.147:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjk1NWM4NTMwMzIwMTIw@38.54.29.57:11201%20 #@DeltaKroneckerGithub
+vless://1027b850-de79-4a94-b337-eccdac28e141@144.24.126.26:443?allowInsecure=1&encryption=none&host=g.sandesh.qzz.io&path=%2Fvless&security=tls&sni=g.sandesh.qzz.io&type=ws#@DeltaKroneckerGithub
+vless://42b32d2f-42c1-4f63-a005-22ffbddcda53@188.114.98.0:443?encryption=none&type=ws&host=639073677236045352.mustang-perma.info&path=%2Fxxfzrfws&security=tls&alpn=http%2F1.1&sni=639073677236045352.mustang-perma.info#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiJkZmcuYWUxYXV0dW1uLmNjLmNkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkZmcuYWUxYXV0dW1uLmNjLmNkIiwiaWQiOiIxM2FkMzZlNi1jMDkxLTQzZjItODUwNS00N2Q4NjhkZDU0NGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvWXNtUm91QTlaYnhnVzQiLCJwb3J0IjoiODAiLCJwcyI6IkBEZWx0YUtyb25lY2tlckdpdGh1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.79.169:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.133:38388#@DeltaKroneckerGithub
+vmess://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=auto&host=fsdns1.ectunnelvpn.me&path=/vmess&security=none&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.138.17:2087?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=sni.111000.indevs.in&path=/&security=tls&sni=sni.111000.indevs.in&type=ws#@DeltaKroneckerGithub
+trojan://WF42809561@nice-duck.rooster465.autos:443?sni=nice-duck.rooster465.autos#@DeltaKroneckerGithub
+vless://9357d31a-97f5-492b-9a9d-24dcb3449fb9@94.156.115.109:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tunnel.vk-apps.com&fp=chrome&security=reality&pbk=2XHOm5oJ92noxYHfahYv6dABkpp-bdehIA5grPB1X2c&sid=beba4237#@DeltaKroneckerGithub
+trojan://trojan@38.83.41.89:28006?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lMjcgNjMuN01CL3MiLCJhZGQiOiIxNjUuMTQwLjIxNi4xNDEiLCJwb3J0IjoiNDQzIiwiaWQiOiJlN2Q3MmE4ZC0yNmYyLTRiNTQtYjM2Ni0wYzQzZTBiY2JhN2QiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJ0ZXN0X25hbWUiOiIyNyJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.64:38388#@DeltaKroneckerGithub
+vless://de200650-f565-40fd-9d15-c2aee1886535@45.89.190.83:7443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=randomized&sni=max.ru&pbk=NE07FVaDF6z5fg4wOrVHUDvugNJ2pNOT18QRWsW5PwQ&sid=fd31&spx=%2F#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.27:38388%20 #@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIxMDQuMjEuMjUuMjI2IiwiYWlkIjoiMCIsImFscG4iOm51bGwsImZwIjpudWxsLCJob3N0IjoienpydC51aG9tZGV4LnNob3AiLCJpZCI6IjBiNGM0ZWQ0LWRlZWQtNGJkYS1hZTNkLTZjOGNjZDFkMTE5OSIsIm5hbWUiOiLwn4e68J+HuCBVUyAyMDMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODQ0MywicHMiOiJARGVsdGFLcm9uZWNrZXJHaXRodWIiLCJzY3kiOm51bGwsInNuaSI6Inp6cnQudWhvbWRleC5zaG9wIiwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
+vless://427d85cd-a2a8-4668-8118-0d43d2d57f77@8.6.112.0:443?security=tls&sni=asmaos.uk&type=ws&host=asmaos.uk&path=%2F&allowInsecure=0#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiJuMTc2MTI5Njg5Ny5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiJuMTc2MTI5Njg5Ny5saWU1ZC5jeW91IiwiaWQiOiI1ZWNjMzA4Ni05M2NmLTQyZTMtOTU2Yi1mMjE4MGUwNDI1MzciLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0= 🔒#%20t.me%2Frjsxrd
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.241.62.245:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
+vmess://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=auto&host=fsdns1.ectunnelvpn.me&path=/vmess&security=none&type=ws#@DeltaKroneckerGithub
+vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.74.206:2096?allowInsecure=1&encryption=none&host=index.harmony702.workers.dev&path=/axcp1cm75o7digvt&security=tls&sni=INdex.HArmony702.WoRkeRS.Dev&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.124.238.212:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
+vless://e2e1ddaa-1acf-4c4c-a211-92284f6440ed@5.255.107.115:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=nll.scroogethebest.com&type=tcp#@DeltaKroneckerGithub
+ss://aes-256-cfb:f8f7aCzcPKbsF8p3@37.235.56.69:989#@DeltaKroneckerGithub
+vless://fd37be2f-f8d1-47de-97e8-13c28107d31e@nld10.frostbot.ru:443?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=nld10.frostbot.ru&fp=chrome&pbk=iCY6H8CpnIfqmIkEABduJEAeJrnYS089R1-jKEyVp3w&sid=bff3#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.110.104.30:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.171:443%20 #@DeltaKroneckerGithub
+vless://7e0a9f75-b424-493b-b7e6-cebd7ea8642d@144.31.4.127:443?allowInsecure=1&encryption=none&security=tls&sni=plcdn14.melodramaonline.net&type=tcp#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.209.227.233:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@169.150.210.199:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.14.247.67:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.173:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.166:38388%20 #@DeltaKroneckerGithub
+ss://2022-blake3-aes-256-gcm:mtMkp%2B1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o%3D%3AAAvo%2BBsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ%3D@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:12528#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.100.19.144:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
+vless://69c4f82f-ad75-a1be-51ef-8e8af76452f8@20.191.143.151:8080?encryption=none&security=tls&sni=b577c283.sfree.cn.mt&fp=random&insecure=0&allowInsecure=0&type=ws&host=b577c283.sfree.cn.mt&path=%2Fsocks5%3D4b2c7676%3A6f0f4cbba5bb%4038.111.30.111%3A26433#@DeltaKroneckerGithub
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.145.21:443?allowInsecure=1&alpn=http%2F1.1&encryption=none&host=index.arcane509.workers.dev&path=%2Fassets&security=tls&sni=index.arcane509.workers.dev&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.169.55.124:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.40:38388%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443%20 #@DeltaKroneckerGithub
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@v3.dabache.top:443?type=ws&encryption=none&host=terazhediii.info&path=%2Fsghiyws&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=terazhediii.info#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.183.186.27:443?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg==@154.38.176.7:80%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.250.107:990#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@217.30.10.70:9060%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.23:38388 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE=@185.5.38.111:55988#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.18:9042 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyNDVvM1ZubW8xY0FlZTRRTko2ZjJINFhzSm5mV25BbTZFY2pGZUhXS0YydFN1WHZud2M2QzR2N2FqendpMVk4algyZE1wZTZxVjVtNDc1WHNmbkt2Q2pZU3BHYjFYcGo@download.riferoser.icu:56594/?#@DeltaKroneckerGithub
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@ov-france1.09vpn.com:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#@DeltaKroneckerGithub
+vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xMzQuMTk1LjE5OC4xNDctNjkzMSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+vless://1679af35-6dd6-4c09-ae3b-18f239217f3e@adf.ly:443?encryption=none&security=tls&sni=rAyAn-007.pArViN.DpDnS.OrG&allowInsecure=1&type=ws&host=rAyAn-007.pArViN.DpDnS.OrG&path=%2F%3Fed%3D2560fp%3Dchrome#@DeltaKroneckerGithub
+vmess://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=auto&host=fsdns1.ectunnelvpn.me&path=/vmess&security=none&type=ws#@DeltaKroneckerGithub
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@172.64.229.174:443?sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2Fhot%2Fproxyip%3D45.196.239.151%2C167.253.153.161%2C45.196.239.238%2C45.196.238.248%2C45.196.238.145%2C223.165.4.57%2C85.237.207.19%2C167.253.153.80&allowInsecure=1#@DeltaKroneckerGithub
+vless://00000000-0000-4000-8000-000000000000@140.235.10.14:30003?encryption=none&security=tls&sni=sub.mot.ip-ddns.com&insecure=0&allowInsecure=0&type=ws&host=sub.mot.ip-ddns.com&path=%2F#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443%20 #@DeltaKroneckerGithub
+vmess://ewogICAgImFkZCI6ICIxMzQuMTk1LjE5OC4xNDciLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJpbm5hLmNmZCIsCiAgICAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2xpbmt2d3MiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HqPCfh6ZDQS0xMzQuMTk1LjE5OC4xNDctNjk4MiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@nbmrcg003494xuj.cybervena.com:50099%20 #@DeltaKroneckerGithub
+vless://69c4f82f-ad75-a1be-51ef-8e8af76452f8@cdns.doon.eu.org:443?encryption=none&security=tls&sni=b577c283.sfree.cn.mt&fp=random&insecure=0&allowInsecure=0&type=ws&host=b577c283.sfree.cn.mt&path=%2Fsocks5%3D4b2c7676%3A6f0f4cbba5bb%4038.111.30.111%3A26433#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.128.140.253:26376?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2&security=tls&sni=sni.111000.indevs.in&allowInsecure=1&fp=chrome#@DeltaKroneckerGithub
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&security=reality&sni=aws.amazon.com&type=tcp#@DeltaKroneckerGithub
+vmess://ewogICAgImFkZCI6ICJ2Yy5mbHkuZGV2IiwKICAgICJhaWQiOiAzMiwKICAgICJob3N0IjogInZjLmZseS5kZXYiLAogICAgImlkIjogIjM1Mzc5MjE5LTY1MzUtNGYyZS1hNGZlLTNlNDRmNjFlMGVlZSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi92YyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4e68J+HuFVTLTc3LjgzLjE0MS4xNzEtMDgyOCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA==@217.30.10.18:9005 #@DeltaKroneckerGithub
+vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?type=ws&host=209.126.84.189&path=/vmessws&packetEncoding=xudp#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.66.44.211:443/?type=ws&encryption=none&flow=&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&allowInsecure=1#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080%20 #@DeltaKroneckerGithub
+vless://c01733dd-3e58-4da9-910b-cdd4560295bc@80.209.241.190:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=IRv8qDf76Ix5WouZ-mznx7AZbGSM8JdyTuZy3UB19AE&security=reality&sid=a1b2c3d4&sni=www.tradingview.com&type=tcp#@DeltaKroneckerGithub
+vless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@107.181.151.241:443?security=reality&flow=xtls-rprx-vision&sni=www.microsoft.com&type=tcp&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=9409f73c2fd7#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiI0My4xMDAuMzIuNiIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6Im4xNzQ3NjI0MjY3LjR1OW1hLmljdSIsImlkIjoiOGM1ZDE1MGMtYjA0Ni00NDQwLTgyMzAtZTg0NTA2YTA2NWEzIiwibmFtZSI6IvCfh63wn4ewIEhLIDciLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkBEZWx0YUtyb25lY2tlckdpdGh1YiIsInNjeSI6bnVsbCwic25pIjoibjE3NDc2MjQyNjcuNHU5bWEuaWN1IiwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
+trojan://trojan@216.173.69.146:442?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@162.245.221.19:2053?encryption=none&security=tls&sni=edt2.btxst.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=edt2.btxst.eu.cc&path=%2Fbooks%2Fmusic%2Fgo#@DeltaKroneckerGithub
+vless://48129906-0fdc-482e-8c79-c78bfc6480b7@104.18.32.47:443?encryption=none&type=ws&host=041.electrocellco-cf-041.workers.dev&path=%2FeyJqdW5rIjoiNTRZOXhhMTJCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http%2F1.1&fp=chrome&sni=041.electrOCElLcO-CF-041.woRKerS.DEV#@DeltaKroneckerGithub
+trojan://T9BpZIVMNv@172.64.146.211:8443?sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd&allowInsecure=1#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.229:38388#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.81:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMGY5MGFmOTJiNmMxYTc0@141.95.109.94:11201#@DeltaKroneckerGithub
+vless://c01733dd-3e58-4da9-910b-cdd4560295bc@178.130.47.61:2443?security=reality&type=grpc&serviceName=TestChatGRPC&mode=gun&sni=www.tradingview.com&fp=chrome&pbk=IRv8qDf76Ix5WouZ-mznx7AZbGSM8JdyTuZy3UB19AE&sid=a1b2c3d4#@DeltaKroneckerGithub
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@vip3.kaixincloud.top:2052?type=ws&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome&insecure=1#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.232.89.21:443?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+vless://6fb65356-788e-4118-8280-148ec6eca18a@104.24.222.83:443?&security=tls&fp=chrome&sni=xn--cz8h.pages.dev&type=ws&headerType=none&host=xn--cz8h.pages.dev&path=pyip%3Dproxyip.cmliussss.net#@DeltaKroneckerGithub
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?encryption=none&security=none&type=grpc#@DeltaKroneckerGithub
+vless://1608d941-0716-4190-ae2e-1bcd7dc72cc6@104.16.1.25:8443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=super-term-8650.persiana-sport1.workers.dev&path=%2FeyJqdW5rIjoiNkQ2ZXpucnFScHFzdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ%3D%3D&security=tls&sni=SuPEr-tERM-8650.peRsIAna-SPORT1.WORkERS.dEv&type=ws#@DeltaKroneckerGithub
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@172.64.147.131:2053?allowInsecure=1&encryption=none&host=ir1.airpanel.top&path=%2F&security=tls&sni=ir1.airpanel.top&type=ws#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUg@185.111.156.33:443#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@1.170.91.59:50099#@DeltaKroneckerGithub
+vless://fad2b7e0-d80c-4b7b-a84f-d86e0e49f627@45.15.128.75:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk&security=reality&sid=e473bbc75224b9df&sni=max.ru&type=tcp#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNTM3YmEzZTRmNGNkYTBj@144.126.158.195:12053?type=tcp#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.111.31.182:59541?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.255.123.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
+vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@188.114.96.3:80?encryption=none&type=ws&security=none&host=vpnpro.eshghiabolfazl2009.workers.dev#@DeltaKroneckerGithub
+vless://8d2aeab8-ce98-47a6-84ec-d5b45d060b66@103.15.90.134:49678?encryption=none&security=tls&sni=edt2.btxst.eu.cc&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=edt2.btxst.eu.cc&path=%2Fclip%2Fsale%2Fpictures#@DeltaKroneckerGithub
+vmess://285b600f-e33e-4f6d-b342-0754be424f24@66.103.211.136:123?encryption=auto&path=%2Fhaha&security=none&type=ws#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.207:38388#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.247:443?&security=tls&fp=chrome&sni=sni.111000.dynv6.net&type=ws&headerType=none&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206OTM0OTg1MzktNzgzOC00ODM2LWI5YjMtODMxMWZmYzc5YmNm@82.180.146.173:35652%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990%20 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.101.216:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.220.254:443?security=tls&sni=sany.tara132.workers.dev&type=ws&host=sany.tara132.workers.dev&path=%2Fsni.111000.dynv6.net%2F%3Fed&allowInsecure=0#@DeltaKroneckerGithub
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#@DeltaKroneckerGithub
+trojan://humanity@172.64.146.153:443?sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2F%2Fassignment&allowInsecure=1#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.169:38388%20 #@DeltaKroneckerGithub
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@162.159.36.20:443?allowInsecure=1&encryption=none&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.233.133.76:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiI0NS45Mi43MC4yMzYiLCJhaWQiOiIwIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMjIzMjQiLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmOVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSVQiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=%20🔒 #🌐 [ Configs by DukeMehdi ] VM-XX
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@vip3.kaixincloud.top:443?type=ws&encryption=none&host=sant.atira-40.workers.dev&path=%2Fsni.111000.dynv6.net%2F&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=sant.atira-40.workers.dev#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.24.178.29:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.226:38388%20 #@DeltaKroneckerGithub
+vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJsaW5lOjpVUzo6VVM6OlVTOjpVUzo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6VVM6OlVTOjpVUzo6VVM6OlVTOjpVUzo6VVMiLCJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsInBvcnQiOiI0NDMiLCJpZCI6IjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiYXV0byIsImhvc3QiOiIyMDkuMTI2Ljg0LjE4OSIsInBhdGgiOiIvdm1lc3N3cyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.99.60.34:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.182:38388%20 #@DeltaKroneckerGithub
+vless://9a1ac29b-4da9-4164-afb1-aa7ff67d300c@93.185.166.71:1443?allowInsecure=1&alpn=h2,http/1.1&encryption=none&security=tls&sni=nl17.fastlanehosting.ru&type=tcp#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#@DeltaKroneckerGithub
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@104.18.34.48:443?sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2Fdl%2Fproxyip%3D45.196.239.151%2C167.253.153.161%2C45.196.239.238%2C45.196.238.248%2C45.196.238.145%2C223.165.4.57%2C85.237.207.19%2C167.253.153.80&allowInsecure=1#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyR2phSnZpdEdTNzNpcWVXVkxveXpIQlB4N3J6OXNwMXE0TW96bkZQVXNXUGF2UURCbjNHNjg1UllMMTVvY1NDUkFqSEtpeEhxUEpaNXZDd1ZvbnR6WmRtNFdHZDRYNFA@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
+vless://56f2048b-0670-4f92-938b-73f0280bd5e7@154.31.114.125:443?encryption=none&fp=chrome&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&security=reality&sid=2da72ce6&sni=navi.bankrate.com&type=tcp#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.97.3:2096?encryption=none&type=ws&security=tls&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.indevs.in&fp=chrome&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#@DeltaKroneckerGithub
+trojan://WF42809561@definite-jennet.rooster465.autos:443?sni=definite-jennet.rooster465.autos#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.63.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.32:38388%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206WWh6cU9lSnNmdVo5cmtrYw==@149.102.132.186:80#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjg3MWRiMDJlNWY3ZTJm@57.129.35.242:11201 #@DeltaKroneckerGithub
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@104.18.185.26:443?security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Ftixvuws&fp=chrome#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMkJXbzJ6S2ZtQTdKb1doblJRU1hyTjZMRm1QU3BMY2NwWVZjVWVvOFVvTXE0ZHZGYWZiWjNXaURWZkNGRHNMVlBlNWppRmFnak1mNDVaVmc5cnhSazFKUmNKS1JLSlE%3D@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
+trojan://13c169be-8592-4eaa-94cb-69c859e7d987@128.199.252.180:443?security=tls&sni=ubu.okaoclax.me&type=ws&host=ubu.okaoclax.me&path=/trojan-ws&allowInsecure=1#@DeltaKroneckerGithub
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.147.205:443/?type=ws&encryption=none&flow=&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&allowInsecure=1#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6S0JHalpZY3k0U3lSU2htQQ==@217.30.10.70:9044#@DeltaKroneckerGithub
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@104.21.14.232:443?security=tls&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=%2Ffree%2F103.101.153.32%3A443#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#@DeltaKroneckerGithub
+vmess://4a1b829b-8394-42c1-a068-04cd8e6bcb3c@156.238.250.91:18811?encryption=auto&security=none&type=tcp#%F0%9F%91%BB86@oneclickvpnkeysvless://f1f26b76-ebc8-4f46-a3cf-8438c2f249a0@185.181.208.246:443?encryption=none&fp=chrome&pbk=UjNPtE5lA4RH0KXJjmaXUEnue8ezfzyI86lJBosZTQE&security=reality&sid=dc&sni=www.google.com&type=tcp#%F0%9F%91%BB87@oneclickvpnkeysvless://c01733dd-3e58-4da9-910b-cdd4560295bc@45.67.229.119:2443?encryption=none&fp=chrome&pbk=ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko&security=reality&serviceName=TestChatGRPC&sid=a1b2c3d4&sni=eh.vk.com&type=grpc#%F0%9F%91%BB88@oneclickvpnkeysvless://40759e42-d74b-4470-acc4-a580f264e860@79.174.95.68:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ReHxtyEtHLEiCAraVUd3jlS8XIKTRVxuTCHDr0zQSTY&security=reality&sni=rus.alibarda-ru.ru&type=tcp#%F0%9F%91%BB89@oneclickvpnkeysvless://40759e42-d74b-4470-acc4-a580f264e860@rus.alibarda-ru.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ReHxtyEtHLEiCAraVUd3jlS8XIKTRVxuTCHDr0zQSTY&security=reality&sni=rus.alibarda-ru.ru&type=tcp#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.181.89:443?path=/?ed=2560&Telegram🎖@AliXTso&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+vmess://d7f56688-56a0-448c-bc04-fd83c6ac17d0@213.183.54.243:443?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%9B%8489@oneclickvpnkeystrojan://humanity@104.18.9.83:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@138.186.142.81:990#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.160:38388%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.183:38388%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.61:38388 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.59.107:990#@DeltaKroneckerGithub
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.147.210:2052?encryption=none&type=ws&security=none&path=%2F&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.38.169:443#@DeltaKroneckerGithub
+trojan://WF42809561@touching-pigeon.rooster465.autos:443?#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg0011993za.cybervena.com:50099#@DeltaKroneckerGithub
+trojan://bpb-trojan@wing2452.nyc.mn:443?security=tls&sni=wing2452.nyc.mn&type=ws&host=wing2452.nyc.mn&path=%2Ftr%3Fed%3D2560#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZDk3NDMzNjg4ZTdlZmQ1@163.171.206.24:44233#@DeltaKroneckerGithub
+vless://8df8d701-38b4-5175-89ef-7447a1250e67@45.15.127.107:443?security=reality&encryption=none&pbk=3Q2wyMPpUbyfw7rmNxL25nnsNDmK9mHqcumAxYIGKVk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e3#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@45.154.206.192:989#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011305nw.cybervena.com:50099#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.91.249.22:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&sni=sni.111000.v6.navy&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.88:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.188:38388%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@ncmrcg0001797nk.cybervena.com:50099%20 #@DeltaKroneckerGithub
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg007116sfa.cybervena.com:50099#@DeltaKroneckerGithub
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@23.162.200.227:443?encryption=auto&security=tls&sni=23.162.200.227&allowInsecure=1&fp=chrome&type=ws&path=/linkvws&host=23.162.200.227#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6Qk5tQVhYeEFIWXBUUmR6dQ@217.30.10.18:9020%20 #@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443%20 #@DeltaKroneckerGithub
+vmess://eyJ2IjoiMiIsInBzIjoiQHYycmF5Y29uZmlnYW1pciA2MDQwIiwiYWRkIjoibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsInBvcnQiOjQ0MywiaWQiOiIxZWZmYWM0YS1jZGI4LTQ3MTctYTEwYy1kYTk3MjYzYzgwMmMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJhdXRvIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMifQ==```#%20t.me%2Frjsxrd
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@129.154.48.176:36355?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443 #@DeltaKroneckerGithub
+vmess://03fcc618-b93d-6796-6aed-8a38c975d581@23.162.200.227:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome&type=ws&path=/linkvws&host=vk.com#@DeltaKroneckerGithub
+trojan://WF42809561@62.112.222.76:443?allowInsecure=1&sni=top-goshawk.rooster465.autos#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:80#@DeltaKroneckerGithub
+trojan://WF42809561@evolving-kangaroo.rooster465.autos:443?security=tls&sni=evolving-kangaroo.rooster465.autos#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.200.162:989#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ==@217.30.10.18:9037#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.79.172:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
+trojan://T9BpZIVMNv@104.18.33.45:8443?sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd&allowInsecure=1#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@24.199.112.232:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.180.152.210:8881%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.70:9084 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679%20 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.193.159.21:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.84.102.54:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06QUF2bytCc2dwdnZSNWxKc2RRVTMydnJNWEw3WkFiWkpaZkVUQjdiZGRoUT0=@64.49.45.246:14630#@DeltaKroneckerGithub
+trojan://WF42809561@prompt-duckling.rooster465.autos:443?sni=prompt-duckling.rooster465.autos#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.211.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram🇨🇳+@wangcai2#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.164:8080#@DeltaKroneckerGithub
+vless://636de463-b509-4631-adc6-400b21733278@172.67.137.47:2086/?type=ws&encryption=none&flow=&host=index.harmony510.workers.dev&path=🔒 [By EbraSha] #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.208:38388%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.143:8080#@DeltaKroneckerGithub
+vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@141.101.120.219:443?encryption=none&security=tls&sni=blackshadow.dpdns.org&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=blackshadow.dpdns.org&path=%2F44.209.52.7-443#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.160:38388#@DeltaKroneckerGithub
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&type=tcp#@DeltaKroneckerGithub
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.146.28:443/?type=ws&encryption=none&flow=&host=terazhediii.info&path=%2Fsghiyws&security=tls&sni=terazhediii.info&allowInsecure=1#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZGYyYmU3YzZlZWYwZWQ2@38.54.29.130:11205#@DeltaKroneckerGithub
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@172.64.146.129:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK&type=ws#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiI0Ni4yMjUuNTQuNzUiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiMDY1NGQ2NGQtMDhiZi00M2U1LWFkNDQtMThhN2QxYThkNmY3IiwibmV0IjoidGNwIiwicGF0aCI6IlwvIiwicG9ydCI6IjEwNDEwIiwicHMiOiJcdWQ4M2NcdWRkZTlcdWQ4M2NcdWRkZWFbb3BlbnByb3h5bGlzdC5jb21dIHZtZXNzLURFIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://YWVzLTI1Ni1nY206bGRqbXdvTnFnUXFxYzQzag@149.102.132.184:80#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.34:38388#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw@144.126.145.77:443%20 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.181.227.82:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#@DeltaKroneckerGithub
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@104.21.72.233:80?encryption=none&host=tt.andishehparenting.com&path=%2F&security=none&type=ws#@DeltaKroneckerGithub
+vless://13ad36e6-c091-43f2-8505-47d868dd544c@ghj.ae1autumn.cc.cd:80?sni=ghj.ae1autumn.cc.cd&type=ws&headerType=none&host=ghj.ae1autumn.cc.cd&path=/XR8So0uqFVa3vY9ZbxgW4#@DeltaKroneckerGithub
+trojan://WF42809561@enormous-whippet.rooster465.autos:443?sni=enormous-whippet.rooster465.autos#@DeltaKroneckerGithub
+vless://394f6981-a782-4779-9a85-e6cf22935d93@84.17.37.19:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=hkg1.fromblancwithlove.com&type=tcp#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990%20 #@DeltaKroneckerGithub
+vless://8e7269cd-e5c0-48fa-970e-bc0e63c35d19@cfip.1323123.xyz:443?path=/?ed=2048&security=tls&encryption=none&host=fornewiranvpn6.fornewiranvpn6.workers.dev&fp=chrome&type=ws&sni=fornewiranvpn6.fornewiranvpn6.workers.dev#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiAiMTY1LjE1NC4xOTUuMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogIjk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAzNTAzNCwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgIm5hbWUiOiAiPj5Ab25lY2xpY2t2cG5rZXlzOjpUVzo6VFciLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWV9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ==@217.30.10.18:9032#@DeltaKroneckerGithub
+vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.146.68:443?encryption=none&type=ws&security=tls&path=/?ed=2048&host=do88.cmddo.ggff.net&fp=chrome&sni=do88.cmddo.ggff.net#@DeltaKroneckerGithub
+vless://d35db0ad-224c-4bf2-9ddc-f72eb26d3938@87.106.189.9:443?type=tcp&security=reality&pbk=h21nIjwib-HnJm4LOS6s80wmiAmib0WF2-qEe9qYg1M&fp=chrome&sni=yahoo.com&sid=2d05&spx=%2F#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.240:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.77:38388 #@DeltaKroneckerGithub
+vless://815c4c9c-c0b4-4577-923e-855091d25e49@174.136.205.68:443?&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&host=navi.bankrate.com&path=%2F#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.210:38388#@DeltaKroneckerGithub
+vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@172.66.44.211:443?encryption=none&type=ws&security=tls&path=%2Ftsghdws&host=octopusss4.com&fp=chrome&sni=octopusss4.com#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIxMDMuMTQzLjIzOC4xOTYiLCJhaWQiOjAsImhvc3QiOiJ3d3cuY2xvdWRmbGFyZS5jb20iLCJpZCI6IjFlMWE2YjNiLTE0YjItNGFlNC05YWE5LTg4MGJhNWRmZjZmYSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzc3dzcyIsInBvcnQiOjIxODc5LCJwcyI6IkBEZWx0YUtyb25lY2tlckdpdGh1YiIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0=
+ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg@154.12.242.150:80 #@DeltaKroneckerGithub
+vless://f2a806c6-f36b-4cd9-8bb6-7addb218ad2d@178.173.250.59:443?encryption=none&path=%2F&security=none&type=ws#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNGU5MmY1Yy04MGQ1LTRjMDAtYjAyOC0xNjhmNzQ5M2MxOTc@uss.sudao888.xyz:51110#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiI0Ny4yNDMuMTM1Ljc0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjEzNzU5ODVlLTMzNGEtNGMyNS04ZjY0LTUyYTE4MmJjODAzNyIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6IlwvTm90aWZfQ2hhdCIsInBvcnQiOjU1MTg1LCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIiwibmFtZSI6Ij4+QGZseXYycmF5OjpISzo6SEs6OkhLOjpISzo6SEsiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==%20🔒 #🌐 [ Configs by DukeMehdi ] VM-XX
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.140:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.17.169:989%20 #@DeltaKroneckerGithub
+vless://22620697-6fba-4b71-a348-0cef2f7bec1e@vip2.kaixincloud.top:443?type=ws&encryption=none&host=do88.cmddo.ggff.net&path=%2F%3Fed%3D2048&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=do88.cmddo.ggff.net#@DeltaKroneckerGithub
+vless://237120d4-6f8e-47de-b50c-2c8218a720df@45.88.182.24:25380?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg&sid=d6cd&type=tcp&headerType=none&path=/#@DeltaKroneckerGithub
+vless://ffc1bcfa-4846-4bee-be26-5d7464f91e3d@104.18.32.47:443?allowInsecure=1&encryption=none&host=withered-hall-2564.alirezaisamazing.workers.dev&path=%2FeyJqdW5rIjoiSE9KRGd1NHFzQ2Y0Y08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&sni=WiTheReD-hAll-2564.AliREZAIsAmAzing.wOrKERS.deV&type=ws#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8080%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005969zt4.cybervena.com:50099#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.144:38388%20 #@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@173.244.56.6:443%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@217.30.10.18:9098#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.181:443%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.45:38388%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.28:38388%20 #@DeltaKroneckerGithub
+trojan://WF42809561@62.112.222.54:443?allowInsecure=1&sni=funky-platypus.rooster465.autos#@DeltaKroneckerGithub
+vless://e033ef6e-ab4b-47d4-a523-ff568d2c8dbb@45.82.245.37:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=TH8C9sgNuMRVR3o5QehXPgYw8PWjoHrH2rVQF4JWwGI&sni=tradingview.com#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.21.14.128:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+trojan://T9BpZIVMNv@141.101.121.127:8443?type=ws&security=tls&path=%2Famd&host=sweden.vmaxpanel.com&sni=sweden.vmaxpanel.com&fp=random&allowInsecure=1#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@ncmrcg000138e7b.cybervena.com:50099#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.48:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.109:38388%20 #@DeltaKroneckerGithub
+vless://22620697-6fba-4b71-a348-0cef2f7bec1e@172.64.147.52:443?encryption=none&type=ws&security=tls&path=/?ed=2048&host=do88.cmddo.ggff.net&fp=chrome&sni=do88.cmddo.ggff.net#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6MzUwMzQsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1UVyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJuYW1lIjoiPj5Ab25lY2xpY2t2cG5rZXlzOjpUVzo6VFciLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==%20🔒 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.229:38388%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388%20 #@DeltaKroneckerGithub
+vmess://ewogICAgImFkZCI6ICJuMTc2MTI5Njg4MC5saWU1ZC5jeW91IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAibjE3NjEyOTY4ODAubGllNWQuY3lvdSIsCiAgICAiaWQiOiAiMWVmZmFjNGEtY2RiOC00NzE3LWExMGMtZGE5NzI2M2M4MDJjIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4et8J+HsEhLLTQ3LjI0Mi4xMzguMTQxLTAzMTciLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IGZhbHNlLAogICAgInNuaSI6ICJuMTc2MTI5Njg4MC5saWU1ZC5jeW91Igp9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+vmess://eyJhZGQiOiJ6ZHFiay5jbXZ2Yi5vbmxpbmUiLCJhaWQiOiIwIiwiaG9zdCI6InpkcWJrLmNtdnZiLm9ubGluZSIsImlkIjoiMmExYmM2N2YtZGYzOS00ZDY3LTlkZjItODU5MGVmMTQxMWE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4NDQzIiwicHMiOiJARGVsdGFLcm9uZWNrZXJHaXRodWIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vless://f47b5d3c-4051-476d-8280-89b1125b4467@154.90.55.174:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=aws.amazon.com&pbk=wimys8nxAefdZ0dEMJ8v7R8sMjQ2Y-hX6H_p7uQPPDo&fp=chrome#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@ncmrcg000138e7b.cybervena.com:50099#@DeltaKroneckerGithub
+vless://14a5c48e-fa5f-4682-ab40-a32507f9277d@5.199.166.146:443?encryption=none&flow=xtls-rprx-vision&security=reality&type=tcp&fp=chrome&pbk=HjQ-EEpOa7ietuoKKEGDtWAcNduZE9iHG6Tc9-ZGTFg&sni=m.vk.ru#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg001244wfw.cybervena.com:50099#@DeltaKroneckerGithub
+trojan://7522e2c27233459aab8d0f1d715828d0@185.151.146.211:443?security=tls&sni=www.gpt123.one#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.180.59:443?path=/?ed=2560&Telegram🎖@AliXTso&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+vless://12eac926-c4ec-4040-8fb8-f316e9fc0fd6@206.189.249.182:19001?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=S-g0oP36DShii1uPOnZDSEhp_wQghX6h68PgMivOmD4&security=reality&sni=www.speedtest.net&type=tcp#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.56.69:989#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiI0NS45Mi43MC4yMzYiLCJhaWQiOiIwIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ0Y3AiLCJwb3J0IjoiMjIzMjQiLCJwcyI6Ilx1ZDgzY1x1ZGRlZVx1ZDgzY1x1ZGRmOSBKb2luK1RlbGVncmFtOkBGYXJhaF9WUE4gXHVkODNjXHVkZGVlXHVkODNjXHVkZGY5Iiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aSw@144.126.145.77:80#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.147:38388%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.164:8080#@DeltaKroneckerGithub
+vless://558dc0ac-8907-4485-817b-9479a1222e5b@82.202.159.239:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=tradingview.com&pbk=EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4&sid=c76ba2c2fb172e8b#@DeltaKroneckerGithub
+vless://f2083aa4-f27d-43da-81cf-8bab31730400@172.67.173.17:80?encryption=none&type=ws&security=none&host=germany.vipserver14.workers.dev#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@nbmrcg003449jp6.cybervena.com:50099#@DeltaKroneckerGithub
+vless://7d51e3fe-a49a-4245-83b6-98a0346cdd09@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#@DeltaKroneckerGithub
+vless://d1cf1e53-98dd-4fb4-a7bf-8a439f06df12@185.5.38.111:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.hollywoodreporter.com&fp=chrome&security=reality&pbk=NiZvpTYGynbH6RueETAVgkj2XfxoIPiNNoZtQfpQPj8&sid=5506315e3dbb#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.110.110.167:2053?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
+vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=/&security=none&type=ws#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.70:9011%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.111:38388%20 #@DeltaKroneckerGithub
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIiIsDQogICJhZGQiOiAiMTcyLjIzMy4yMjkuOTEiLA0KICAicG9ydCI6ICIxNDEwMiIsDQogICJpZCI6ICIyN2JhODdmYy01ODNmLTQ3NjMtOTA2MC04M2NmMGI5MjY0ZGIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=``` # 🔒 [By EbraSha]
+vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#%F0%9F%95%8A%EF%B8%8F68@oneclickvpnkeysvless://5db4fb64-d99f-4745-b550-9e937bd2f448@172.66.202.57:443?allowInsecure=1&encryption=none&host=steep-poetry-829c.false-mossy-caucus.workers.dev&path=%2F&security=tls&sni=steep-poetry-829c.false-mossy-caucus.workers.dev&type=ws#%F0%9F%95%8A%EF%B8%8F69@oneclickvpnkeysvless://1f0a8364-ae34-07d0-b999-34a723111ebd@85.239.38.213:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%95%8A%EF%B8%8F70@oneclickvpnkeysvless://3d737761-5951-462e-86c1-ff921d9f9999@cdn-cz-cf.barryvpn.com:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tZ-tscsitfHIe63_9FAqruCnJaNFhRaKCnR8G-e4-CM&security=reality&sid=ae&sni=images.apple.com&type=tcp#%F0%9F%95%8A%EF%B8%8F71@oneclickvpnkeysvless://1f0a8364-ae34-07d0-b999-34a723111ebd@45.10.43.86:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%95%8A%EF%B8%8F72@oneclickvpnkeysvless://1f0a8364-ae34-07d0-b999-34a723111ebd@103.88.241.237:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%95%8A%EF%B8%8F73@oneclickvpnkeysvless://1f0a8364-ae34-07d0-b999-34a723111ebd@72.56.13.139:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#%F0%9F%95%8A%EF%B8%8F74@oneclickvpnkeysvless://1f0a8364-ae34-07d0-b999-34a723111ebd@72.56.12.195:52006?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&security=reality&sid=d8c6b58bcbb0c323&sni=max.ru&type=tcp#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@169.150.242.77:990%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YjQ3NjNlZmVmYTk1MTE0@135.125.10.106:10018#@DeltaKroneckerGithub
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIxNjIuMTkuMjQ4LjIzOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlZGUyN2E3OS1iMDM5LTQ5MGItOTMyYy00OTVkZTRiNjg4ODAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU1MCIsInBzIjoiPj5AY29uZmlnVjJyYXlORzo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+vless://79149019-5abe-46f9-91ae-e1e7d1d2c408@dns.dressforida.monster:443?type=tcp&security=reality&sni=www.techradar.com&fp=chrome&flow=xtls-rprx-vision&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=174c6cf22e22#@DeltaKroneckerGithub
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.38.225.184:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.248.145.216:443?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUjVXZzMyWHpFZ0NYazRNUENndmQxRzFUczhXSEJMc1hNVWFxTWE1RFVYTXVxTW1kWmdDYk1pcFhEaG9BbWo3M3FBOW9ZODV6WEszNUw1bTYzMVRuN2luMnAzS0xiV0Y@46.249.109.128:56594#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001269pz2.cybervena.com:50099%20 #@DeltaKroneckerGithub
+vmess://eyJhZGQiOiAiMTYyLjE5LjI0OC4yMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImVkZTI3YTc5LWIwMzktNDkwYi05MzJjLTQ5NWRlNGI2ODg4MCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDU1MCwgInBzIjogIlx1ZDgzZFx1ZGQyNUpvaW4rVGVsZWdyYW06QEZhcmFoX1ZQTlx1ZDgzZFx1ZGZlMyIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICJub25lIiwgInYiOiAiMiIsICJuYW1lIjogIj4-QGNvbmZpZ1YycmF5Tkc6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REUifQ==%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011606bh.cybervena.com:50099%20 #@DeltaKroneckerGithub
+vless://fc625795-792d-4d9d-9d38-bffe59467d2d@104.18.15.201:2096?encryption=none&type=ws&security=tls&host=daluan.eu.org&sni=daluan.eu.org#@DeltaKroneckerGithub
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@172.64.229.185:443?sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev&path=%2Fhot%2Fproxyip%3D45.196.239.151%2C167.253.153.161%2C45.196.239.238%2C45.196.238.248%2C45.196.238.145%2C223.165.4.57%2C85.237.207.19%2C167.253.153.80&allowInsecure=1#@DeltaKroneckerGithub
+vless://0d6b5af6-17df-4bb1-af76-e524f00602a5@172.232.248.242:2321?encryption=none&security=none&type=tcp#@DeltaKroneckerGithub
+vless://5d950f22-a120-42c3-86f8-8ee81bfa08c9@172.67.134.216:443?allowInsecure=1&encryption=none&host=nnet.online&path=%2Fvless-tls&security=tls&sni=VPN.NNET.Online&type=ws#@DeltaKroneckerGithub
+vless://f783cfe0-21e5-1f40-8e33-8ce10ac0d7af@89.208.229.197:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=ads.x5.ru&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6RVhOM1MzZVFwakU3RUp1OA@217.30.10.18:9027%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.235:38388%20 #@DeltaKroneckerGithub
+vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@v2ray.codefyinc.com:443?encryption=auto&host=v2ray.codefyinc.com&path=/vmessws&security=none&type=ws#@DeltaKroneckerGithub
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.98.134:443?path=/yraL4HRbwB8cMc0F?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.153.59.106:80?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@61.224.77.41:50099#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990%20 #@DeltaKroneckerGithub
+vless://388a6c57-87e7-420b-afe2-b3eb670fd7da@104.17.145.59:80?encryption=none&host=vip.yaml7.ggff.net&path=%2F&security=none&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.198.82.151:443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
+vless://1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63@172.64.146.129:443?type=ws&encryption=none&host=terazhediii.info&path=/sghiyws&security=tls&sni=terazhediii.info&allowInsecure=1#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.104:38388%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.68:38388#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.75.24.59:8443?allowInsecure=1&encryption=none&host=sni.111000.v6.navy&path=/?Telegram🇨🇳+@WangCai2=&security=tls&sni=sni.111000.v6.navy&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.5.191:2096?encryption=none&security=tls&sni=sni.my111000.tech&insecure=0&allowInsecure=0&type=ws&host=sni.my111000.tech&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.250.107:990%20 #@DeltaKroneckerGithub
+trojan://WF42809561@fun-seagull.rooster465.autos:443?security=tls&type=tcp&headerType=none#@DeltaKroneckerGithub
+trojan://WF42809561@prepared-turkey.rooster465.autos:443?sni=prepared-turkey.rooster465.autos#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIxNzIuNjcuMTk3LjI1MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMXF3LmFlMWF1dHVtbi5jYy5jZCIsImlkIjoiMTNhZDM2ZTYtYzA5MS00M2YyLTg1MDUtNDdkODY4ZGQ1NDRjIiwibmFtZSI6IlZNLTEyMDQtMDYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvWXNtUm91QTlaYnhnVzQiLCJwb3J0Ijo4MCwicHMiOiJARGVsdGFLcm9uZWNrZXJHaXRodWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://trojan@46.17.97.105:55443?fp=chrome&host=jflsjlaf.pages.dev&path=%2F&sni=jflsjlaf.pages.dev&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.127:443?security=tls&type=ws&path=/?ed=2560&Telegram🇨🇳+@WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.18:9064#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.82:38388 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.191:2096?security=tls&type=ws&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F&host=sni.my111000.tech&sni=sni.my111000.tech&fp=chrome#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.60.250.107:990%20 #@DeltaKroneckerGithub
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?encryption=none&security=none&type=grpc#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.70:9005%20 #@DeltaKroneckerGithub
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.80:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyVnJUbnNRcnZmSmhTeFd3Ukd0U1VrNDNUOEJMM005WFU2QVlzc0pLelNiVDZMcjJwYUh2cVdBeGNZV0haMjQzdkVxYzFmU1RNa1diUDZWcVVCYkZFVktlWDVwVnYxQ1U@185.5.38.111:55988#@DeltaKroneckerGithub
+vless://66c890af-a981-000a-a516-51990db68503@89.208.222.119:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=5post-gate.x5.ru&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.149.238.88:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#@DeltaKroneckerGithub
+vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@185.227.137.73:443?security=reality&flow=xtls-rprx-vision&sni=tr.fasti.win&type=tcp&fp=chrome&pbk=CL1sSD1RH6k_68fMSltXd2-GhJQ-CX02VSBryK6rjmo&sid=12393b8b177a063d#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.1.230:990%20 #@DeltaKroneckerGithub
+vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lOSAxMjguNk1CL3MiLCJhZGQiOiIxNzIuMjMzLjIyOS45MSIsInBvcnQiOiIxNDEwMiIsImlkIjoiMjdiYTg3ZmMtNTgzZi00NzYzLTkwNjAtODNjZjBiOTI2NGRiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidGVzdF9uYW1lIjoiOSJ9%20 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.150:38388#@DeltaKroneckerGithub
+vmess://8c5d150c-b046-4440-8230-e84506a065a3@43.100.32.6:443?security=tls&sni=n1747624267.4u9ma.icu&type=ws&host=n1747624267.4u9ma.icu&path=/&packetEncoding=xudp#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiJuMTc1MzM1NjM2MS5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiJuMTc1MzM1NjM2MS5saWU1ZC5jeW91IiwiaWQiOiJjZGZkOTc4Ny1kYWM4LTRjMWUtOWFlNS0xMDRlMjNhOWQ5OTQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZFx1ZDgzY1x1ZGRmMFtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSEsiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=%20🔒 #🌐 [ Configs by DukeMehdi ] VM-XX
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.42:443?path=%2F%3FJoin-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-Join-V2rayTun0-%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkFkOGJCbkNHVE5HY1Z1YzhUUVV3aTJzS011SDNBN0tUb2U1R05mTFV2ejI4NXpuZHlQWUI4cEZiamdpamthbkxYZFBYTmsyUXZTTFV5VDRaUUdHaEZ5eEFMRlNrWnU@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.117.245.58:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#@DeltaKroneckerGithub
+trojan://WF42809561@vast-werewolf.rooster465.autos:443?sni=vast-werewolf.rooster465.autos#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#@DeltaKroneckerGithub
+trojan://WF42809561@pumped-frog.rooster465.autos:443?sni=pumped-frog.rooster465.autos#@DeltaKroneckerGithub
+trojan://WF42809561@eternal-serval.rooster465.autos:443?sni=eternal-serval.rooster465.autos#@DeltaKroneckerGithub
+vless://2e4bd31c-85dc-453d-a4cb-b9c6e348e70d@178.250.246.103:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=max.ru%3A443&pbk=D5ttWzeUeEo0oKchjhHGY7Z8jFrAB-BOz6kdQpCrZg0#@DeltaKroneckerGithub
+trojan://T9BpZIVMNv@104.21.224.5:8443?sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd&allowInsecure=1#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.110.87.114:8443/?type=ws&encryption=none&flow=&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.dynv6.net#@DeltaKroneckerGithub
+vless://256c5f48-4908-4255-83d1-c86cb58f22b4@185.171.202.38:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&security=reality&sid=9c2378562188c3cb&sni=fr.denditop.site&type=tcp#@DeltaKroneckerGithub
+vless://6f623839-1e6f-36ea-aa5b-5a8d9aa16fcd@185.130.225.215:48004?security=reality&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&pbk=J5-ZvlY9EUESyDK6jv2gRkPLKw-HULy8bJU58o_Blmw&sid=1fbcfafa80e45b24#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.223:38388%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.2.182:990%20 #@DeltaKroneckerGithub
+vless://53f0bca8-f170-4ef7-8031-c7d441189dbf@104.21.224.5:443?allowInsecure=1&encryption=none&host=639073677259599430.civic-perma.info&path=%2Fcahttingws&security=tls&sni=639073677259599430.civic-perma.info&type=ws#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@144.24.83.227:4443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990%20 #@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.245.53.232:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k=@46.249.109.128:56594#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@64.44.177.238:10010?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443%20 #@DeltaKroneckerGithub
+vless://8b575b35-3c7c-42b0-ac80-2aa6b0d7717c@90.156.255.198:51114?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=lf7NJGZAcj3b-YdbsmD6oEISr0dZRjp_gM8ZhLHwb0U&sid=772e&spx=%2F&type=tcp&headerType=none#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.42:8443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=sni.111000.dynv6.net&sni=sni.111000.dynv6.net&fp=chrome#@DeltaKroneckerGithub
+vless://6fb65356-788e-4118-8280-148ec6eca18a@104.18.95.98:443?&security=tls&fp=random&sni=xn--cz8h.pages.dev&type=ws&headerType=none&host=xn--cz8h.pages.dev&path=pyip%3Dproxyip.cmliussss.net#@DeltaKroneckerGithub
+vless://26524cce-d514-4014-a426-365fb266a14d@104.18.9.122:2053?encryption=none&type=ws&security=tls&path=/danfeng?ed=2560&host=zu7rz41bbfz4.chinav.indevs.in&fp=chrome&sni=zu7rz41bbfz4.chinav.indevs.in#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.5:38388%20 #@DeltaKroneckerGithub
+vmess://eyJhZGQiOiIyMDkuMTI2Ljg0LjE4OSIsImFpZCI6IjAiLCJob3N0IjoiMjA5LjEyNi44NC4xODkiLCJpZCI6IjJjOTgxMTY0LTliOTMtNGJjYS05NGZmLWI3OGQzZjg0OThkNyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzc3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==```
+vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@v2.dabache.top:80?type=ws&encryption=none&host=tt.andishehparenting.com&path=%2F&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome&insecure=1#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@134.209.30.166:443?path=/?ed=2560&Telegram🎖@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@172.64.147.209:443?security=tls&sni=cm22-bgphhh.pages.dev&type=ws&host=cm22-bgphhh.pages.dev#@DeltaKroneckerGithub
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@104.16.250.22:443?security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Ftixvuws&fp=chrome#@DeltaKroneckerGithub
+vless://41d576fb-a9a2-4c57-bb32-73427cd3d31a@77.42.67.4:47141?security=reality&encryption=none&pbk=9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=f4fa9f410d7134ea#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZTHBETXdvTFppOUR2a3I3UTZQQ2Zrd0NLSnQyM01raEQxTEhEam5LVmpTMVI5WjRkRDl2WTVGZmZ1WUN0RFZjU3pISkxkaWNaYm00RGg2cDhOc2Q1ZDg4Z3pBV1lyUVk%3D@mx2.drawnrisha.one:55988#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.56.99.255:56789/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#@DeltaKroneckerGithub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443%20 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.109:38388#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.54.29.82:9090#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.66:38388 #@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@n8mrcg005988a7z.cybervena.com:50099#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.3.157:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.143:38388%20 #@DeltaKroneckerGithub
+vless://6245c3d6-348f-44a4-f18b-9d13168a3425@38.207.190.137:50513?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=BL4bEP5My8N4j8hOkg-lI-JVrFou4eC7nSzD6Gk19DU&security=reality&sid=79394c306dd3&sni=ts3.tc.mm.bing.net&type=tcp#@DeltaKroneckerGithub
+vless://94daa8ad-75ed-4dbf-a6de-d05036d98df5@172.64.147.137:443?security=tls&sni=vangoghhh.info&type=ws&host=vangoghhh.info&path=%2Ftixvuws&fp=chrome#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6RExtZVdSc2ZjRmRLVDFUcHkwMnhvZEVUb3FDbGRUeHZaY1JvUElaWnRCZG5JRUw@89.44.197.181:31348%20 #@DeltaKroneckerGithub
+vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?packetEncoding=xudp#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiAiMTYyLjE5LjI0OC4yMzgiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImVkZTI3YTc5LWIwMzktNDkwYi05MzJjLTQ5NWRlNGI2ODg4MCIsICJpbnNlY3VyZSI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDU1MCwgInBzIjogIkBjaGlsbGd1eV92cG4iLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAibmFtZSI6ICI+PkBjb25maWdWMnJheU5HOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpYWDo6WFg6OlhYOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFOjpERTo6REU6OkRFIn0=🤯 Get 1 year premium VPN (100 tokens) for just $0.03 👉 @vpnfail_bot#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@203.23.128.33:989#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.183.245:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#@DeltaKroneckerGithub
+vmess://eyJhZGQiOiJoa3QuZ290b2NoaW5hdG93bi5uZXQiLCJhaWQiOjIsImhvc3QiOiIiLCJpZCI6IjBkZTM3Y2RjLWFiZmYtMTFlZi1iN2M2LWYyM2M5MTNjOGQyYiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IkBEZWx0YUtyb25lY2tlckdpdGh1YiIsInNjeSI6ImF1dG8iLCJzZXJ2aWNlTmFtZSI6IiIsInNuaSI6ImhrdC5nb3RvY2hpbmF0b3duLm5ldCIsInRscyI6IiIsInYiOiIyIn0=
+vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#%F0%9F%90%BB69@oneclickvpnkeystrojan://humanity@185.18.250.245:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#@DeltaKroneckerGithub
+vless://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNTA1ZWQ5YTJlZDM4NDZj@212.56.42.201:29604#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.163.218.2:989%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.159.100:990#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.224.0:443?allowInsecure=1&encryption=none&host=holy-dawn-e9ec.jonas05-ba6.workers.dev&path=%2Fsni.111000.dynv6.net%2F&security=tls&sni=holy-dawn-e9ec.jonas05-ba6.workers.dev&type=ws#@DeltaKroneckerGithub
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@cloudflare.182682.xyz:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=lucky-voice-d6f3.difat89954-0c6.workers.dev&type=ws#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@79.127.233.170:989%20 #@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSRkszOENnN0FQbmVTQjVjV0RjcGJt@switcher-nick-croquet.freesocks.work:443#@DeltaKroneckerGithub
+vless://9c79aceb-4649-44ea-9698-b5e9ecf6d6da@156.229.161.107:10001?&security=reality&flow=xtls-rprx-vision&pbk=4jNz4Bw-FZlaX-WtfAdwK0hegY28W_k8AttGd-7hZn4&sid=fb2c6678&fp=chrome&sni=www.icloud.com&type=tcp&headerType=none&host=www.icloud.com&path=%2F#@DeltaKroneckerGithub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ=@r3mrcg0011499tl.cybervena.com:50099#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.124.189.40:443?type=ws&security=tls&encryption=none&sni=sni.111000.v6.navy&host=sni.111000.v6.navy#@DeltaKroneckerGithub
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.46.237.158:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#@DeltaKroneckerGithub
+vless://a065e4b3-18f3-494d-b068-8afc5dc88e34@174.136.205.68:443?&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&sni=navi.bankrate.com&type=tcp&headerType=none&host=navi.bankrate.com&path=%2F#@DeltaKroneckerGithub
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bXRNa3ArMUZ0dGtTTG1ET0Y5YmxuTk1MaWdjQ1JhY3ByUVMzcnkwbmYzbz06QUF2bytCc2dwdnZSNWxKc2RRVTMydnJNWEw3WkFiWkpaZkVUQjdiZGRoUT0@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:14628#@DeltaKroneckerGithub
+trojan://WF42809561@saving-octopus.rooster465.autos:443?sni=saving-octopus.rooster465.autos#@DeltaKroneckerGithub
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.197:38388%20 #@DeltaKroneckerGithub

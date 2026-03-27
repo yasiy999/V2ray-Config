@@ -122,22 +122,6 @@ dns:
 proxies:
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "130.61.50.75"
-    port: 6443
-    password: "zhangyang"
-    sni: "130.61.50.75"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
-    server: "144.31.224.14"
-    port: 443
-    password: "123456789StrongPass"
-    sni: "www.cloudflare.com"
-    skip-cert-verify: true
-    udp: true
-  - name: "@DeltaKroneckerGithub"
-    type: hysteria2
     server: "jp1.xn--mesx36n.com"
     port: 23001
     password: "1fe714a1-d35e-4fb4-b3c7-6037eeef2cfc"
@@ -146,10 +130,10 @@ proxies:
     udp: true
   - name: "@DeltaKroneckerGithub"
     type: hysteria2
-    server: "38.165.21.126"
-    port: 29794
-    password: "fGIvSUXOYn7WYPNAc2PmjYuIKbw"
-    sni: "bing.com"
+    server: "144.31.118.145"
+    port: 1935
+    password: "hysteria2_fastlane_bi5ckyc9g:6xXOTBmadP61nZ27MJH90ahkRhXVAe9H"
+    sni: "de8.h.fastlanehosting.ru"
     skip-cert-verify: true
     udp: true
 
@@ -172,8 +156,6 @@ proxy-groups:
     proxies:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
 
   - name: "Auto"
     type: url-test
@@ -184,8 +166,6 @@ proxy-groups:
     proxies:
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
 
   - name: "Fallback"
     type: fallback
@@ -193,8 +173,6 @@ proxy-groups:
     interval: 60
     lazy: true
     proxies:
-      - "@DeltaKroneckerGithub"
-      - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
       - "@DeltaKroneckerGithub"
 
